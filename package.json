@@ -1,0 +1,57 @@
+{
+  "name": "tamagui-phosphor-icons",
+  "version": "0.1.2",
+  "types": "./types/index",
+  "main": "dist/cjs",
+  "module": "dist/esm",
+  "module:jsx": "dist/jsx",
+  "files": [
+    "types",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tamagui-build",
+    "watch": "tamagui-build --watch",
+    "clean": "tamagui-build clean",
+    "clean:build": "tamagui-build clean:build",
+    "prettier": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\"",
+    "prettier-fix": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
+    "generate": "node ./bin/build"
+  },
+  "dependencies": {
+    "@tamagui/core": "^1.0.4"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "react-native-svg": ">=12"
+  },
+  "importSort": {
+    ".js, .jsx, .ts, .tsx": {
+      "style": "module",
+      "parser": "typescript"
+    }
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "18.0.9",
+    "@tamagui/build": "^1.0.4",
+    "camelcase": "^6.0.0",
+    "cheerio": "^1.0.0-rc.5",
+    "eslint": "^8.32.0",
+    "glob": "^7.1.6",
+    "import-sort-style-module": "^6.0.0",
+    "lucide-static": "^0.91.0",
+    "prettier": "^2.8.1",
+    "prettier-plugin-import-sort": "^0.0.7",
+    "prop-types": "^15.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native-svg": "13.4.0",
+    "uppercamelcase": "^3.0.0",
+    "rimraf": "^4.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
