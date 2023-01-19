@@ -33,8 +33,8 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Circle cx="208" cy="160" r="40" opacity="0.2" />
-      <_Circle cx="48" cy="160" r="40" opacity="0.2" />
+      <_Circle cx="208" cy="160" r="40" opacity="0.2" fill={`${color}`} />
+      <_Circle cx="48" cy="160" r="40" opacity="0.2" fill={`${color}`} />
       <_Path
         d="M208,80a16,16,0,0,0-16-16H152l56,96"
         fill="none"

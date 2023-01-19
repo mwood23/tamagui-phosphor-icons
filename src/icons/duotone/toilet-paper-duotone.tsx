@@ -34,7 +34,7 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Ellipse cx="64" cy="120" rx="40" ry="80" opacity="0.2" />
-      <_Circle cx="64" cy="120" r="12" />
+      <_Circle cx="64" cy="120" r="12" fill={`${color}`} />
       <_Ellipse
         cx="64"
         cy="120"

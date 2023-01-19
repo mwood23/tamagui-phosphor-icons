@@ -33,7 +33,7 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Circle cx="128" cy="128" r="104" />
+      <_Circle cx="128" cy="128" r="104" fill={`${color}`} />
     </_Svg>
   )
 }

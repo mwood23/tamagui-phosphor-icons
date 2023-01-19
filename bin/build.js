@@ -71,6 +71,14 @@ icons.forEach((i) => {
         $(el).attr('fillSvg', 'fillSvg')
       }
     }
+
+    /**
+     * If a circle has a stroke, we need to respect that (e.x. eye). Phosphor does not add
+     * fill for icons that need it like warning-circle so we append and attribute to replace.
+     */
+    if (el.name === 'circle' && $(el).attr('stroke') == null) {
+      $(el).attr('fillSvg', 'fillSvg')
+    }
   })
 
   const cname = uppercamelcase(id)
@@ -114,7 +122,7 @@ icons.forEach((i) => {
             .replace('widthSvg="widthSvg"', 'width={size}')
             .replace('heightSvg="heightSvg"', 'height={size}')
             .replace('otherProps="..."', '{...otherProps}')
-            .replace('fillSvg="fillSvg"', 'fill={`${color}`}')
+            .replace(/fillSvg="fillSvg"/g, 'fill={`${color}`}')
             .replace('<svg', '<_Svg')
             .replace('</svg', '</_Svg')
             .replace(new RegExp('<circle', 'g'), '<_Circle')

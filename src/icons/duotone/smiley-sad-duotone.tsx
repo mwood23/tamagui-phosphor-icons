@@ -33,7 +33,7 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Circle cx="128" cy="128" r="96" opacity="0.2" />
+      <_Circle cx="128" cy="128" r="96" opacity="0.2" fill={`${color}`} />
       <_Circle
         cx="128"
         cy="128"
@@ -43,10 +43,10 @@ const Icon = (props: IconProps) => {
         strokeMiterlimit="10"
         strokeWidth="16"
       />
-      <_Circle cx="92" cy="108" r="12" />
-      <_Circle cx="164" cy="108" r="12" />
-      <_Circle cx="92" cy="108" r="12" />
-      <_Circle cx="164" cy="108" r="12" />
+      <_Circle cx="92" cy="108" r="12" fill={`${color}`} />
+      <_Circle cx="164" cy="108" r="12" fill={`${color}`} />
+      <_Circle cx="92" cy="108" r="12" fill={`${color}`} />
+      <_Circle cx="164" cy="108" r="12" fill={`${color}`} />
       <_Path
         d="M169.6,176a48.1,48.1,0,0,0-83.2,0"
         fill="none"

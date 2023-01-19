@@ -37,10 +37,10 @@ const Icon = (props: IconProps) => {
         d="M184,72,55.3,93.4A8,8,0,0,0,51,107l98,98a8,8,0,0,0,13.6-4.3Z"
         opacity="0.2"
       />
-      <_Circle cx="60" cy="228" r="12" />
-      <_Circle cx="88" cy="200" r="12" />
-      <_Circle cx="28" cy="196" r="12" />
-      <_Circle cx="56" cy="168" r="12" />
+      <_Circle cx="60" cy="228" r="12" fill={`${color}`} />
+      <_Circle cx="88" cy="200" r="12" fill={`${color}`} />
+      <_Circle cx="28" cy="196" r="12" fill={`${color}`} />
+      <_Circle cx="56" cy="168" r="12" fill={`${color}`} />
       <_Path
         d="M248,40H219.3a7.9,7.9,0,0,0-5.6,2.3L184,72,55.3,93.4A8,8,0,0,0,51,107l98,98a8,8,0,0,0,13.6-4.3L184,72"
         fill="none"

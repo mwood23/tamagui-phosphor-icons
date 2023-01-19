@@ -35,8 +35,8 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="12"
       />
-      <_Circle cx="100" cy="108" r="10" />
-      <_Circle cx="156" cy="108" r="10" />
+      <_Circle cx="100" cy="108" r="10" fill={`${color}`} />
+      <_Circle cx="156" cy="108" r="10" fill={`${color}`} />
       <_Polyline
         points="160 144 128 160 96 144"
         fill="none"

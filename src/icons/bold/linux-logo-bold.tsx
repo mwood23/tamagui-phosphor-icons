@@ -27,8 +27,8 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Circle cx="104" cy="112" r="16" />
-      <_Circle cx="152" cy="112" r="16" />
+      <_Circle cx="104" cy="112" r="16" fill={`${color}`} />
+      <_Circle cx="152" cy="112" r="16" fill={`${color}`} />
       <_Polyline
         points="156 152 128 164 100 152"
         fill="none"

@@ -27,15 +27,15 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Circle cx="60" cy="60" r="16" />
-      <_Circle cx="128" cy="60" r="16" />
-      <_Circle cx="196" cy="60" r="16" />
-      <_Circle cx="60" cy="128" r="16" />
-      <_Circle cx="128" cy="128" r="16" />
-      <_Circle cx="196" cy="128" r="16" />
-      <_Circle cx="60" cy="196" r="16" />
-      <_Circle cx="128" cy="196" r="16" />
-      <_Circle cx="196" cy="196" r="16" />
+      <_Circle cx="60" cy="60" r="16" fill={`${color}`} />
+      <_Circle cx="128" cy="60" r="16" fill={`${color}`} />
+      <_Circle cx="196" cy="60" r="16" fill={`${color}`} />
+      <_Circle cx="60" cy="128" r="16" fill={`${color}`} />
+      <_Circle cx="128" cy="128" r="16" fill={`${color}`} />
+      <_Circle cx="196" cy="128" r="16" fill={`${color}`} />
+      <_Circle cx="60" cy="196" r="16" fill={`${color}`} />
+      <_Circle cx="128" cy="196" r="16" fill={`${color}`} />
+      <_Circle cx="196" cy="196" r="16" fill={`${color}`} />
     </_Svg>
   )
 }

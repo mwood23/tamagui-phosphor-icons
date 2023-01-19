@@ -37,7 +37,7 @@ const Icon = (props: IconProps) => {
         d="M208,96v24a96,96,0,0,1-96,96H8L104,96V76A52,52,0,0,1,206.3,62.9L232,80Z"
         opacity="0.2"
       />
-      <_Circle cx="164" cy="68" r="12" />
+      <_Circle cx="164" cy="68" r="12" fill={`${color}`} />
       <_Line
         x1="120"
         y1="136"

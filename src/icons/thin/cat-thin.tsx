@@ -38,8 +38,8 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="8"
       />
-      <_Circle cx="84" cy="140" r="8" />
-      <_Circle cx="172" cy="140" r="8" />
+      <_Circle cx="84" cy="140" r="8" fill={`${color}`} />
+      <_Circle cx="172" cy="140" r="8" fill={`${color}`} />
       <_Line
         x1="128"
         y1="48"
