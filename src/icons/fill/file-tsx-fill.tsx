@@ -19,8 +19,8 @@ import {
   Use as _Use,
 } from 'react-native-svg'
 
-import { IconProps } from '../../IconProps'
 import { themed } from '../../themed'
+import { IconProps } from '../icons/IconProps'
 
 const Icon = (props: IconProps) => {
   const { color = 'black', size = 24, ...otherProps } = props

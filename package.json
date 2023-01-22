@@ -1,6 +1,6 @@
 {
   "name": "tamagui-phosphor-icons",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "types": "./types/index",
   "main": "dist/cjs",
   "module": "dist/esm",

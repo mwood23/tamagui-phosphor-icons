@@ -86,7 +86,7 @@ icons.forEach((i) => {
   const element = `
       import React, { memo } from 'react'
       import PropTypes from 'prop-types'
-      import { IconProps } from '../../IconProps'
+      import { IconProps } from '../icons/IconProps'
       import {
         Svg as _Svg,
         Circle as _Circle,
@@ -192,18 +192,17 @@ glob(`${regularIconsDirectory}/**.tsx`, (err, icons) => {
 
   fs.appendFileSync(
     path.join(rootDir, 'src', 'index.ts'),
-    `export * from './IconContext'
-export * from './IconProps'\n`,
+    `export * from './icons/icons/IconContext'
+export * from './icons/icons/IconProps'\n`,
     'utf-8',
   )
 
   icons.forEach((i) => {
     const id = path.basename(i, '.tsx').replace('-regular', '')
-    const fileName = `${id}.tsx`
+    const cname = uppercamelcase(id)
+    const fileName = `${cname}.tsx`
 
     const location = path.join(rootDir, 'src/icons/icons', fileName)
-
-    const cname = uppercamelcase(id)
 
     const element = `import { useContext } from 'react'
     import { ${cname}Regular } from '../regular/${id}-regular'
@@ -212,8 +211,8 @@ export * from './IconProps'\n`,
     import { ${cname}Fill } from '../fill/${id}-fill'
     import { ${cname}Light } from '../light/${id}-light'
     import { ${cname}Thin } from '../thin/${id}-thin'
-    import { IconProps } from '../../IconProps'
-    import { IconContext } from '../../IconContext'
+    import { IconProps } from './IconProps'
+    import { IconContext } from './IconContext'
 
     const weightMap = {
       regular: ${cname}Regular,
@@ -262,7 +261,7 @@ export * from './IconProps'\n`,
 
     fs.writeFileSync(location, component, 'utf-8')
 
-    const exportString = `export { ${cname} } from './icons/icons/${id}'\n`
+    const exportString = `export { ${cname} } from './icons/icons/${cname}'\n`
 
     fs.appendFileSync(
       path.join(rootDir, 'src', 'index.ts'),
