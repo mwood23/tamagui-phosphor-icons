@@ -2,6 +2,38 @@
 
 Phosphor icons ready for Tamagui. Universal by default.
 
+## Installation
+
+```
+npm install tamagui-phosphor-icons
+```
+
+### next.config.js
+
+If you are using Next please add these fields to your config:
+
+```js
+  /** @type {import('next').NextConfig} */
+  let config = {
+    transpilePackages: [
+      'solito',
+      'react-native-web',
+      'expo-linking',
+      'expo-constants',
+      'expo-modules-core',
+      // this line!!
+      'tamagui-phosphor-icons',
+    ],
+    // ...
+    modularizeImports: {
+      'tamagui-phosphor-icons': {
+        transform: 'tamagui-phosphor-icons/dist/jsx/icons/icons/{{member}}',
+        skipDefaultConversion: true,
+      },
+    },
+  }
+```
+
 ## Usage
 
 ```tsx
