@@ -19,12 +19,13 @@
     "generate": "node ./bin/build"
   },
   "dependencies": {
-    "@tamagui/core": "^1.0.4"
+
   },
   "peerDependencies": {
     "react": "*",
     "react-dom": "*",
-    "react-native-svg": ">=12"
+    "react-native-svg": ">=12",
+    "@tamagui/core": ">=1"
   },
   "importSort": {
     ".js, .jsx, .ts, .tsx": {
@@ -33,6 +34,7 @@
     }
   },
   "devDependencies": {
+    "@tamagui/core": "^1.0.4",
     "@types/react": "^18.0.26",
     "@types/react-dom": "18.0.9",
     "@tamagui/build": "^1.0.4",
