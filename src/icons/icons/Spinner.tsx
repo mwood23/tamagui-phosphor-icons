@@ -6,7 +6,7 @@ import { SpinnerFill } from '../fill/spinner-fill'
 import { SpinnerLight } from '../light/spinner-light'
 import { SpinnerRegular } from '../regular/spinner-regular'
 import { SpinnerThin } from '../thin/spinner-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

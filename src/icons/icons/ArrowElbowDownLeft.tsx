@@ -6,7 +6,7 @@ import { ArrowElbowDownLeftFill } from '../fill/arrow-elbow-down-left-fill'
 import { ArrowElbowDownLeftLight } from '../light/arrow-elbow-down-left-light'
 import { ArrowElbowDownLeftRegular } from '../regular/arrow-elbow-down-left-regular'
 import { ArrowElbowDownLeftThin } from '../thin/arrow-elbow-down-left-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

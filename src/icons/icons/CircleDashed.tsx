@@ -6,7 +6,7 @@ import { CircleDashedFill } from '../fill/circle-dashed-fill'
 import { CircleDashedLight } from '../light/circle-dashed-light'
 import { CircleDashedRegular } from '../regular/circle-dashed-regular'
 import { CircleDashedThin } from '../thin/circle-dashed-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

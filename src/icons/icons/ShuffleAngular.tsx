@@ -6,7 +6,7 @@ import { ShuffleAngularFill } from '../fill/shuffle-angular-fill'
 import { ShuffleAngularLight } from '../light/shuffle-angular-light'
 import { ShuffleAngularRegular } from '../regular/shuffle-angular-regular'
 import { ShuffleAngularThin } from '../thin/shuffle-angular-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

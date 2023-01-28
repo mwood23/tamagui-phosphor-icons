@@ -6,7 +6,7 @@ import { FileJpgFill } from '../fill/file-jpg-fill'
 import { FileJpgLight } from '../light/file-jpg-light'
 import { FileJpgRegular } from '../regular/file-jpg-regular'
 import { FileJpgThin } from '../thin/file-jpg-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

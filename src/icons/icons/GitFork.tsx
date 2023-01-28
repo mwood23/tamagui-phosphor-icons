@@ -6,7 +6,7 @@ import { GitForkFill } from '../fill/git-fork-fill'
 import { GitForkLight } from '../light/git-fork-light'
 import { GitForkRegular } from '../regular/git-fork-regular'
 import { GitForkThin } from '../thin/git-fork-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TextHThreeFill } from '../fill/text-h-three-fill'
 import { TextHThreeLight } from '../light/text-h-three-light'
 import { TextHThreeRegular } from '../regular/text-h-three-regular'
 import { TextHThreeThin } from '../thin/text-h-three-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

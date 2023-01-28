@@ -6,7 +6,7 @@ import { HandSoapFill } from '../fill/hand-soap-fill'
 import { HandSoapLight } from '../light/hand-soap-light'
 import { HandSoapRegular } from '../regular/hand-soap-regular'
 import { HandSoapThin } from '../thin/hand-soap-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TextStrikethroughFill } from '../fill/text-strikethrough-fill'
 import { TextStrikethroughLight } from '../light/text-strikethrough-light'
 import { TextStrikethroughRegular } from '../regular/text-strikethrough-regular'
 import { TextStrikethroughThin } from '../thin/text-strikethrough-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

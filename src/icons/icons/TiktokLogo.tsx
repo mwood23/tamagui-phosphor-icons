@@ -6,7 +6,7 @@ import { TiktokLogoFill } from '../fill/tiktok-logo-fill'
 import { TiktokLogoLight } from '../light/tiktok-logo-light'
 import { TiktokLogoRegular } from '../regular/tiktok-logo-regular'
 import { TiktokLogoThin } from '../thin/tiktok-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

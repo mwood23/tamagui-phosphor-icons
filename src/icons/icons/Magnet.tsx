@@ -6,7 +6,7 @@ import { MagnetFill } from '../fill/magnet-fill'
 import { MagnetLight } from '../light/magnet-light'
 import { MagnetRegular } from '../regular/magnet-regular'
 import { MagnetThin } from '../thin/magnet-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

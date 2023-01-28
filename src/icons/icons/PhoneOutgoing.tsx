@@ -6,7 +6,7 @@ import { PhoneOutgoingFill } from '../fill/phone-outgoing-fill'
 import { PhoneOutgoingLight } from '../light/phone-outgoing-light'
 import { PhoneOutgoingRegular } from '../regular/phone-outgoing-regular'
 import { PhoneOutgoingThin } from '../thin/phone-outgoing-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

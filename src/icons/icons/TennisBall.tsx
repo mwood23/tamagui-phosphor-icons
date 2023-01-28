@@ -6,7 +6,7 @@ import { TennisBallFill } from '../fill/tennis-ball-fill'
 import { TennisBallLight } from '../light/tennis-ball-light'
 import { TennisBallRegular } from '../regular/tennis-ball-regular'
 import { TennisBallThin } from '../thin/tennis-ball-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

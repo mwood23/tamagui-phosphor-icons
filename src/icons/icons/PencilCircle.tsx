@@ -6,7 +6,7 @@ import { PencilCircleFill } from '../fill/pencil-circle-fill'
 import { PencilCircleLight } from '../light/pencil-circle-light'
 import { PencilCircleRegular } from '../regular/pencil-circle-regular'
 import { PencilCircleThin } from '../thin/pencil-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

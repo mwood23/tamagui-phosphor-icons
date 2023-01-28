@@ -6,7 +6,7 @@ import { MarkerCircleFill } from '../fill/marker-circle-fill'
 import { MarkerCircleLight } from '../light/marker-circle-light'
 import { MarkerCircleRegular } from '../regular/marker-circle-regular'
 import { MarkerCircleThin } from '../thin/marker-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { StrategyFill } from '../fill/strategy-fill'
 import { StrategyLight } from '../light/strategy-light'
 import { StrategyRegular } from '../regular/strategy-regular'
 import { StrategyThin } from '../thin/strategy-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

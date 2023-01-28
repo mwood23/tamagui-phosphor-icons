@@ -6,7 +6,7 @@ import { LinkedinLogoFill } from '../fill/linkedin-logo-fill'
 import { LinkedinLogoLight } from '../light/linkedin-logo-light'
 import { LinkedinLogoRegular } from '../regular/linkedin-logo-regular'
 import { LinkedinLogoThin } from '../thin/linkedin-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

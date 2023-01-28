@@ -6,7 +6,7 @@ import { MicrosoftPowerpointLogoFill } from '../fill/microsoft-powerpoint-logo-f
 import { MicrosoftPowerpointLogoLight } from '../light/microsoft-powerpoint-logo-light'
 import { MicrosoftPowerpointLogoRegular } from '../regular/microsoft-powerpoint-logo-regular'
 import { MicrosoftPowerpointLogoThin } from '../thin/microsoft-powerpoint-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

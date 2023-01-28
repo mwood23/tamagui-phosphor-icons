@@ -6,7 +6,7 @@ import { LinkSimpleBreakFill } from '../fill/link-simple-break-fill'
 import { LinkSimpleBreakLight } from '../light/link-simple-break-light'
 import { LinkSimpleBreakRegular } from '../regular/link-simple-break-regular'
 import { LinkSimpleBreakThin } from '../thin/link-simple-break-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

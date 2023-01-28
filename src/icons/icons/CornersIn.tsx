@@ -6,7 +6,7 @@ import { CornersInFill } from '../fill/corners-in-fill'
 import { CornersInLight } from '../light/corners-in-light'
 import { CornersInRegular } from '../regular/corners-in-regular'
 import { CornersInThin } from '../thin/corners-in-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

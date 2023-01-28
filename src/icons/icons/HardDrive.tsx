@@ -6,7 +6,7 @@ import { HardDriveFill } from '../fill/hard-drive-fill'
 import { HardDriveLight } from '../light/hard-drive-light'
 import { HardDriveRegular } from '../regular/hard-drive-regular'
 import { HardDriveThin } from '../thin/hard-drive-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TreeFill } from '../fill/tree-fill'
 import { TreeLight } from '../light/tree-light'
 import { TreeRegular } from '../regular/tree-regular'
 import { TreeThin } from '../thin/tree-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

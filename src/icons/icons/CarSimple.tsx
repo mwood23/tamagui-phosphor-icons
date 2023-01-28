@@ -6,7 +6,7 @@ import { CarSimpleFill } from '../fill/car-simple-fill'
 import { CarSimpleLight } from '../light/car-simple-light'
 import { CarSimpleRegular } from '../regular/car-simple-regular'
 import { CarSimpleThin } from '../thin/car-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

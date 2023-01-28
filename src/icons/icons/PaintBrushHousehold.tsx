@@ -6,7 +6,7 @@ import { PaintBrushHouseholdFill } from '../fill/paint-brush-household-fill'
 import { PaintBrushHouseholdLight } from '../light/paint-brush-household-light'
 import { PaintBrushHouseholdRegular } from '../regular/paint-brush-household-regular'
 import { PaintBrushHouseholdThin } from '../thin/paint-brush-household-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

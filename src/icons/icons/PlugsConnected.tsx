@@ -6,7 +6,7 @@ import { PlugsConnectedFill } from '../fill/plugs-connected-fill'
 import { PlugsConnectedLight } from '../light/plugs-connected-light'
 import { PlugsConnectedRegular } from '../regular/plugs-connected-regular'
 import { PlugsConnectedThin } from '../thin/plugs-connected-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

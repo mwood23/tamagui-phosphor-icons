@@ -6,7 +6,7 @@ import { BluetoothFill } from '../fill/bluetooth-fill'
 import { BluetoothLight } from '../light/bluetooth-light'
 import { BluetoothRegular } from '../regular/bluetooth-regular'
 import { BluetoothThin } from '../thin/bluetooth-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

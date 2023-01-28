@@ -6,7 +6,7 @@ import { PokerChipFill } from '../fill/poker-chip-fill'
 import { PokerChipLight } from '../light/poker-chip-light'
 import { PokerChipRegular } from '../regular/poker-chip-regular'
 import { PokerChipThin } from '../thin/poker-chip-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

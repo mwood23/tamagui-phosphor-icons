@@ -6,7 +6,7 @@ import { CalendarBlankFill } from '../fill/calendar-blank-fill'
 import { CalendarBlankLight } from '../light/calendar-blank-light'
 import { CalendarBlankRegular } from '../regular/calendar-blank-regular'
 import { CalendarBlankThin } from '../thin/calendar-blank-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

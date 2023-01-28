@@ -6,7 +6,7 @@ import { SnowflakeFill } from '../fill/snowflake-fill'
 import { SnowflakeLight } from '../light/snowflake-light'
 import { SnowflakeRegular } from '../regular/snowflake-regular'
 import { SnowflakeThin } from '../thin/snowflake-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

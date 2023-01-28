@@ -6,7 +6,7 @@ import { CommandFill } from '../fill/command-fill'
 import { CommandLight } from '../light/command-light'
 import { CommandRegular } from '../regular/command-regular'
 import { CommandThin } from '../thin/command-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

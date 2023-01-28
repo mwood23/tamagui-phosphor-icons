@@ -6,7 +6,7 @@ import { CurrencyEthFill } from '../fill/currency-eth-fill'
 import { CurrencyEthLight } from '../light/currency-eth-light'
 import { CurrencyEthRegular } from '../regular/currency-eth-regular'
 import { CurrencyEthThin } from '../thin/currency-eth-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

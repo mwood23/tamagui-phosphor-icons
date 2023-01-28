@@ -6,7 +6,7 @@ import { BarcodeFill } from '../fill/barcode-fill'
 import { BarcodeLight } from '../light/barcode-light'
 import { BarcodeRegular } from '../regular/barcode-regular'
 import { BarcodeThin } from '../thin/barcode-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

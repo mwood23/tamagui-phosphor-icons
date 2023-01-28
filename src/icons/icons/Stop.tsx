@@ -6,7 +6,7 @@ import { StopFill } from '../fill/stop-fill'
 import { StopLight } from '../light/stop-light'
 import { StopRegular } from '../regular/stop-regular'
 import { StopThin } from '../thin/stop-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

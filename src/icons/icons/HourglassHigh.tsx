@@ -6,7 +6,7 @@ import { HourglassHighFill } from '../fill/hourglass-high-fill'
 import { HourglassHighLight } from '../light/hourglass-high-light'
 import { HourglassHighRegular } from '../regular/hourglass-high-regular'
 import { HourglassHighThin } from '../thin/hourglass-high-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

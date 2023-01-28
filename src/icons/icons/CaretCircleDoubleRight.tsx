@@ -6,7 +6,7 @@ import { CaretCircleDoubleRightFill } from '../fill/caret-circle-double-right-fi
 import { CaretCircleDoubleRightLight } from '../light/caret-circle-double-right-light'
 import { CaretCircleDoubleRightRegular } from '../regular/caret-circle-double-right-regular'
 import { CaretCircleDoubleRightThin } from '../thin/caret-circle-double-right-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { MediumLogoFill } from '../fill/medium-logo-fill'
 import { MediumLogoLight } from '../light/medium-logo-light'
 import { MediumLogoRegular } from '../regular/medium-logo-regular'
 import { MediumLogoThin } from '../thin/medium-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

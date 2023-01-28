@@ -6,7 +6,7 @@ import { SkipForwardCircleFill } from '../fill/skip-forward-circle-fill'
 import { SkipForwardCircleLight } from '../light/skip-forward-circle-light'
 import { SkipForwardCircleRegular } from '../regular/skip-forward-circle-regular'
 import { SkipForwardCircleThin } from '../thin/skip-forward-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

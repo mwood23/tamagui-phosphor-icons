@@ -6,7 +6,7 @@ import { BatteryChargingVerticalFill } from '../fill/battery-charging-vertical-f
 import { BatteryChargingVerticalLight } from '../light/battery-charging-vertical-light'
 import { BatteryChargingVerticalRegular } from '../regular/battery-charging-vertical-regular'
 import { BatteryChargingVerticalThin } from '../thin/battery-charging-vertical-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

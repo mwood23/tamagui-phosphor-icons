@@ -6,7 +6,7 @@ import { RainbowFill } from '../fill/rainbow-fill'
 import { RainbowLight } from '../light/rainbow-light'
 import { RainbowRegular } from '../regular/rainbow-regular'
 import { RainbowThin } from '../thin/rainbow-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

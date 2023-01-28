@@ -6,7 +6,7 @@ import { TargetFill } from '../fill/target-fill'
 import { TargetLight } from '../light/target-light'
 import { TargetRegular } from '../regular/target-regular'
 import { TargetThin } from '../thin/target-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

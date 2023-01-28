@@ -6,7 +6,7 @@ import { ShareNetworkFill } from '../fill/share-network-fill'
 import { ShareNetworkLight } from '../light/share-network-light'
 import { ShareNetworkRegular } from '../regular/share-network-regular'
 import { ShareNetworkThin } from '../thin/share-network-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

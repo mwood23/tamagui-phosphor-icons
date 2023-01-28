@@ -6,7 +6,7 @@ import { ChatCenteredFill } from '../fill/chat-centered-fill'
 import { ChatCenteredLight } from '../light/chat-centered-light'
 import { ChatCenteredRegular } from '../regular/chat-centered-regular'
 import { ChatCenteredThin } from '../thin/chat-centered-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

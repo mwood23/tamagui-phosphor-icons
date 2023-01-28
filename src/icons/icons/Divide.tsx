@@ -6,7 +6,7 @@ import { DivideFill } from '../fill/divide-fill'
 import { DivideLight } from '../light/divide-light'
 import { DivideRegular } from '../regular/divide-regular'
 import { DivideThin } from '../thin/divide-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

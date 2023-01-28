@@ -6,7 +6,7 @@ import { SwapFill } from '../fill/swap-fill'
 import { SwapLight } from '../light/swap-light'
 import { SwapRegular } from '../regular/swap-regular'
 import { SwapThin } from '../thin/swap-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

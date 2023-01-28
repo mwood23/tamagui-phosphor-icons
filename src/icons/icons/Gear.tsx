@@ -6,7 +6,7 @@ import { GearFill } from '../fill/gear-fill'
 import { GearLight } from '../light/gear-light'
 import { GearRegular } from '../regular/gear-regular'
 import { GearThin } from '../thin/gear-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

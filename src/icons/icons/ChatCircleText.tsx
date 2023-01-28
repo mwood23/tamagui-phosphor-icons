@@ -6,7 +6,7 @@ import { ChatCircleTextFill } from '../fill/chat-circle-text-fill'
 import { ChatCircleTextLight } from '../light/chat-circle-text-light'
 import { ChatCircleTextRegular } from '../regular/chat-circle-text-regular'
 import { ChatCircleTextThin } from '../thin/chat-circle-text-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { GameControllerFill } from '../fill/game-controller-fill'
 import { GameControllerLight } from '../light/game-controller-light'
 import { GameControllerRegular } from '../regular/game-controller-regular'
 import { GameControllerThin } from '../thin/game-controller-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

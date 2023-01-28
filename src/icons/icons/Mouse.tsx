@@ -6,7 +6,7 @@ import { MouseFill } from '../fill/mouse-fill'
 import { MouseLight } from '../light/mouse-light'
 import { MouseRegular } from '../regular/mouse-regular'
 import { MouseThin } from '../thin/mouse-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

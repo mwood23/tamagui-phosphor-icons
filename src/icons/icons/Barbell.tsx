@@ -6,7 +6,7 @@ import { BarbellFill } from '../fill/barbell-fill'
 import { BarbellLight } from '../light/barbell-light'
 import { BarbellRegular } from '../regular/barbell-regular'
 import { BarbellThin } from '../thin/barbell-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

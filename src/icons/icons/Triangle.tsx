@@ -6,7 +6,7 @@ import { TriangleFill } from '../fill/triangle-fill'
 import { TriangleLight } from '../light/triangle-light'
 import { TriangleRegular } from '../regular/triangle-regular'
 import { TriangleThin } from '../thin/triangle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { SquareHalfBottomFill } from '../fill/square-half-bottom-fill'
 import { SquareHalfBottomLight } from '../light/square-half-bottom-light'
 import { SquareHalfBottomRegular } from '../regular/square-half-bottom-regular'
 import { SquareHalfBottomThin } from '../thin/square-half-bottom-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

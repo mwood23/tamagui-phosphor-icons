@@ -6,7 +6,7 @@ import { GitDiffFill } from '../fill/git-diff-fill'
 import { GitDiffLight } from '../light/git-diff-light'
 import { GitDiffRegular } from '../regular/git-diff-regular'
 import { GitDiffThin } from '../thin/git-diff-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { GaugeFill } from '../fill/gauge-fill'
 import { GaugeLight } from '../light/gauge-light'
 import { GaugeRegular } from '../regular/gauge-regular'
 import { GaugeThin } from '../thin/gauge-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { SpotifyLogoFill } from '../fill/spotify-logo-fill'
 import { SpotifyLogoLight } from '../light/spotify-logo-light'
 import { SpotifyLogoRegular } from '../regular/spotify-logo-regular'
 import { SpotifyLogoThin } from '../thin/spotify-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

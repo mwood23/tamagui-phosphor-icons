@@ -6,7 +6,7 @@ import { NotebookFill } from '../fill/notebook-fill'
 import { NotebookLight } from '../light/notebook-light'
 import { NotebookRegular } from '../regular/notebook-regular'
 import { NotebookThin } from '../thin/notebook-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

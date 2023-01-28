@@ -6,7 +6,7 @@ import { ProjectorScreenChartFill } from '../fill/projector-screen-chart-fill'
 import { ProjectorScreenChartLight } from '../light/projector-screen-chart-light'
 import { ProjectorScreenChartRegular } from '../regular/projector-screen-chart-regular'
 import { ProjectorScreenChartThin } from '../thin/projector-screen-chart-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

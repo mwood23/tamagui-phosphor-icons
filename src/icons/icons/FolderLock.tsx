@@ -6,7 +6,7 @@ import { FolderLockFill } from '../fill/folder-lock-fill'
 import { FolderLockLight } from '../light/folder-lock-light'
 import { FolderLockRegular } from '../regular/folder-lock-regular'
 import { FolderLockThin } from '../thin/folder-lock-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

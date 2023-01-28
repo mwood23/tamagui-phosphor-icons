@@ -6,7 +6,7 @@ import { RedditLogoFill } from '../fill/reddit-logo-fill'
 import { RedditLogoLight } from '../light/reddit-logo-light'
 import { RedditLogoRegular } from '../regular/reddit-logo-regular'
 import { RedditLogoThin } from '../thin/reddit-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

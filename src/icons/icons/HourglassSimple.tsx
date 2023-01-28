@@ -6,7 +6,7 @@ import { HourglassSimpleFill } from '../fill/hourglass-simple-fill'
 import { HourglassSimpleLight } from '../light/hourglass-simple-light'
 import { HourglassSimpleRegular } from '../regular/hourglass-simple-regular'
 import { HourglassSimpleThin } from '../thin/hourglass-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

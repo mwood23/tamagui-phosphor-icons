@@ -6,7 +6,7 @@ import { SketchLogoFill } from '../fill/sketch-logo-fill'
 import { SketchLogoLight } from '../light/sketch-logo-light'
 import { SketchLogoRegular } from '../regular/sketch-logo-regular'
 import { SketchLogoThin } from '../thin/sketch-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { EarSlashFill } from '../fill/ear-slash-fill'
 import { EarSlashLight } from '../light/ear-slash-light'
 import { EarSlashRegular } from '../regular/ear-slash-regular'
 import { EarSlashThin } from '../thin/ear-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

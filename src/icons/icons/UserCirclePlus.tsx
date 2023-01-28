@@ -6,7 +6,7 @@ import { UserCirclePlusFill } from '../fill/user-circle-plus-fill'
 import { UserCirclePlusLight } from '../light/user-circle-plus-light'
 import { UserCirclePlusRegular } from '../regular/user-circle-plus-regular'
 import { UserCirclePlusThin } from '../thin/user-circle-plus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

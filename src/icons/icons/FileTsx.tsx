@@ -6,7 +6,7 @@ import { FileTsxFill } from '../fill/file-tsx-fill'
 import { FileTsxLight } from '../light/file-tsx-light'
 import { FileTsxRegular } from '../regular/file-tsx-regular'
 import { FileTsxThin } from '../thin/file-tsx-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

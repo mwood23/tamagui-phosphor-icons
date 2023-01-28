@@ -6,7 +6,7 @@ import { MicrosoftExcelLogoFill } from '../fill/microsoft-excel-logo-fill'
 import { MicrosoftExcelLogoLight } from '../light/microsoft-excel-logo-light'
 import { MicrosoftExcelLogoRegular } from '../regular/microsoft-excel-logo-regular'
 import { MicrosoftExcelLogoThin } from '../thin/microsoft-excel-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

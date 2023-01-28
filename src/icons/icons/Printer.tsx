@@ -6,7 +6,7 @@ import { PrinterFill } from '../fill/printer-fill'
 import { PrinterLight } from '../light/printer-light'
 import { PrinterRegular } from '../regular/printer-regular'
 import { PrinterThin } from '../thin/printer-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

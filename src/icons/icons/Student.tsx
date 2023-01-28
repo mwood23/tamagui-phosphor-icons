@@ -6,7 +6,7 @@ import { StudentFill } from '../fill/student-fill'
 import { StudentLight } from '../light/student-light'
 import { StudentRegular } from '../regular/student-regular'
 import { StudentThin } from '../thin/student-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

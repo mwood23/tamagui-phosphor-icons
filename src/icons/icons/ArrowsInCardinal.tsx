@@ -6,7 +6,7 @@ import { ArrowsInCardinalFill } from '../fill/arrows-in-cardinal-fill'
 import { ArrowsInCardinalLight } from '../light/arrows-in-cardinal-light'
 import { ArrowsInCardinalRegular } from '../regular/arrows-in-cardinal-regular'
 import { ArrowsInCardinalThin } from '../thin/arrows-in-cardinal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

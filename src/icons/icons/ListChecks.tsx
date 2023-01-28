@@ -6,7 +6,7 @@ import { ListChecksFill } from '../fill/list-checks-fill'
 import { ListChecksLight } from '../light/list-checks-light'
 import { ListChecksRegular } from '../regular/list-checks-regular'
 import { ListChecksThin } from '../thin/list-checks-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

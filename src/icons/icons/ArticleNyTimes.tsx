@@ -6,7 +6,7 @@ import { ArticleNyTimesFill } from '../fill/article-ny-times-fill'
 import { ArticleNyTimesLight } from '../light/article-ny-times-light'
 import { ArticleNyTimesRegular } from '../regular/article-ny-times-regular'
 import { ArticleNyTimesThin } from '../thin/article-ny-times-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

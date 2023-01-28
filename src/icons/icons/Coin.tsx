@@ -6,7 +6,7 @@ import { CoinFill } from '../fill/coin-fill'
 import { CoinLight } from '../light/coin-light'
 import { CoinRegular } from '../regular/coin-regular'
 import { CoinThin } from '../thin/coin-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

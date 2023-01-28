@@ -6,7 +6,7 @@ import { KeyholeFill } from '../fill/keyhole-fill'
 import { KeyholeLight } from '../light/keyhole-light'
 import { KeyholeRegular } from '../regular/keyhole-regular'
 import { KeyholeThin } from '../thin/keyhole-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

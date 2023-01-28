@@ -6,7 +6,7 @@ import { TwitterLogoFill } from '../fill/twitter-logo-fill'
 import { TwitterLogoLight } from '../light/twitter-logo-light'
 import { TwitterLogoRegular } from '../regular/twitter-logo-regular'
 import { TwitterLogoThin } from '../thin/twitter-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

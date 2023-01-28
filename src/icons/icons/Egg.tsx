@@ -6,7 +6,7 @@ import { EggFill } from '../fill/egg-fill'
 import { EggLight } from '../light/egg-light'
 import { EggRegular } from '../regular/egg-regular'
 import { EggThin } from '../thin/egg-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

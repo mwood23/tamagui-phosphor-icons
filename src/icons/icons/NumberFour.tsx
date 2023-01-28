@@ -6,7 +6,7 @@ import { NumberFourFill } from '../fill/number-four-fill'
 import { NumberFourLight } from '../light/number-four-light'
 import { NumberFourRegular } from '../regular/number-four-regular'
 import { NumberFourThin } from '../thin/number-four-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

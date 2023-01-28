@@ -6,7 +6,7 @@ import { CylinderFill } from '../fill/cylinder-fill'
 import { CylinderLight } from '../light/cylinder-light'
 import { CylinderRegular } from '../regular/cylinder-regular'
 import { CylinderThin } from '../thin/cylinder-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

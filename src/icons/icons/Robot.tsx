@@ -6,7 +6,7 @@ import { RobotFill } from '../fill/robot-fill'
 import { RobotLight } from '../light/robot-light'
 import { RobotRegular } from '../regular/robot-regular'
 import { RobotThin } from '../thin/robot-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

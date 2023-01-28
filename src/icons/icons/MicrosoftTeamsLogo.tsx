@@ -6,7 +6,7 @@ import { MicrosoftTeamsLogoFill } from '../fill/microsoft-teams-logo-fill'
 import { MicrosoftTeamsLogoLight } from '../light/microsoft-teams-logo-light'
 import { MicrosoftTeamsLogoRegular } from '../regular/microsoft-teams-logo-regular'
 import { MicrosoftTeamsLogoThin } from '../thin/microsoft-teams-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

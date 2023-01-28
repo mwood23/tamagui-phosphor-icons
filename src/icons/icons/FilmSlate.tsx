@@ -6,7 +6,7 @@ import { FilmSlateFill } from '../fill/film-slate-fill'
 import { FilmSlateLight } from '../light/film-slate-light'
 import { FilmSlateRegular } from '../regular/film-slate-regular'
 import { FilmSlateThin } from '../thin/film-slate-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

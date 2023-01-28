@@ -6,7 +6,7 @@ import { HandsClappingFill } from '../fill/hands-clapping-fill'
 import { HandsClappingLight } from '../light/hands-clapping-light'
 import { HandsClappingRegular } from '../regular/hands-clapping-regular'
 import { HandsClappingThin } from '../thin/hands-clapping-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { EnvelopeOpenFill } from '../fill/envelope-open-fill'
 import { EnvelopeOpenLight } from '../light/envelope-open-light'
 import { EnvelopeOpenRegular } from '../regular/envelope-open-regular'
 import { EnvelopeOpenThin } from '../thin/envelope-open-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

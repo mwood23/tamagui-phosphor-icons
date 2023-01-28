@@ -6,7 +6,7 @@ import { SpadeFill } from '../fill/spade-fill'
 import { SpadeLight } from '../light/spade-light'
 import { SpadeRegular } from '../regular/spade-regular'
 import { SpadeThin } from '../thin/spade-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

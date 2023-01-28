@@ -6,7 +6,7 @@ import { MoneyFill } from '../fill/money-fill'
 import { MoneyLight } from '../light/money-light'
 import { MoneyRegular } from '../regular/money-regular'
 import { MoneyThin } from '../thin/money-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

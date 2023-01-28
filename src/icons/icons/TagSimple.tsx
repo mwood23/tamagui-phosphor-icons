@@ -6,7 +6,7 @@ import { TagSimpleFill } from '../fill/tag-simple-fill'
 import { TagSimpleLight } from '../light/tag-simple-light'
 import { TagSimpleRegular } from '../regular/tag-simple-regular'
 import { TagSimpleThin } from '../thin/tag-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

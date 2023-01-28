@@ -6,7 +6,7 @@ import { XFill } from '../fill/x-fill'
 import { XLight } from '../light/x-light'
 import { XRegular } from '../regular/x-regular'
 import { XThin } from '../thin/x-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

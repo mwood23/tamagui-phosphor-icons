@@ -6,7 +6,7 @@ import { CameraRotateFill } from '../fill/camera-rotate-fill'
 import { CameraRotateLight } from '../light/camera-rotate-light'
 import { CameraRotateRegular } from '../regular/camera-rotate-regular'
 import { CameraRotateThin } from '../thin/camera-rotate-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

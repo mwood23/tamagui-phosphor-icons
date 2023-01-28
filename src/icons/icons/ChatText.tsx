@@ -6,7 +6,7 @@ import { ChatTextFill } from '../fill/chat-text-fill'
 import { ChatTextLight } from '../light/chat-text-light'
 import { ChatTextRegular } from '../regular/chat-text-regular'
 import { ChatTextThin } from '../thin/chat-text-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

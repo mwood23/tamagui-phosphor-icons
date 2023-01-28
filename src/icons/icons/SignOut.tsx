@@ -6,7 +6,7 @@ import { SignOutFill } from '../fill/sign-out-fill'
 import { SignOutLight } from '../light/sign-out-light'
 import { SignOutRegular } from '../regular/sign-out-regular'
 import { SignOutThin } from '../thin/sign-out-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

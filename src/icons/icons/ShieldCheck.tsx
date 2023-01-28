@@ -6,7 +6,7 @@ import { ShieldCheckFill } from '../fill/shield-check-fill'
 import { ShieldCheckLight } from '../light/shield-check-light'
 import { ShieldCheckRegular } from '../regular/shield-check-regular'
 import { ShieldCheckThin } from '../thin/shield-check-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

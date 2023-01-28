@@ -6,7 +6,7 @@ import { CellSignalLowFill } from '../fill/cell-signal-low-fill'
 import { CellSignalLowLight } from '../light/cell-signal-low-light'
 import { CellSignalLowRegular } from '../regular/cell-signal-low-regular'
 import { CellSignalLowThin } from '../thin/cell-signal-low-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

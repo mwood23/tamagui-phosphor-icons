@@ -6,7 +6,7 @@ import { RulerFill } from '../fill/ruler-fill'
 import { RulerLight } from '../light/ruler-light'
 import { RulerRegular } from '../regular/ruler-regular'
 import { RulerThin } from '../thin/ruler-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

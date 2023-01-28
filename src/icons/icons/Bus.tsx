@@ -6,7 +6,7 @@ import { BusFill } from '../fill/bus-fill'
 import { BusLight } from '../light/bus-light'
 import { BusRegular } from '../regular/bus-regular'
 import { BusThin } from '../thin/bus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { AppWindowFill } from '../fill/app-window-fill'
 import { AppWindowLight } from '../light/app-window-light'
 import { AppWindowRegular } from '../regular/app-window-regular'
 import { AppWindowThin } from '../thin/app-window-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

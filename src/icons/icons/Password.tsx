@@ -6,7 +6,7 @@ import { PasswordFill } from '../fill/password-fill'
 import { PasswordLight } from '../light/password-light'
 import { PasswordRegular } from '../regular/password-regular'
 import { PasswordThin } from '../thin/password-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

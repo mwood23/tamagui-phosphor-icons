@@ -6,7 +6,7 @@ import { FishFill } from '../fill/fish-fill'
 import { FishLight } from '../light/fish-light'
 import { FishRegular } from '../regular/fish-regular'
 import { FishThin } from '../thin/fish-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

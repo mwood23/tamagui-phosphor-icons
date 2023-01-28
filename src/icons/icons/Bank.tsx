@@ -6,7 +6,7 @@ import { BankFill } from '../fill/bank-fill'
 import { BankLight } from '../light/bank-light'
 import { BankRegular } from '../regular/bank-regular'
 import { BankThin } from '../thin/bank-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

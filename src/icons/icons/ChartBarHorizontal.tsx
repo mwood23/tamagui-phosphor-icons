@@ -6,7 +6,7 @@ import { ChartBarHorizontalFill } from '../fill/chart-bar-horizontal-fill'
 import { ChartBarHorizontalLight } from '../light/chart-bar-horizontal-light'
 import { ChartBarHorizontalRegular } from '../regular/chart-bar-horizontal-regular'
 import { ChartBarHorizontalThin } from '../thin/chart-bar-horizontal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

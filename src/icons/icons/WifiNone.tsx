@@ -6,7 +6,7 @@ import { WifiNoneFill } from '../fill/wifi-none-fill'
 import { WifiNoneLight } from '../light/wifi-none-light'
 import { WifiNoneRegular } from '../regular/wifi-none-regular'
 import { WifiNoneThin } from '../thin/wifi-none-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

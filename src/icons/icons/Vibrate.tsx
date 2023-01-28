@@ -6,7 +6,7 @@ import { VibrateFill } from '../fill/vibrate-fill'
 import { VibrateLight } from '../light/vibrate-light'
 import { VibrateRegular } from '../regular/vibrate-regular'
 import { VibrateThin } from '../thin/vibrate-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

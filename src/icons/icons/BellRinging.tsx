@@ -6,7 +6,7 @@ import { BellRingingFill } from '../fill/bell-ringing-fill'
 import { BellRingingLight } from '../light/bell-ringing-light'
 import { BellRingingRegular } from '../regular/bell-ringing-regular'
 import { BellRingingThin } from '../thin/bell-ringing-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

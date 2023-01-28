@@ -6,7 +6,7 @@ import { CardsFill } from '../fill/cards-fill'
 import { CardsLight } from '../light/cards-light'
 import { CardsRegular } from '../regular/cards-regular'
 import { CardsThin } from '../thin/cards-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

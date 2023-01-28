@@ -6,7 +6,7 @@ import { DotsThreeVerticalFill } from '../fill/dots-three-vertical-fill'
 import { DotsThreeVerticalLight } from '../light/dots-three-vertical-light'
 import { DotsThreeVerticalRegular } from '../regular/dots-three-vertical-regular'
 import { DotsThreeVerticalThin } from '../thin/dots-three-vertical-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

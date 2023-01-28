@@ -6,7 +6,7 @@ import { CampfireFill } from '../fill/campfire-fill'
 import { CampfireLight } from '../light/campfire-light'
 import { CampfireRegular } from '../regular/campfire-regular'
 import { CampfireThin } from '../thin/campfire-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

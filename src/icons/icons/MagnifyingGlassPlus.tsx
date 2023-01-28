@@ -6,7 +6,7 @@ import { MagnifyingGlassPlusFill } from '../fill/magnifying-glass-plus-fill'
 import { MagnifyingGlassPlusLight } from '../light/magnifying-glass-plus-light'
 import { MagnifyingGlassPlusRegular } from '../regular/magnifying-glass-plus-regular'
 import { MagnifyingGlassPlusThin } from '../thin/magnifying-glass-plus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

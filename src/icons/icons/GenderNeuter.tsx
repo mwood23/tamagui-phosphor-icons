@@ -6,7 +6,7 @@ import { GenderNeuterFill } from '../fill/gender-neuter-fill'
 import { GenderNeuterLight } from '../light/gender-neuter-light'
 import { GenderNeuterRegular } from '../regular/gender-neuter-regular'
 import { GenderNeuterThin } from '../thin/gender-neuter-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { UserFocusFill } from '../fill/user-focus-fill'
 import { UserFocusLight } from '../light/user-focus-light'
 import { UserFocusRegular } from '../regular/user-focus-regular'
 import { UserFocusThin } from '../thin/user-focus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { HeadlightsFill } from '../fill/headlights-fill'
 import { HeadlightsLight } from '../light/headlights-light'
 import { HeadlightsRegular } from '../regular/headlights-regular'
 import { HeadlightsThin } from '../thin/headlights-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

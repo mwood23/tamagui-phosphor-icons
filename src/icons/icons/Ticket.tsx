@@ -6,7 +6,7 @@ import { TicketFill } from '../fill/ticket-fill'
 import { TicketLight } from '../light/ticket-light'
 import { TicketRegular } from '../regular/ticket-regular'
 import { TicketThin } from '../thin/ticket-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

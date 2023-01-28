@@ -6,7 +6,7 @@ import { LifebuoyFill } from '../fill/lifebuoy-fill'
 import { LifebuoyLight } from '../light/lifebuoy-light'
 import { LifebuoyRegular } from '../regular/lifebuoy-regular'
 import { LifebuoyThin } from '../thin/lifebuoy-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

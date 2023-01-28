@@ -6,7 +6,7 @@ import { ArrowCircleUpLeftFill } from '../fill/arrow-circle-up-left-fill'
 import { ArrowCircleUpLeftLight } from '../light/arrow-circle-up-left-light'
 import { ArrowCircleUpLeftRegular } from '../regular/arrow-circle-up-left-regular'
 import { ArrowCircleUpLeftThin } from '../thin/arrow-circle-up-left-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

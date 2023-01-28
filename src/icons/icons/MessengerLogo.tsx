@@ -6,7 +6,7 @@ import { MessengerLogoFill } from '../fill/messenger-logo-fill'
 import { MessengerLogoLight } from '../light/messenger-logo-light'
 import { MessengerLogoRegular } from '../regular/messenger-logo-regular'
 import { MessengerLogoThin } from '../thin/messenger-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

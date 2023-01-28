@@ -6,7 +6,7 @@ import { WheelchairFill } from '../fill/wheelchair-fill'
 import { WheelchairLight } from '../light/wheelchair-light'
 import { WheelchairRegular } from '../regular/wheelchair-regular'
 import { WheelchairThin } from '../thin/wheelchair-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

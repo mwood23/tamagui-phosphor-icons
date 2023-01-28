@@ -6,7 +6,7 @@ import { FaceMaskFill } from '../fill/face-mask-fill'
 import { FaceMaskLight } from '../light/face-mask-light'
 import { FaceMaskRegular } from '../regular/face-mask-regular'
 import { FaceMaskThin } from '../thin/face-mask-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

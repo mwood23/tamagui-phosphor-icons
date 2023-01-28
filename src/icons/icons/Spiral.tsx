@@ -6,7 +6,7 @@ import { SpiralFill } from '../fill/spiral-fill'
 import { SpiralLight } from '../light/spiral-light'
 import { SpiralRegular } from '../regular/spiral-regular'
 import { SpiralThin } from '../thin/spiral-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

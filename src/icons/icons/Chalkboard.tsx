@@ -6,7 +6,7 @@ import { ChalkboardFill } from '../fill/chalkboard-fill'
 import { ChalkboardLight } from '../light/chalkboard-light'
 import { ChalkboardRegular } from '../regular/chalkboard-regular'
 import { ChalkboardThin } from '../thin/chalkboard-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FileVueFill } from '../fill/file-vue-fill'
 import { FileVueLight } from '../light/file-vue-light'
 import { FileVueRegular } from '../regular/file-vue-regular'
 import { FileVueThin } from '../thin/file-vue-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { ScreencastFill } from '../fill/screencast-fill'
 import { ScreencastLight } from '../light/screencast-light'
 import { ScreencastRegular } from '../regular/screencast-regular'
 import { ScreencastThin } from '../thin/screencast-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

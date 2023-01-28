@@ -6,7 +6,7 @@ import { TrayFill } from '../fill/tray-fill'
 import { TrayLight } from '../light/tray-light'
 import { TrayRegular } from '../regular/tray-regular'
 import { TrayThin } from '../thin/tray-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

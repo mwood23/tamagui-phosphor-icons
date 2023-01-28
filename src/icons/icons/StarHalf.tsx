@@ -6,7 +6,7 @@ import { StarHalfFill } from '../fill/star-half-fill'
 import { StarHalfLight } from '../light/star-half-light'
 import { StarHalfRegular } from '../regular/star-half-regular'
 import { StarHalfThin } from '../thin/star-half-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CoatHangerFill } from '../fill/coat-hanger-fill'
 import { CoatHangerLight } from '../light/coat-hanger-light'
 import { CoatHangerRegular } from '../regular/coat-hanger-regular'
 import { CoatHangerThin } from '../thin/coat-hanger-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

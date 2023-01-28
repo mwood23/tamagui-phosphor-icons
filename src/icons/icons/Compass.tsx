@@ -6,7 +6,7 @@ import { CompassFill } from '../fill/compass-fill'
 import { CompassLight } from '../light/compass-light'
 import { CompassRegular } from '../regular/compass-regular'
 import { CompassThin } from '../thin/compass-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TimerFill } from '../fill/timer-fill'
 import { TimerLight } from '../light/timer-light'
 import { TimerRegular } from '../regular/timer-regular'
 import { TimerThin } from '../thin/timer-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

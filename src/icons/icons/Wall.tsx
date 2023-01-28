@@ -6,7 +6,7 @@ import { WallFill } from '../fill/wall-fill'
 import { WallLight } from '../light/wall-light'
 import { WallRegular } from '../regular/wall-regular'
 import { WallThin } from '../thin/wall-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

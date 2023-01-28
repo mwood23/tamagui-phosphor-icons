@@ -6,7 +6,7 @@ import { FingerprintSimpleFill } from '../fill/fingerprint-simple-fill'
 import { FingerprintSimpleLight } from '../light/fingerprint-simple-light'
 import { FingerprintSimpleRegular } from '../regular/fingerprint-simple-regular'
 import { FingerprintSimpleThin } from '../thin/fingerprint-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

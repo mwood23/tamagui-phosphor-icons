@@ -6,7 +6,7 @@ import { BellSlashFill } from '../fill/bell-slash-fill'
 import { BellSlashLight } from '../light/bell-slash-light'
 import { BellSlashRegular } from '../regular/bell-slash-regular'
 import { BellSlashThin } from '../thin/bell-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

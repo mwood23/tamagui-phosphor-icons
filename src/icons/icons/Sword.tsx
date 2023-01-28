@@ -6,7 +6,7 @@ import { SwordFill } from '../fill/sword-fill'
 import { SwordLight } from '../light/sword-light'
 import { SwordRegular } from '../regular/sword-regular'
 import { SwordThin } from '../thin/sword-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

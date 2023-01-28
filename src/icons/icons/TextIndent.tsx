@@ -6,7 +6,7 @@ import { TextIndentFill } from '../fill/text-indent-fill'
 import { TextIndentLight } from '../light/text-indent-light'
 import { TextIndentRegular } from '../regular/text-indent-regular'
 import { TextIndentThin } from '../thin/text-indent-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

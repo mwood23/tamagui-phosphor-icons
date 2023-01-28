@@ -6,7 +6,7 @@ import { DatabaseFill } from '../fill/database-fill'
 import { DatabaseLight } from '../light/database-light'
 import { DatabaseRegular } from '../regular/database-regular'
 import { DatabaseThin } from '../thin/database-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

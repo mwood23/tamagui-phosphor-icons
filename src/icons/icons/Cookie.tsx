@@ -6,7 +6,7 @@ import { CookieFill } from '../fill/cookie-fill'
 import { CookieLight } from '../light/cookie-light'
 import { CookieRegular } from '../regular/cookie-regular'
 import { CookieThin } from '../thin/cookie-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

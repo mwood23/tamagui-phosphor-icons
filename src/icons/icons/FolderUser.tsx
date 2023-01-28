@@ -6,7 +6,7 @@ import { FolderUserFill } from '../fill/folder-user-fill'
 import { FolderUserLight } from '../light/folder-user-light'
 import { FolderUserRegular } from '../regular/folder-user-regular'
 import { FolderUserThin } from '../thin/folder-user-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { PizzaFill } from '../fill/pizza-fill'
 import { PizzaLight } from '../light/pizza-light'
 import { PizzaRegular } from '../regular/pizza-regular'
 import { PizzaThin } from '../thin/pizza-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

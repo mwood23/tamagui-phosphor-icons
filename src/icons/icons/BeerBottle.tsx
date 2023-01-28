@@ -6,7 +6,7 @@ import { BeerBottleFill } from '../fill/beer-bottle-fill'
 import { BeerBottleLight } from '../light/beer-bottle-light'
 import { BeerBottleRegular } from '../regular/beer-bottle-regular'
 import { BeerBottleThin } from '../thin/beer-bottle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

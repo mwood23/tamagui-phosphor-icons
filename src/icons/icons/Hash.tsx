@@ -6,7 +6,7 @@ import { HashFill } from '../fill/hash-fill'
 import { HashLight } from '../light/hash-light'
 import { HashRegular } from '../regular/hash-regular'
 import { HashThin } from '../thin/hash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

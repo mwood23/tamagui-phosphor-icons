@@ -6,7 +6,7 @@ import { EyeClosedFill } from '../fill/eye-closed-fill'
 import { EyeClosedLight } from '../light/eye-closed-light'
 import { EyeClosedRegular } from '../regular/eye-closed-regular'
 import { EyeClosedThin } from '../thin/eye-closed-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

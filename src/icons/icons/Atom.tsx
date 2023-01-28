@@ -6,7 +6,7 @@ import { AtomFill } from '../fill/atom-fill'
 import { AtomLight } from '../light/atom-light'
 import { AtomRegular } from '../regular/atom-regular'
 import { AtomThin } from '../thin/atom-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

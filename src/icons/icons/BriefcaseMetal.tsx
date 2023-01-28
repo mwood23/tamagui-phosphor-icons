@@ -6,7 +6,7 @@ import { BriefcaseMetalFill } from '../fill/briefcase-metal-fill'
 import { BriefcaseMetalLight } from '../light/briefcase-metal-light'
 import { BriefcaseMetalRegular } from '../regular/briefcase-metal-regular'
 import { BriefcaseMetalThin } from '../thin/briefcase-metal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

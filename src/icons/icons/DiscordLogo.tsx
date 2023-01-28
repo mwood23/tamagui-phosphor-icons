@@ -6,7 +6,7 @@ import { DiscordLogoFill } from '../fill/discord-logo-fill'
 import { DiscordLogoLight } from '../light/discord-logo-light'
 import { DiscordLogoRegular } from '../regular/discord-logo-regular'
 import { DiscordLogoThin } from '../thin/discord-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

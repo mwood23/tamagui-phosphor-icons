@@ -6,7 +6,7 @@ import { CloudCheckFill } from '../fill/cloud-check-fill'
 import { CloudCheckLight } from '../light/cloud-check-light'
 import { CloudCheckRegular } from '../regular/cloud-check-regular'
 import { CloudCheckThin } from '../thin/cloud-check-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

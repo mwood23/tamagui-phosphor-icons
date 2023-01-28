@@ -6,7 +6,7 @@ import { UserSwitchFill } from '../fill/user-switch-fill'
 import { UserSwitchLight } from '../light/user-switch-light'
 import { UserSwitchRegular } from '../regular/user-switch-regular'
 import { UserSwitchThin } from '../thin/user-switch-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

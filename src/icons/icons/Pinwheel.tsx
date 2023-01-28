@@ -6,7 +6,7 @@ import { PinwheelFill } from '../fill/pinwheel-fill'
 import { PinwheelLight } from '../light/pinwheel-light'
 import { PinwheelRegular } from '../regular/pinwheel-regular'
 import { PinwheelThin } from '../thin/pinwheel-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

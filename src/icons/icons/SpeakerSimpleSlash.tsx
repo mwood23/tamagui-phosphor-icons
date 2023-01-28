@@ -6,7 +6,7 @@ import { SpeakerSimpleSlashFill } from '../fill/speaker-simple-slash-fill'
 import { SpeakerSimpleSlashLight } from '../light/speaker-simple-slash-light'
 import { SpeakerSimpleSlashRegular } from '../regular/speaker-simple-slash-regular'
 import { SpeakerSimpleSlashThin } from '../thin/speaker-simple-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

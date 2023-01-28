@@ -6,7 +6,7 @@ import { XSquareFill } from '../fill/x-square-fill'
 import { XSquareLight } from '../light/x-square-light'
 import { XSquareRegular } from '../regular/x-square-regular'
 import { XSquareThin } from '../thin/x-square-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

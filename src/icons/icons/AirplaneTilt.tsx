@@ -6,7 +6,7 @@ import { AirplaneTiltFill } from '../fill/airplane-tilt-fill'
 import { AirplaneTiltLight } from '../light/airplane-tilt-light'
 import { AirplaneTiltRegular } from '../regular/airplane-tilt-regular'
 import { AirplaneTiltThin } from '../thin/airplane-tilt-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

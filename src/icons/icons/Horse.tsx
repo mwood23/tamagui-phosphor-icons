@@ -6,7 +6,7 @@ import { HorseFill } from '../fill/horse-fill'
 import { HorseLight } from '../light/horse-light'
 import { HorseRegular } from '../regular/horse-regular'
 import { HorseThin } from '../thin/horse-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

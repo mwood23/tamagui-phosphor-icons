@@ -6,7 +6,7 @@ import { GithubLogoFill } from '../fill/github-logo-fill'
 import { GithubLogoLight } from '../light/github-logo-light'
 import { GithubLogoRegular } from '../regular/github-logo-regular'
 import { GithubLogoThin } from '../thin/github-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

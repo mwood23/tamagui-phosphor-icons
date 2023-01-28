@@ -6,7 +6,7 @@ import { LadderFill } from '../fill/ladder-fill'
 import { LadderLight } from '../light/ladder-light'
 import { LadderRegular } from '../regular/ladder-regular'
 import { LadderThin } from '../thin/ladder-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

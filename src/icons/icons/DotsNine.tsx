@@ -6,7 +6,7 @@ import { DotsNineFill } from '../fill/dots-nine-fill'
 import { DotsNineLight } from '../light/dots-nine-light'
 import { DotsNineRegular } from '../regular/dots-nine-regular'
 import { DotsNineThin } from '../thin/dots-nine-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

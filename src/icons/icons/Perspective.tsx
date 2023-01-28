@@ -6,7 +6,7 @@ import { PerspectiveFill } from '../fill/perspective-fill'
 import { PerspectiveLight } from '../light/perspective-light'
 import { PerspectiveRegular } from '../regular/perspective-regular'
 import { PerspectiveThin } from '../thin/perspective-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

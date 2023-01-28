@@ -6,7 +6,7 @@ import { FlashlightFill } from '../fill/flashlight-fill'
 import { FlashlightLight } from '../light/flashlight-light'
 import { FlashlightRegular } from '../regular/flashlight-regular'
 import { FlashlightThin } from '../thin/flashlight-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

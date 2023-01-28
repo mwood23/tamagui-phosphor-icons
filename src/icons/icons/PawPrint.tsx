@@ -6,7 +6,7 @@ import { PawPrintFill } from '../fill/paw-print-fill'
 import { PawPrintLight } from '../light/paw-print-light'
 import { PawPrintRegular } from '../regular/paw-print-regular'
 import { PawPrintThin } from '../thin/paw-print-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

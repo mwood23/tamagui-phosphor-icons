@@ -6,7 +6,7 @@ import { ThumbsDownFill } from '../fill/thumbs-down-fill'
 import { ThumbsDownLight } from '../light/thumbs-down-light'
 import { ThumbsDownRegular } from '../regular/thumbs-down-regular'
 import { ThumbsDownThin } from '../thin/thumbs-down-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FlagCheckeredFill } from '../fill/flag-checkered-fill'
 import { FlagCheckeredLight } from '../light/flag-checkered-light'
 import { FlagCheckeredRegular } from '../regular/flag-checkered-regular'
 import { FlagCheckeredThin } from '../thin/flag-checkered-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

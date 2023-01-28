@@ -6,7 +6,7 @@ import { SquareLogoFill } from '../fill/square-logo-fill'
 import { SquareLogoLight } from '../light/square-logo-light'
 import { SquareLogoRegular } from '../regular/square-logo-regular'
 import { SquareLogoThin } from '../thin/square-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

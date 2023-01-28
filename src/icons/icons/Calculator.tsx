@@ -6,7 +6,7 @@ import { CalculatorFill } from '../fill/calculator-fill'
 import { CalculatorLight } from '../light/calculator-light'
 import { CalculatorRegular } from '../regular/calculator-regular'
 import { CalculatorThin } from '../thin/calculator-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TextAlignCenterFill } from '../fill/text-align-center-fill'
 import { TextAlignCenterLight } from '../light/text-align-center-light'
 import { TextAlignCenterRegular } from '../regular/text-align-center-regular'
 import { TextAlignCenterThin } from '../thin/text-align-center-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

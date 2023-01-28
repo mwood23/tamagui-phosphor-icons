@@ -1,4 +1,5 @@
 import { createContext } from 'react'
+
 import { IconContextProps } from './IconProps'
 
 export const IconContext = createContext<IconContextProps>({

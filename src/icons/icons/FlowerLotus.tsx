@@ -6,7 +6,7 @@ import { FlowerLotusFill } from '../fill/flower-lotus-fill'
 import { FlowerLotusLight } from '../light/flower-lotus-light'
 import { FlowerLotusRegular } from '../regular/flower-lotus-regular'
 import { FlowerLotusThin } from '../thin/flower-lotus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

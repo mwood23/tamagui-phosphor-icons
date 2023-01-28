@@ -6,7 +6,7 @@ import { BatteryMediumFill } from '../fill/battery-medium-fill'
 import { BatteryMediumLight } from '../light/battery-medium-light'
 import { BatteryMediumRegular } from '../regular/battery-medium-regular'
 import { BatteryMediumThin } from '../thin/battery-medium-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

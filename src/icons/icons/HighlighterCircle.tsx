@@ -6,7 +6,7 @@ import { HighlighterCircleFill } from '../fill/highlighter-circle-fill'
 import { HighlighterCircleLight } from '../light/highlighter-circle-light'
 import { HighlighterCircleRegular } from '../regular/highlighter-circle-regular'
 import { HighlighterCircleThin } from '../thin/highlighter-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

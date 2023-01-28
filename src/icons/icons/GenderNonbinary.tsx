@@ -6,7 +6,7 @@ import { GenderNonbinaryFill } from '../fill/gender-nonbinary-fill'
 import { GenderNonbinaryLight } from '../light/gender-nonbinary-light'
 import { GenderNonbinaryRegular } from '../regular/gender-nonbinary-regular'
 import { GenderNonbinaryThin } from '../thin/gender-nonbinary-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

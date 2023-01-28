@@ -6,7 +6,7 @@ import { StackFill } from '../fill/stack-fill'
 import { StackLight } from '../light/stack-light'
 import { StackRegular } from '../regular/stack-regular'
 import { StackThin } from '../thin/stack-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

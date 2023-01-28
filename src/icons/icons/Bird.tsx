@@ -6,7 +6,7 @@ import { BirdFill } from '../fill/bird-fill'
 import { BirdLight } from '../light/bird-light'
 import { BirdRegular } from '../regular/bird-regular'
 import { BirdThin } from '../thin/bird-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

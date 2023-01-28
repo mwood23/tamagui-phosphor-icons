@@ -6,7 +6,7 @@ import { ArrowFatLinesUpFill } from '../fill/arrow-fat-lines-up-fill'
 import { ArrowFatLinesUpLight } from '../light/arrow-fat-lines-up-light'
 import { ArrowFatLinesUpRegular } from '../regular/arrow-fat-lines-up-regular'
 import { ArrowFatLinesUpThin } from '../thin/arrow-fat-lines-up-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

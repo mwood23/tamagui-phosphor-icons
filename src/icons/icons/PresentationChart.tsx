@@ -6,7 +6,7 @@ import { PresentationChartFill } from '../fill/presentation-chart-fill'
 import { PresentationChartLight } from '../light/presentation-chart-light'
 import { PresentationChartRegular } from '../regular/presentation-chart-regular'
 import { PresentationChartThin } from '../thin/presentation-chart-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

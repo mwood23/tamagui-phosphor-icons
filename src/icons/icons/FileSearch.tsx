@@ -6,7 +6,7 @@ import { FileSearchFill } from '../fill/file-search-fill'
 import { FileSearchLight } from '../light/file-search-light'
 import { FileSearchRegular } from '../regular/file-search-regular'
 import { FileSearchThin } from '../thin/file-search-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

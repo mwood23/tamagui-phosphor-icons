@@ -6,7 +6,7 @@ import { EyeglassesFill } from '../fill/eyeglasses-fill'
 import { EyeglassesLight } from '../light/eyeglasses-light'
 import { EyeglassesRegular } from '../regular/eyeglasses-regular'
 import { EyeglassesThin } from '../thin/eyeglasses-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

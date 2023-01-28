@@ -6,7 +6,7 @@ import { HeadsetFill } from '../fill/headset-fill'
 import { HeadsetLight } from '../light/headset-light'
 import { HeadsetRegular } from '../regular/headset-regular'
 import { HeadsetThin } from '../thin/headset-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

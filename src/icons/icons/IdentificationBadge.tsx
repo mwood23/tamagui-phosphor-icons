@@ -6,7 +6,7 @@ import { IdentificationBadgeFill } from '../fill/identification-badge-fill'
 import { IdentificationBadgeLight } from '../light/identification-badge-light'
 import { IdentificationBadgeRegular } from '../regular/identification-badge-regular'
 import { IdentificationBadgeThin } from '../thin/identification-badge-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

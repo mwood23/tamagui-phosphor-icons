@@ -6,7 +6,7 @@ import { CircleWavyWarningFill } from '../fill/circle-wavy-warning-fill'
 import { CircleWavyWarningLight } from '../light/circle-wavy-warning-light'
 import { CircleWavyWarningRegular } from '../regular/circle-wavy-warning-regular'
 import { CircleWavyWarningThin } from '../thin/circle-wavy-warning-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

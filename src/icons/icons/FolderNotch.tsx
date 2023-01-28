@@ -6,7 +6,7 @@ import { FolderNotchFill } from '../fill/folder-notch-fill'
 import { FolderNotchLight } from '../light/folder-notch-light'
 import { FolderNotchRegular } from '../regular/folder-notch-regular'
 import { FolderNotchThin } from '../thin/folder-notch-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

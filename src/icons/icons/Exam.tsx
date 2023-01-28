@@ -6,7 +6,7 @@ import { ExamFill } from '../fill/exam-fill'
 import { ExamLight } from '../light/exam-light'
 import { ExamRegular } from '../regular/exam-regular'
 import { ExamThin } from '../thin/exam-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { AtFill } from '../fill/at-fill'
 import { AtLight } from '../light/at-light'
 import { AtRegular } from '../regular/at-regular'
 import { AtThin } from '../thin/at-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FlowArrowFill } from '../fill/flow-arrow-fill'
 import { FlowArrowLight } from '../light/flow-arrow-light'
 import { FlowArrowRegular } from '../regular/flow-arrow-regular'
 import { FlowArrowThin } from '../thin/flow-arrow-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

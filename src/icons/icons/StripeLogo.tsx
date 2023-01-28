@@ -6,7 +6,7 @@ import { StripeLogoFill } from '../fill/stripe-logo-fill'
 import { StripeLogoLight } from '../light/stripe-logo-light'
 import { StripeLogoRegular } from '../regular/stripe-logo-regular'
 import { StripeLogoThin } from '../thin/stripe-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

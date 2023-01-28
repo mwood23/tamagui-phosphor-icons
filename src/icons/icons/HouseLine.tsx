@@ -6,7 +6,7 @@ import { HouseLineFill } from '../fill/house-line-fill'
 import { HouseLineLight } from '../light/house-line-light'
 import { HouseLineRegular } from '../regular/house-line-regular'
 import { HouseLineThin } from '../thin/house-line-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

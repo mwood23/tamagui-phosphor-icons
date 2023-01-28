@@ -6,7 +6,7 @@ import { IntersectFill } from '../fill/intersect-fill'
 import { IntersectLight } from '../light/intersect-light'
 import { IntersectRegular } from '../regular/intersect-regular'
 import { IntersectThin } from '../thin/intersect-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FileZipFill } from '../fill/file-zip-fill'
 import { FileZipLight } from '../light/file-zip-light'
 import { FileZipRegular } from '../regular/file-zip-regular'
 import { FileZipThin } from '../thin/file-zip-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

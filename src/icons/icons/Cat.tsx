@@ -6,7 +6,7 @@ import { CatFill } from '../fill/cat-fill'
 import { CatLight } from '../light/cat-light'
 import { CatRegular } from '../regular/cat-regular'
 import { CatThin } from '../thin/cat-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

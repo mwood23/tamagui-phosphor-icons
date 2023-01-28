@@ -6,7 +6,7 @@ import { BarricadeFill } from '../fill/barricade-fill'
 import { BarricadeLight } from '../light/barricade-light'
 import { BarricadeRegular } from '../regular/barricade-regular'
 import { BarricadeThin } from '../thin/barricade-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

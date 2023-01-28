@@ -6,7 +6,7 @@ import { ShoppingBagFill } from '../fill/shopping-bag-fill'
 import { ShoppingBagLight } from '../light/shopping-bag-light'
 import { ShoppingBagRegular } from '../regular/shopping-bag-regular'
 import { ShoppingBagThin } from '../thin/shopping-bag-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

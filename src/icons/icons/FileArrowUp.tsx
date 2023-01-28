@@ -6,7 +6,7 @@ import { FileArrowUpFill } from '../fill/file-arrow-up-fill'
 import { FileArrowUpLight } from '../light/file-arrow-up-light'
 import { FileArrowUpRegular } from '../regular/file-arrow-up-regular'
 import { FileArrowUpThin } from '../thin/file-arrow-up-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

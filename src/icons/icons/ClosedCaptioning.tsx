@@ -6,7 +6,7 @@ import { ClosedCaptioningFill } from '../fill/closed-captioning-fill'
 import { ClosedCaptioningLight } from '../light/closed-captioning-light'
 import { ClosedCaptioningRegular } from '../regular/closed-captioning-regular'
 import { ClosedCaptioningThin } from '../thin/closed-captioning-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

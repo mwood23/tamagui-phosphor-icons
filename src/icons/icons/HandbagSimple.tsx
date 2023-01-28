@@ -6,7 +6,7 @@ import { HandbagSimpleFill } from '../fill/handbag-simple-fill'
 import { HandbagSimpleLight } from '../light/handbag-simple-light'
 import { HandbagSimpleRegular } from '../regular/handbag-simple-regular'
 import { HandbagSimpleThin } from '../thin/handbag-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

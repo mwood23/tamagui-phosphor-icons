@@ -6,7 +6,7 @@ import { ScalesFill } from '../fill/scales-fill'
 import { ScalesLight } from '../light/scales-light'
 import { ScalesRegular } from '../regular/scales-regular'
 import { ScalesThin } from '../thin/scales-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

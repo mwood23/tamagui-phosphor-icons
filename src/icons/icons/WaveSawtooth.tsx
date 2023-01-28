@@ -6,7 +6,7 @@ import { WaveSawtoothFill } from '../fill/wave-sawtooth-fill'
 import { WaveSawtoothLight } from '../light/wave-sawtooth-light'
 import { WaveSawtoothRegular } from '../regular/wave-sawtooth-regular'
 import { WaveSawtoothThin } from '../thin/wave-sawtooth-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

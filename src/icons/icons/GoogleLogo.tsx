@@ -6,7 +6,7 @@ import { GoogleLogoFill } from '../fill/google-logo-fill'
 import { GoogleLogoLight } from '../light/google-logo-light'
 import { GoogleLogoRegular } from '../regular/google-logo-regular'
 import { GoogleLogoThin } from '../thin/google-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

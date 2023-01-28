@@ -6,7 +6,7 @@ import { CalendarPlusFill } from '../fill/calendar-plus-fill'
 import { CalendarPlusLight } from '../light/calendar-plus-light'
 import { CalendarPlusRegular } from '../regular/calendar-plus-regular'
 import { CalendarPlusThin } from '../thin/calendar-plus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

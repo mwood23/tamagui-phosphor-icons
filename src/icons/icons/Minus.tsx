@@ -6,7 +6,7 @@ import { MinusFill } from '../fill/minus-fill'
 import { MinusLight } from '../light/minus-light'
 import { MinusRegular } from '../regular/minus-regular'
 import { MinusThin } from '../thin/minus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

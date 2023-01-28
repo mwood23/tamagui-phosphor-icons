@@ -6,7 +6,7 @@ import { TrendUpFill } from '../fill/trend-up-fill'
 import { TrendUpLight } from '../light/trend-up-light'
 import { TrendUpRegular } from '../regular/trend-up-regular'
 import { TrendUpThin } from '../thin/trend-up-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

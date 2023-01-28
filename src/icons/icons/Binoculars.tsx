@@ -6,7 +6,7 @@ import { BinocularsFill } from '../fill/binoculars-fill'
 import { BinocularsLight } from '../light/binoculars-light'
 import { BinocularsRegular } from '../regular/binoculars-regular'
 import { BinocularsThin } from '../thin/binoculars-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TrademarkRegisteredFill } from '../fill/trademark-registered-fill'
 import { TrademarkRegisteredLight } from '../light/trademark-registered-light'
 import { TrademarkRegisteredRegular } from '../regular/trademark-registered-regular'
 import { TrademarkRegisteredThin } from '../thin/trademark-registered-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

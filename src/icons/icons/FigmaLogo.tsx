@@ -6,7 +6,7 @@ import { FigmaLogoFill } from '../fill/figma-logo-fill'
 import { FigmaLogoLight } from '../light/figma-logo-light'
 import { FigmaLogoRegular } from '../regular/figma-logo-regular'
 import { FigmaLogoThin } from '../thin/figma-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

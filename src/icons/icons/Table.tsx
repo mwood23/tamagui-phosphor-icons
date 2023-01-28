@@ -6,7 +6,7 @@ import { TableFill } from '../fill/table-fill'
 import { TableLight } from '../light/table-light'
 import { TableRegular } from '../regular/table-regular'
 import { TableThin } from '../thin/table-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

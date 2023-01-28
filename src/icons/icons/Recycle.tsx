@@ -6,7 +6,7 @@ import { RecycleFill } from '../fill/recycle-fill'
 import { RecycleLight } from '../light/recycle-light'
 import { RecycleRegular } from '../regular/recycle-regular'
 import { RecycleThin } from '../thin/recycle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

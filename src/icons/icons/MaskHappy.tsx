@@ -6,7 +6,7 @@ import { MaskHappyFill } from '../fill/mask-happy-fill'
 import { MaskHappyLight } from '../light/mask-happy-light'
 import { MaskHappyRegular } from '../regular/mask-happy-regular'
 import { MaskHappyThin } from '../thin/mask-happy-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

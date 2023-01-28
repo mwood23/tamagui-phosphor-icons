@@ -6,7 +6,7 @@ import { NumberEightFill } from '../fill/number-eight-fill'
 import { NumberEightLight } from '../light/number-eight-light'
 import { NumberEightRegular } from '../regular/number-eight-regular'
 import { NumberEightThin } from '../thin/number-eight-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

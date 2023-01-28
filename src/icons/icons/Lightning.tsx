@@ -6,7 +6,7 @@ import { LightningFill } from '../fill/lightning-fill'
 import { LightningLight } from '../light/lightning-light'
 import { LightningRegular } from '../regular/lightning-regular'
 import { LightningThin } from '../thin/lightning-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

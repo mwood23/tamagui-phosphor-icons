@@ -6,7 +6,7 @@ import { ComputerTowerFill } from '../fill/computer-tower-fill'
 import { ComputerTowerLight } from '../light/computer-tower-light'
 import { ComputerTowerRegular } from '../regular/computer-tower-regular'
 import { ComputerTowerThin } from '../thin/computer-tower-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { DotsThreeCircleVerticalFill } from '../fill/dots-three-circle-vertical-
 import { DotsThreeCircleVerticalLight } from '../light/dots-three-circle-vertical-light'
 import { DotsThreeCircleVerticalRegular } from '../regular/dots-three-circle-vertical-regular'
 import { DotsThreeCircleVerticalThin } from '../thin/dots-three-circle-vertical-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

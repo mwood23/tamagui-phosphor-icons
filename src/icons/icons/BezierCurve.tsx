@@ -6,7 +6,7 @@ import { BezierCurveFill } from '../fill/bezier-curve-fill'
 import { BezierCurveLight } from '../light/bezier-curve-light'
 import { BezierCurveRegular } from '../regular/bezier-curve-regular'
 import { BezierCurveThin } from '../thin/bezier-curve-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

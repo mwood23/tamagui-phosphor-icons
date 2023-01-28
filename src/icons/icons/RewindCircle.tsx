@@ -6,7 +6,7 @@ import { RewindCircleFill } from '../fill/rewind-circle-fill'
 import { RewindCircleLight } from '../light/rewind-circle-light'
 import { RewindCircleRegular } from '../regular/rewind-circle-regular'
 import { RewindCircleThin } from '../thin/rewind-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

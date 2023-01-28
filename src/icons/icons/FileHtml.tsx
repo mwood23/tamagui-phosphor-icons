@@ -6,7 +6,7 @@ import { FileHtmlFill } from '../fill/file-html-fill'
 import { FileHtmlLight } from '../light/file-html-light'
 import { FileHtmlRegular } from '../regular/file-html-regular'
 import { FileHtmlThin } from '../thin/file-html-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

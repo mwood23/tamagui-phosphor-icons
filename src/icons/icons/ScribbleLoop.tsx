@@ -6,7 +6,7 @@ import { ScribbleLoopFill } from '../fill/scribble-loop-fill'
 import { ScribbleLoopLight } from '../light/scribble-loop-light'
 import { ScribbleLoopRegular } from '../regular/scribble-loop-regular'
 import { ScribbleLoopThin } from '../thin/scribble-loop-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

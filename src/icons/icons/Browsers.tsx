@@ -6,7 +6,7 @@ import { BrowsersFill } from '../fill/browsers-fill'
 import { BrowsersLight } from '../light/browsers-light'
 import { BrowsersRegular } from '../regular/browsers-regular'
 import { BrowsersThin } from '../thin/browsers-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

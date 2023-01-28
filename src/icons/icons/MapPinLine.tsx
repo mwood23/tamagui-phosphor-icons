@@ -6,7 +6,7 @@ import { MapPinLineFill } from '../fill/map-pin-line-fill'
 import { MapPinLineLight } from '../light/map-pin-line-light'
 import { MapPinLineRegular } from '../regular/map-pin-line-regular'
 import { MapPinLineThin } from '../thin/map-pin-line-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

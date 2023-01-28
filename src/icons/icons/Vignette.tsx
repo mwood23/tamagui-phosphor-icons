@@ -6,7 +6,7 @@ import { VignetteFill } from '../fill/vignette-fill'
 import { VignetteLight } from '../light/vignette-light'
 import { VignetteRegular } from '../regular/vignette-regular'
 import { VignetteThin } from '../thin/vignette-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

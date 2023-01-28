@@ -1,4 +1,4 @@
-export * from './icons/icons/IconContext'
+export * from './icons/icons/IconContextProvider'
 export * from './icons/icons/IconProps'
 export { Activity } from './icons/icons/Activity'
 export { AddressBook } from './icons/icons/AddressBook'

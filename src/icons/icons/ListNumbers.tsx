@@ -6,7 +6,7 @@ import { ListNumbersFill } from '../fill/list-numbers-fill'
 import { ListNumbersLight } from '../light/list-numbers-light'
 import { ListNumbersRegular } from '../regular/list-numbers-regular'
 import { ListNumbersThin } from '../thin/list-numbers-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

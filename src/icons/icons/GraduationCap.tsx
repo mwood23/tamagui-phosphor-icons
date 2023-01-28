@@ -6,7 +6,7 @@ import { GraduationCapFill } from '../fill/graduation-cap-fill'
 import { GraduationCapLight } from '../light/graduation-cap-light'
 import { GraduationCapRegular } from '../regular/graduation-cap-regular'
 import { GraduationCapThin } from '../thin/graduation-cap-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

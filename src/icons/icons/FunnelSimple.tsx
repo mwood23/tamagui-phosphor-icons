@@ -6,7 +6,7 @@ import { FunnelSimpleFill } from '../fill/funnel-simple-fill'
 import { FunnelSimpleLight } from '../light/funnel-simple-light'
 import { FunnelSimpleRegular } from '../regular/funnel-simple-regular'
 import { FunnelSimpleThin } from '../thin/funnel-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CaretDoubleUpFill } from '../fill/caret-double-up-fill'
 import { CaretDoubleUpLight } from '../light/caret-double-up-light'
 import { CaretDoubleUpRegular } from '../regular/caret-double-up-regular'
 import { CaretDoubleUpThin } from '../thin/caret-double-up-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

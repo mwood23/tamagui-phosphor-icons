@@ -6,7 +6,7 @@ import { GitBranchFill } from '../fill/git-branch-fill'
 import { GitBranchLight } from '../light/git-branch-light'
 import { GitBranchRegular } from '../regular/git-branch-regular'
 import { GitBranchThin } from '../thin/git-branch-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

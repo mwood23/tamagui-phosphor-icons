@@ -6,7 +6,7 @@ import { CoffeeFill } from '../fill/coffee-fill'
 import { CoffeeLight } from '../light/coffee-light'
 import { CoffeeRegular } from '../regular/coffee-regular'
 import { CoffeeThin } from '../thin/coffee-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { ArrowUUpRightFill } from '../fill/arrow-u-up-right-fill'
 import { ArrowUUpRightLight } from '../light/arrow-u-up-right-light'
 import { ArrowUUpRightRegular } from '../regular/arrow-u-up-right-regular'
 import { ArrowUUpRightThin } from '../thin/arrow-u-up-right-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

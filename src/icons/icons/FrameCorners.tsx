@@ -6,7 +6,7 @@ import { FrameCornersFill } from '../fill/frame-corners-fill'
 import { FrameCornersLight } from '../light/frame-corners-light'
 import { FrameCornersRegular } from '../regular/frame-corners-regular'
 import { FrameCornersThin } from '../thin/frame-corners-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

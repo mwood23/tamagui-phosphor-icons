@@ -6,7 +6,7 @@ import { CurrencyCircleDollarFill } from '../fill/currency-circle-dollar-fill'
 import { CurrencyCircleDollarLight } from '../light/currency-circle-dollar-light'
 import { CurrencyCircleDollarRegular } from '../regular/currency-circle-dollar-regular'
 import { CurrencyCircleDollarThin } from '../thin/currency-circle-dollar-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

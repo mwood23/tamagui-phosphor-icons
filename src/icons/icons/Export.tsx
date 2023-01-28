@@ -6,7 +6,7 @@ import { ExportFill } from '../fill/export-fill'
 import { ExportLight } from '../light/export-light'
 import { ExportRegular } from '../regular/export-regular'
 import { ExportThin } from '../thin/export-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

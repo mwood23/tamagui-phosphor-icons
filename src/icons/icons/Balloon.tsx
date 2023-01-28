@@ -6,7 +6,7 @@ import { BalloonFill } from '../fill/balloon-fill'
 import { BalloonLight } from '../light/balloon-light'
 import { BalloonRegular } from '../regular/balloon-regular'
 import { BalloonThin } from '../thin/balloon-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

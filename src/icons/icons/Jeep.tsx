@@ -6,7 +6,7 @@ import { JeepFill } from '../fill/jeep-fill'
 import { JeepLight } from '../light/jeep-light'
 import { JeepRegular } from '../regular/jeep-regular'
 import { JeepThin } from '../thin/jeep-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TextHSixFill } from '../fill/text-h-six-fill'
 import { TextHSixLight } from '../light/text-h-six-light'
 import { TextHSixRegular } from '../regular/text-h-six-regular'
 import { TextHSixThin } from '../thin/text-h-six-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

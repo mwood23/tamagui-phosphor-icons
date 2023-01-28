@@ -6,7 +6,7 @@ import { SidebarSimpleFill } from '../fill/sidebar-simple-fill'
 import { SidebarSimpleLight } from '../light/sidebar-simple-light'
 import { SidebarSimpleRegular } from '../regular/sidebar-simple-regular'
 import { SidebarSimpleThin } from '../thin/sidebar-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

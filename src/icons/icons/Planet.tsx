@@ -6,7 +6,7 @@ import { PlanetFill } from '../fill/planet-fill'
 import { PlanetLight } from '../light/planet-light'
 import { PlanetRegular } from '../regular/planet-regular'
 import { PlanetThin } from '../thin/planet-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FinnTheHumanFill } from '../fill/finn-the-human-fill'
 import { FinnTheHumanLight } from '../light/finn-the-human-light'
 import { FinnTheHumanRegular } from '../regular/finn-the-human-regular'
 import { FinnTheHumanThin } from '../thin/finn-the-human-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

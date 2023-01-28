@@ -6,7 +6,7 @@ import { TreeEvergreenFill } from '../fill/tree-evergreen-fill'
 import { TreeEvergreenLight } from '../light/tree-evergreen-light'
 import { TreeEvergreenRegular } from '../regular/tree-evergreen-regular'
 import { TreeEvergreenThin } from '../thin/tree-evergreen-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { SelectionForegroundFill } from '../fill/selection-foreground-fill'
 import { SelectionForegroundLight } from '../light/selection-foreground-light'
 import { SelectionForegroundRegular } from '../regular/selection-foreground-regular'
 import { SelectionForegroundThin } from '../thin/selection-foreground-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

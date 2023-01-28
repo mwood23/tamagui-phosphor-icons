@@ -6,7 +6,7 @@ import { ActivityFill } from '../fill/activity-fill'
 import { ActivityLight } from '../light/activity-light'
 import { ActivityRegular } from '../regular/activity-regular'
 import { ActivityThin } from '../thin/activity-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

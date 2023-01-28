@@ -6,7 +6,7 @@ import { ArrowSquareInFill } from '../fill/arrow-square-in-fill'
 import { ArrowSquareInLight } from '../light/arrow-square-in-light'
 import { ArrowSquareInRegular } from '../regular/arrow-square-in-regular'
 import { ArrowSquareInThin } from '../thin/arrow-square-in-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { VaultFill } from '../fill/vault-fill'
 import { VaultLight } from '../light/vault-light'
 import { VaultRegular } from '../regular/vault-regular'
 import { VaultThin } from '../thin/vault-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

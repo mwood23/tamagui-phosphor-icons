@@ -6,7 +6,7 @@ import { MountainsFill } from '../fill/mountains-fill'
 import { MountainsLight } from '../light/mountains-light'
 import { MountainsRegular } from '../regular/mountains-regular'
 import { MountainsThin } from '../thin/mountains-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

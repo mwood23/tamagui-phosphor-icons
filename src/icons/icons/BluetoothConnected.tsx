@@ -6,7 +6,7 @@ import { BluetoothConnectedFill } from '../fill/bluetooth-connected-fill'
 import { BluetoothConnectedLight } from '../light/bluetooth-connected-light'
 import { BluetoothConnectedRegular } from '../regular/bluetooth-connected-regular'
 import { BluetoothConnectedThin } from '../thin/bluetooth-connected-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

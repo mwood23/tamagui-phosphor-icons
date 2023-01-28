@@ -6,7 +6,7 @@ import { IdentificationCardFill } from '../fill/identification-card-fill'
 import { IdentificationCardLight } from '../light/identification-card-light'
 import { IdentificationCardRegular } from '../regular/identification-card-regular'
 import { IdentificationCardThin } from '../thin/identification-card-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

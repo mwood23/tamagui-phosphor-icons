@@ -6,7 +6,7 @@ import { SignInFill } from '../fill/sign-in-fill'
 import { SignInLight } from '../light/sign-in-light'
 import { SignInRegular } from '../regular/sign-in-regular'
 import { SignInThin } from '../thin/sign-in-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TextItalicFill } from '../fill/text-italic-fill'
 import { TextItalicLight } from '../light/text-italic-light'
 import { TextItalicRegular } from '../regular/text-italic-regular'
 import { TextItalicThin } from '../thin/text-italic-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

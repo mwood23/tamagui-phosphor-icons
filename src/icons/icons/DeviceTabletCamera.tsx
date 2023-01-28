@@ -6,7 +6,7 @@ import { DeviceTabletCameraFill } from '../fill/device-tablet-camera-fill'
 import { DeviceTabletCameraLight } from '../light/device-tablet-camera-light'
 import { DeviceTabletCameraRegular } from '../regular/device-tablet-camera-regular'
 import { DeviceTabletCameraThin } from '../thin/device-tablet-camera-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

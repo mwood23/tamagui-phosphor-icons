@@ -6,7 +6,7 @@ import { CurrencyDollarSimpleFill } from '../fill/currency-dollar-simple-fill'
 import { CurrencyDollarSimpleLight } from '../light/currency-dollar-simple-light'
 import { CurrencyDollarSimpleRegular } from '../regular/currency-dollar-simple-regular'
 import { CurrencyDollarSimpleThin } from '../thin/currency-dollar-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

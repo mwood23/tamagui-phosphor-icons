@@ -6,7 +6,7 @@ import { UserGearFill } from '../fill/user-gear-fill'
 import { UserGearLight } from '../light/user-gear-light'
 import { UserGearRegular } from '../regular/user-gear-regular'
 import { UserGearThin } from '../thin/user-gear-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

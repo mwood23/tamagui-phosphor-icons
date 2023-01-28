@@ -6,7 +6,7 @@ import { CameraSlashFill } from '../fill/camera-slash-fill'
 import { CameraSlashLight } from '../light/camera-slash-light'
 import { CameraSlashRegular } from '../regular/camera-slash-regular'
 import { CameraSlashThin } from '../thin/camera-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

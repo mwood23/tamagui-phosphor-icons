@@ -6,7 +6,7 @@ import { ShieldWarningFill } from '../fill/shield-warning-fill'
 import { ShieldWarningLight } from '../light/shield-warning-light'
 import { ShieldWarningRegular } from '../regular/shield-warning-regular'
 import { ShieldWarningThin } from '../thin/shield-warning-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

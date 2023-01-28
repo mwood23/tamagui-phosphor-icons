@@ -6,7 +6,7 @@ import { WaveTriangleFill } from '../fill/wave-triangle-fill'
 import { WaveTriangleLight } from '../light/wave-triangle-light'
 import { WaveTriangleRegular } from '../regular/wave-triangle-regular'
 import { WaveTriangleThin } from '../thin/wave-triangle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

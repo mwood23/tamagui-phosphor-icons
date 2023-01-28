@@ -6,7 +6,7 @@ import { WebcamFill } from '../fill/webcam-fill'
 import { WebcamLight } from '../light/webcam-light'
 import { WebcamRegular } from '../regular/webcam-regular'
 import { WebcamThin } from '../thin/webcam-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

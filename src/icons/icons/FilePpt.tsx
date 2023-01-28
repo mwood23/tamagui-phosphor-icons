@@ -6,7 +6,7 @@ import { FilePptFill } from '../fill/file-ppt-fill'
 import { FilePptLight } from '../light/file-ppt-light'
 import { FilePptRegular } from '../regular/file-ppt-regular'
 import { FilePptThin } from '../thin/file-ppt-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

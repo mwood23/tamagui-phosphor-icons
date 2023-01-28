@@ -6,7 +6,7 @@ import { GitlabLogoSimpleFill } from '../fill/gitlab-logo-simple-fill'
 import { GitlabLogoSimpleLight } from '../light/gitlab-logo-simple-light'
 import { GitlabLogoSimpleRegular } from '../regular/gitlab-logo-simple-regular'
 import { GitlabLogoSimpleThin } from '../thin/gitlab-logo-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

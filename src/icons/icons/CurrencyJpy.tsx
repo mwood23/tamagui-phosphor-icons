@@ -6,7 +6,7 @@ import { CurrencyJpyFill } from '../fill/currency-jpy-fill'
 import { CurrencyJpyLight } from '../light/currency-jpy-light'
 import { CurrencyJpyRegular } from '../regular/currency-jpy-regular'
 import { CurrencyJpyThin } from '../thin/currency-jpy-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { DiceTwoFill } from '../fill/dice-two-fill'
 import { DiceTwoLight } from '../light/dice-two-light'
 import { DiceTwoRegular } from '../regular/dice-two-regular'
 import { DiceTwoThin } from '../thin/dice-two-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { BackspaceFill } from '../fill/backspace-fill'
 import { BackspaceLight } from '../light/backspace-light'
 import { BackspaceRegular } from '../regular/backspace-regular'
 import { BackspaceThin } from '../thin/backspace-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

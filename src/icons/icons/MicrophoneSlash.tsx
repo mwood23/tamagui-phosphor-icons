@@ -6,7 +6,7 @@ import { MicrophoneSlashFill } from '../fill/microphone-slash-fill'
 import { MicrophoneSlashLight } from '../light/microphone-slash-light'
 import { MicrophoneSlashRegular } from '../regular/microphone-slash-regular'
 import { MicrophoneSlashThin } from '../thin/microphone-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

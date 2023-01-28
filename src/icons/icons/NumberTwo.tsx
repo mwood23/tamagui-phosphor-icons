@@ -6,7 +6,7 @@ import { NumberTwoFill } from '../fill/number-two-fill'
 import { NumberTwoLight } from '../light/number-two-light'
 import { NumberTwoRegular } from '../regular/number-two-regular'
 import { NumberTwoThin } from '../thin/number-two-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

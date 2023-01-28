@@ -6,7 +6,7 @@ import { EqualizerFill } from '../fill/equalizer-fill'
 import { EqualizerLight } from '../light/equalizer-light'
 import { EqualizerRegular } from '../regular/equalizer-regular'
 import { EqualizerThin } from '../thin/equalizer-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

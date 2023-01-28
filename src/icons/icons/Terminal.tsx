@@ -6,7 +6,7 @@ import { TerminalFill } from '../fill/terminal-fill'
 import { TerminalLight } from '../light/terminal-light'
 import { TerminalRegular } from '../regular/terminal-regular'
 import { TerminalThin } from '../thin/terminal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

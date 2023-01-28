@@ -6,7 +6,7 @@ import { HexagonFill } from '../fill/hexagon-fill'
 import { HexagonLight } from '../light/hexagon-light'
 import { HexagonRegular } from '../regular/hexagon-regular'
 import { HexagonThin } from '../thin/hexagon-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

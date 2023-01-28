@@ -6,7 +6,7 @@ import { OctagonFill } from '../fill/octagon-fill'
 import { OctagonLight } from '../light/octagon-light'
 import { OctagonRegular } from '../regular/octagon-regular'
 import { OctagonThin } from '../thin/octagon-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

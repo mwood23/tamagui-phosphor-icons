@@ -6,7 +6,7 @@ import { LinuxLogoFill } from '../fill/linux-logo-fill'
 import { LinuxLogoLight } from '../light/linux-logo-light'
 import { LinuxLogoRegular } from '../regular/linux-logo-regular'
 import { LinuxLogoThin } from '../thin/linux-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

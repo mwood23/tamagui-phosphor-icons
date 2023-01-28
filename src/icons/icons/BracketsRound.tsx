@@ -6,7 +6,7 @@ import { BracketsRoundFill } from '../fill/brackets-round-fill'
 import { BracketsRoundLight } from '../light/brackets-round-light'
 import { BracketsRoundRegular } from '../regular/brackets-round-regular'
 import { BracketsRoundThin } from '../thin/brackets-round-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

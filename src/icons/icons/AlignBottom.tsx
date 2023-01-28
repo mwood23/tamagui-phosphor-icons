@@ -6,7 +6,7 @@ import { AlignBottomFill } from '../fill/align-bottom-fill'
 import { AlignBottomLight } from '../light/align-bottom-light'
 import { AlignBottomRegular } from '../regular/align-bottom-regular'
 import { AlignBottomThin } from '../thin/align-bottom-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

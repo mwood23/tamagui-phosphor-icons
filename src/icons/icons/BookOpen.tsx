@@ -6,7 +6,7 @@ import { BookOpenFill } from '../fill/book-open-fill'
 import { BookOpenLight } from '../light/book-open-light'
 import { BookOpenRegular } from '../regular/book-open-regular'
 import { BookOpenThin } from '../thin/book-open-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { ClubFill } from '../fill/club-fill'
 import { ClubLight } from '../light/club-light'
 import { ClubRegular } from '../regular/club-regular'
 import { ClubThin } from '../thin/club-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

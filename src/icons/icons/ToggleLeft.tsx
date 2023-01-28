@@ -6,7 +6,7 @@ import { ToggleLeftFill } from '../fill/toggle-left-fill'
 import { ToggleLeftLight } from '../light/toggle-left-light'
 import { ToggleLeftRegular } from '../regular/toggle-left-regular'
 import { ToggleLeftThin } from '../thin/toggle-left-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

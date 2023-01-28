@@ -6,7 +6,7 @@ import { GenderMaleFill } from '../fill/gender-male-fill'
 import { GenderMaleLight } from '../light/gender-male-light'
 import { GenderMaleRegular } from '../regular/gender-male-regular'
 import { GenderMaleThin } from '../thin/gender-male-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

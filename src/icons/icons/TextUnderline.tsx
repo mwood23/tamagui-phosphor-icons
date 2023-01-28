@@ -6,7 +6,7 @@ import { TextUnderlineFill } from '../fill/text-underline-fill'
 import { TextUnderlineLight } from '../light/text-underline-light'
 import { TextUnderlineRegular } from '../regular/text-underline-regular'
 import { TextUnderlineThin } from '../thin/text-underline-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

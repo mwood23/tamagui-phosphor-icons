@@ -6,7 +6,7 @@ import { YoutubeLogoFill } from '../fill/youtube-logo-fill'
 import { YoutubeLogoLight } from '../light/youtube-logo-light'
 import { YoutubeLogoRegular } from '../regular/youtube-logo-regular'
 import { YoutubeLogoThin } from '../thin/youtube-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

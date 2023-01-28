@@ -6,7 +6,7 @@ import { ArrowClockwiseFill } from '../fill/arrow-clockwise-fill'
 import { ArrowClockwiseLight } from '../light/arrow-clockwise-light'
 import { ArrowClockwiseRegular } from '../regular/arrow-clockwise-regular'
 import { ArrowClockwiseThin } from '../thin/arrow-clockwise-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

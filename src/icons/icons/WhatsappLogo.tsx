@@ -6,7 +6,7 @@ import { WhatsappLogoFill } from '../fill/whatsapp-logo-fill'
 import { WhatsappLogoLight } from '../light/whatsapp-logo-light'
 import { WhatsappLogoRegular } from '../regular/whatsapp-logo-regular'
 import { WhatsappLogoThin } from '../thin/whatsapp-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

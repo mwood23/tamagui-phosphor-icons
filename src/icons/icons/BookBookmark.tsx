@@ -6,7 +6,7 @@ import { BookBookmarkFill } from '../fill/book-bookmark-fill'
 import { BookBookmarkLight } from '../light/book-bookmark-light'
 import { BookBookmarkRegular } from '../regular/book-bookmark-regular'
 import { BookBookmarkThin } from '../thin/book-bookmark-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

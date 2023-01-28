@@ -6,7 +6,7 @@ import { InfinityFill } from '../fill/infinity-fill'
 import { InfinityLight } from '../light/infinity-light'
 import { InfinityRegular } from '../regular/infinity-regular'
 import { InfinityThin } from '../thin/infinity-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

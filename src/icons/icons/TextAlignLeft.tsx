@@ -6,7 +6,7 @@ import { TextAlignLeftFill } from '../fill/text-align-left-fill'
 import { TextAlignLeftLight } from '../light/text-align-left-light'
 import { TextAlignLeftRegular } from '../regular/text-align-left-regular'
 import { TextAlignLeftThin } from '../thin/text-align-left-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

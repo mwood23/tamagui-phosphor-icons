@@ -6,7 +6,7 @@ import { LinkSimpleHorizontalFill } from '../fill/link-simple-horizontal-fill'
 import { LinkSimpleHorizontalLight } from '../light/link-simple-horizontal-light'
 import { LinkSimpleHorizontalRegular } from '../regular/link-simple-horizontal-regular'
 import { LinkSimpleHorizontalThin } from '../thin/link-simple-horizontal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

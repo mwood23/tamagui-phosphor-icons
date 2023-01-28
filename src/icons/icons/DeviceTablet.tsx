@@ -6,7 +6,7 @@ import { DeviceTabletFill } from '../fill/device-tablet-fill'
 import { DeviceTabletLight } from '../light/device-tablet-light'
 import { DeviceTabletRegular } from '../regular/device-tablet-regular'
 import { DeviceTabletThin } from '../thin/device-tablet-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

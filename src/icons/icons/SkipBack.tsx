@@ -6,7 +6,7 @@ import { SkipBackFill } from '../fill/skip-back-fill'
 import { SkipBackLight } from '../light/skip-back-light'
 import { SkipBackRegular } from '../regular/skip-back-regular'
 import { SkipBackThin } from '../thin/skip-back-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

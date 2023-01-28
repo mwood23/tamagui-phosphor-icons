@@ -6,7 +6,7 @@ import { PinterestLogoFill } from '../fill/pinterest-logo-fill'
 import { PinterestLogoLight } from '../light/pinterest-logo-light'
 import { PinterestLogoRegular } from '../regular/pinterest-logo-regular'
 import { PinterestLogoThin } from '../thin/pinterest-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

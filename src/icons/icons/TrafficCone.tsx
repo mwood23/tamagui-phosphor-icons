@@ -6,7 +6,7 @@ import { TrafficConeFill } from '../fill/traffic-cone-fill'
 import { TrafficConeLight } from '../light/traffic-cone-light'
 import { TrafficConeRegular } from '../regular/traffic-cone-regular'
 import { TrafficConeThin } from '../thin/traffic-cone-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

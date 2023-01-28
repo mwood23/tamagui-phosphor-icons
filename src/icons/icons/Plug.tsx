@@ -6,7 +6,7 @@ import { PlugFill } from '../fill/plug-fill'
 import { PlugLight } from '../light/plug-light'
 import { PlugRegular } from '../regular/plug-regular'
 import { PlugThin } from '../thin/plug-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { ArrowsHorizontalFill } from '../fill/arrows-horizontal-fill'
 import { ArrowsHorizontalLight } from '../light/arrows-horizontal-light'
 import { ArrowsHorizontalRegular } from '../regular/arrows-horizontal-regular'
 import { ArrowsHorizontalThin } from '../thin/arrows-horizontal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

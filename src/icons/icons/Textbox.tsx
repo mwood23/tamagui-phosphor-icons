@@ -6,7 +6,7 @@ import { TextboxFill } from '../fill/textbox-fill'
 import { TextboxLight } from '../light/textbox-light'
 import { TextboxRegular } from '../regular/textbox-regular'
 import { TextboxThin } from '../thin/textbox-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

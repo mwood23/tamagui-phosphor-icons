@@ -6,7 +6,7 @@ import { WindFill } from '../fill/wind-fill'
 import { WindLight } from '../light/wind-light'
 import { WindRegular } from '../regular/wind-regular'
 import { WindThin } from '../thin/wind-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

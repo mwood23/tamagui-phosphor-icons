@@ -6,7 +6,7 @@ import { KnifeFill } from '../fill/knife-fill'
 import { KnifeLight } from '../light/knife-light'
 import { KnifeRegular } from '../regular/knife-regular'
 import { KnifeThin } from '../thin/knife-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

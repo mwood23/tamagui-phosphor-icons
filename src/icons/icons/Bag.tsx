@@ -6,7 +6,7 @@ import { BagFill } from '../fill/bag-fill'
 import { BagLight } from '../light/bag-light'
 import { BagRegular } from '../regular/bag-regular'
 import { BagThin } from '../thin/bag-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

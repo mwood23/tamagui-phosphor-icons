@@ -6,7 +6,7 @@ import { ScissorsFill } from '../fill/scissors-fill'
 import { ScissorsLight } from '../light/scissors-light'
 import { ScissorsRegular } from '../regular/scissors-regular'
 import { ScissorsThin } from '../thin/scissors-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

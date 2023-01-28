@@ -6,7 +6,7 @@ import { SimCardFill } from '../fill/sim-card-fill'
 import { SimCardLight } from '../light/sim-card-light'
 import { SimCardRegular } from '../regular/sim-card-regular'
 import { SimCardThin } from '../thin/sim-card-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

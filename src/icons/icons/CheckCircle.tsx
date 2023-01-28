@@ -6,7 +6,7 @@ import { CheckCircleFill } from '../fill/check-circle-fill'
 import { CheckCircleLight } from '../light/check-circle-light'
 import { CheckCircleRegular } from '../regular/check-circle-regular'
 import { CheckCircleThin } from '../thin/check-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

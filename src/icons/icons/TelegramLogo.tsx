@@ -6,7 +6,7 @@ import { TelegramLogoFill } from '../fill/telegram-logo-fill'
 import { TelegramLogoLight } from '../light/telegram-logo-light'
 import { TelegramLogoRegular } from '../regular/telegram-logo-regular'
 import { TelegramLogoThin } from '../thin/telegram-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

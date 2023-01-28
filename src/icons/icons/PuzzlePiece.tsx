@@ -6,7 +6,7 @@ import { PuzzlePieceFill } from '../fill/puzzle-piece-fill'
 import { PuzzlePieceLight } from '../light/puzzle-piece-light'
 import { PuzzlePieceRegular } from '../regular/puzzle-piece-regular'
 import { PuzzlePieceThin } from '../thin/puzzle-piece-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

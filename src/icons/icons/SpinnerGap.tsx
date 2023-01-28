@@ -6,7 +6,7 @@ import { SpinnerGapFill } from '../fill/spinner-gap-fill'
 import { SpinnerGapLight } from '../light/spinner-gap-light'
 import { SpinnerGapRegular } from '../regular/spinner-gap-regular'
 import { SpinnerGapThin } from '../thin/spinner-gap-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

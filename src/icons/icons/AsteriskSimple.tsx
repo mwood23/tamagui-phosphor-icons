@@ -6,7 +6,7 @@ import { AsteriskSimpleFill } from '../fill/asterisk-simple-fill'
 import { AsteriskSimpleLight } from '../light/asterisk-simple-light'
 import { AsteriskSimpleRegular } from '../regular/asterisk-simple-regular'
 import { AsteriskSimpleThin } from '../thin/asterisk-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

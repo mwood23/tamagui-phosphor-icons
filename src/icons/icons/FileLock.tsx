@@ -6,7 +6,7 @@ import { FileLockFill } from '../fill/file-lock-fill'
 import { FileLockLight } from '../light/file-lock-light'
 import { FileLockRegular } from '../regular/file-lock-regular'
 import { FileLockThin } from '../thin/file-lock-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

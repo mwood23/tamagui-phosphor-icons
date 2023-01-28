@@ -6,7 +6,7 @@ import { BookmarksSimpleFill } from '../fill/bookmarks-simple-fill'
 import { BookmarksSimpleLight } from '../light/bookmarks-simple-light'
 import { BookmarksSimpleRegular } from '../regular/bookmarks-simple-regular'
 import { BookmarksSimpleThin } from '../thin/bookmarks-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

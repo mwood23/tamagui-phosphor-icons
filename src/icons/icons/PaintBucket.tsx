@@ -6,7 +6,7 @@ import { PaintBucketFill } from '../fill/paint-bucket-fill'
 import { PaintBucketLight } from '../light/paint-bucket-light'
 import { PaintBucketRegular } from '../regular/paint-bucket-regular'
 import { PaintBucketThin } from '../thin/paint-bucket-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { GhostFill } from '../fill/ghost-fill'
 import { GhostLight } from '../light/ghost-light'
 import { GhostRegular } from '../regular/ghost-regular'
 import { GhostThin } from '../thin/ghost-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

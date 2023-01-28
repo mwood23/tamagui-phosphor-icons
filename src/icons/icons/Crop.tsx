@@ -6,7 +6,7 @@ import { CropFill } from '../fill/crop-fill'
 import { CropLight } from '../light/crop-light'
 import { CropRegular } from '../regular/crop-regular'
 import { CropThin } from '../thin/crop-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

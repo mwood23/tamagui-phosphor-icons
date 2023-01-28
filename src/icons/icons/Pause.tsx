@@ -6,7 +6,7 @@ import { PauseFill } from '../fill/pause-fill'
 import { PauseLight } from '../light/pause-light'
 import { PauseRegular } from '../regular/pause-regular'
 import { PauseThin } from '../thin/pause-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

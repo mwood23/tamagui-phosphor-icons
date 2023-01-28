@@ -6,7 +6,7 @@ import { AnchorSimpleFill } from '../fill/anchor-simple-fill'
 import { AnchorSimpleLight } from '../light/anchor-simple-light'
 import { AnchorSimpleRegular } from '../regular/anchor-simple-regular'
 import { AnchorSimpleThin } from '../thin/anchor-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

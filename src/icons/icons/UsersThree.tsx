@@ -6,7 +6,7 @@ import { UsersThreeFill } from '../fill/users-three-fill'
 import { UsersThreeLight } from '../light/users-three-light'
 import { UsersThreeRegular } from '../regular/users-three-regular'
 import { UsersThreeThin } from '../thin/users-three-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

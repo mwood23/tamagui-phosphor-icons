@@ -6,7 +6,7 @@ import { FloppyDiskBackFill } from '../fill/floppy-disk-back-fill'
 import { FloppyDiskBackLight } from '../light/floppy-disk-back-light'
 import { FloppyDiskBackRegular } from '../regular/floppy-disk-back-regular'
 import { FloppyDiskBackThin } from '../thin/floppy-disk-back-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

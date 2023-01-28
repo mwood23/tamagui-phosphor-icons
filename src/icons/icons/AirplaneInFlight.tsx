@@ -6,7 +6,7 @@ import { AirplaneInFlightFill } from '../fill/airplane-in-flight-fill'
 import { AirplaneInFlightLight } from '../light/airplane-in-flight-light'
 import { AirplaneInFlightRegular } from '../regular/airplane-in-flight-regular'
 import { AirplaneInFlightThin } from '../thin/airplane-in-flight-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

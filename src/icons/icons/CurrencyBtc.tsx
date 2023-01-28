@@ -6,7 +6,7 @@ import { CurrencyBtcFill } from '../fill/currency-btc-fill'
 import { CurrencyBtcLight } from '../light/currency-btc-light'
 import { CurrencyBtcRegular } from '../regular/currency-btc-regular'
 import { CurrencyBtcThin } from '../thin/currency-btc-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

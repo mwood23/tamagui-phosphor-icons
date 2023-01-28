@@ -6,7 +6,7 @@ import { ShieldStarFill } from '../fill/shield-star-fill'
 import { ShieldStarLight } from '../light/shield-star-light'
 import { ShieldStarRegular } from '../regular/shield-star-regular'
 import { ShieldStarThin } from '../thin/shield-star-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

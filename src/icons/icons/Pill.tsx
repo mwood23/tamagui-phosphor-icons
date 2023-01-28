@@ -6,7 +6,7 @@ import { PillFill } from '../fill/pill-fill'
 import { PillLight } from '../light/pill-light'
 import { PillRegular } from '../regular/pill-regular'
 import { PillThin } from '../thin/pill-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

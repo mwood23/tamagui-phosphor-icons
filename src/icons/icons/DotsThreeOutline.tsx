@@ -6,7 +6,7 @@ import { DotsThreeOutlineFill } from '../fill/dots-three-outline-fill'
 import { DotsThreeOutlineLight } from '../light/dots-three-outline-light'
 import { DotsThreeOutlineRegular } from '../regular/dots-three-outline-regular'
 import { DotsThreeOutlineThin } from '../thin/dots-three-outline-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

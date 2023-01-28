@@ -6,7 +6,7 @@ import { CheckSquareOffsetFill } from '../fill/check-square-offset-fill'
 import { CheckSquareOffsetLight } from '../light/check-square-offset-light'
 import { CheckSquareOffsetRegular } from '../regular/check-square-offset-regular'
 import { CheckSquareOffsetThin } from '../thin/check-square-offset-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

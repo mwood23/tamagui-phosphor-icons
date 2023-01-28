@@ -6,7 +6,7 @@ import { BracketsCurlyFill } from '../fill/brackets-curly-fill'
 import { BracketsCurlyLight } from '../light/brackets-curly-light'
 import { BracketsCurlyRegular } from '../regular/brackets-curly-regular'
 import { BracketsCurlyThin } from '../thin/brackets-curly-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CloudSlashFill } from '../fill/cloud-slash-fill'
 import { CloudSlashLight } from '../light/cloud-slash-light'
 import { CloudSlashRegular } from '../regular/cloud-slash-regular'
 import { CloudSlashThin } from '../thin/cloud-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

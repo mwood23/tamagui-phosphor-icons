@@ -6,7 +6,7 @@ import { AlignRightSimpleFill } from '../fill/align-right-simple-fill'
 import { AlignRightSimpleLight } from '../light/align-right-simple-light'
 import { AlignRightSimpleRegular } from '../regular/align-right-simple-regular'
 import { AlignRightSimpleThin } from '../thin/align-right-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

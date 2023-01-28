@@ -6,7 +6,7 @@ import { InstagramLogoFill } from '../fill/instagram-logo-fill'
 import { InstagramLogoLight } from '../light/instagram-logo-light'
 import { InstagramLogoRegular } from '../regular/instagram-logo-regular'
 import { InstagramLogoThin } from '../thin/instagram-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

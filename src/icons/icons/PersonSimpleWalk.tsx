@@ -6,7 +6,7 @@ import { PersonSimpleWalkFill } from '../fill/person-simple-walk-fill'
 import { PersonSimpleWalkLight } from '../light/person-simple-walk-light'
 import { PersonSimpleWalkRegular } from '../regular/person-simple-walk-regular'
 import { PersonSimpleWalkThin } from '../thin/person-simple-walk-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

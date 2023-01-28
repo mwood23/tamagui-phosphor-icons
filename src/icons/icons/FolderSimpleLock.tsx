@@ -6,7 +6,7 @@ import { FolderSimpleLockFill } from '../fill/folder-simple-lock-fill'
 import { FolderSimpleLockLight } from '../light/folder-simple-lock-light'
 import { FolderSimpleLockRegular } from '../regular/folder-simple-lock-regular'
 import { FolderSimpleLockThin } from '../thin/folder-simple-lock-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

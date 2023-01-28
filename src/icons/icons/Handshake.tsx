@@ -6,7 +6,7 @@ import { HandshakeFill } from '../fill/handshake-fill'
 import { HandshakeLight } from '../light/handshake-light'
 import { HandshakeRegular } from '../regular/handshake-regular'
 import { HandshakeThin } from '../thin/handshake-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

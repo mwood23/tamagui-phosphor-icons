@@ -6,7 +6,7 @@ import { PolygonFill } from '../fill/polygon-fill'
 import { PolygonLight } from '../light/polygon-light'
 import { PolygonRegular } from '../regular/polygon-regular'
 import { PolygonThin } from '../thin/polygon-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

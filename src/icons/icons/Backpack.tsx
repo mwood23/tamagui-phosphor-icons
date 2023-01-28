@@ -6,7 +6,7 @@ import { BackpackFill } from '../fill/backpack-fill'
 import { BackpackLight } from '../light/backpack-light'
 import { BackpackRegular } from '../regular/backpack-regular'
 import { BackpackThin } from '../thin/backpack-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

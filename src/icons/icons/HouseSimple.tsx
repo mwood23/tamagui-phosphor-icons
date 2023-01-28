@@ -6,7 +6,7 @@ import { HouseSimpleFill } from '../fill/house-simple-fill'
 import { HouseSimpleLight } from '../light/house-simple-light'
 import { HouseSimpleRegular } from '../regular/house-simple-regular'
 import { HouseSimpleThin } from '../thin/house-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

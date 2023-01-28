@@ -6,7 +6,7 @@ import { CookingPotFill } from '../fill/cooking-pot-fill'
 import { CookingPotLight } from '../light/cooking-pot-light'
 import { CookingPotRegular } from '../regular/cooking-pot-regular'
 import { CookingPotThin } from '../thin/cooking-pot-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

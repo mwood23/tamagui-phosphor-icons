@@ -6,7 +6,7 @@ import { OptionFill } from '../fill/option-fill'
 import { OptionLight } from '../light/option-light'
 import { OptionRegular } from '../regular/option-regular'
 import { OptionThin } from '../thin/option-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

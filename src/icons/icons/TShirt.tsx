@@ -6,7 +6,7 @@ import { TShirtFill } from '../fill/t-shirt-fill'
 import { TShirtLight } from '../light/t-shirt-light'
 import { TShirtRegular } from '../regular/t-shirt-regular'
 import { TShirtThin } from '../thin/t-shirt-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

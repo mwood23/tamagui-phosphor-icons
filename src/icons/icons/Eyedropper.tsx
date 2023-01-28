@@ -6,7 +6,7 @@ import { EyedropperFill } from '../fill/eyedropper-fill'
 import { EyedropperLight } from '../light/eyedropper-light'
 import { EyedropperRegular } from '../regular/eyedropper-regular'
 import { EyedropperThin } from '../thin/eyedropper-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

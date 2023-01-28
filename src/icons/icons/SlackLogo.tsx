@@ -6,7 +6,7 @@ import { SlackLogoFill } from '../fill/slack-logo-fill'
 import { SlackLogoLight } from '../light/slack-logo-light'
 import { SlackLogoRegular } from '../regular/slack-logo-regular'
 import { SlackLogoThin } from '../thin/slack-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

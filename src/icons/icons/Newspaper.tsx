@@ -6,7 +6,7 @@ import { NewspaperFill } from '../fill/newspaper-fill'
 import { NewspaperLight } from '../light/newspaper-light'
 import { NewspaperRegular } from '../regular/newspaper-regular'
 import { NewspaperThin } from '../thin/newspaper-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

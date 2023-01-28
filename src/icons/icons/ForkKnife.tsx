@@ -6,7 +6,7 @@ import { ForkKnifeFill } from '../fill/fork-knife-fill'
 import { ForkKnifeLight } from '../light/fork-knife-light'
 import { ForkKnifeRegular } from '../regular/fork-knife-regular'
 import { ForkKnifeThin } from '../thin/fork-knife-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

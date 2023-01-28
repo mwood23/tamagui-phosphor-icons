@@ -6,7 +6,7 @@ import { LineSegmentFill } from '../fill/line-segment-fill'
 import { LineSegmentLight } from '../light/line-segment-light'
 import { LineSegmentRegular } from '../regular/line-segment-regular'
 import { LineSegmentThin } from '../thin/line-segment-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

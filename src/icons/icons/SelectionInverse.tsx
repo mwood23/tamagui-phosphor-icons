@@ -6,7 +6,7 @@ import { SelectionInverseFill } from '../fill/selection-inverse-fill'
 import { SelectionInverseLight } from '../light/selection-inverse-light'
 import { SelectionInverseRegular } from '../regular/selection-inverse-regular'
 import { SelectionInverseThin } from '../thin/selection-inverse-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { ArrowBendDoubleUpLeftFill } from '../fill/arrow-bend-double-up-left-fil
 import { ArrowBendDoubleUpLeftLight } from '../light/arrow-bend-double-up-left-light'
 import { ArrowBendDoubleUpLeftRegular } from '../regular/arrow-bend-double-up-left-regular'
 import { ArrowBendDoubleUpLeftThin } from '../thin/arrow-bend-double-up-left-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

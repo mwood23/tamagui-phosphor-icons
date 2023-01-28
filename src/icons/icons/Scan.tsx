@@ -6,7 +6,7 @@ import { ScanFill } from '../fill/scan-fill'
 import { ScanLight } from '../light/scan-light'
 import { ScanRegular } from '../regular/scan-regular'
 import { ScanThin } from '../thin/scan-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

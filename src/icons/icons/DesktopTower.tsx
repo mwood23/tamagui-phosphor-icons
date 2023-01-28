@@ -6,7 +6,7 @@ import { DesktopTowerFill } from '../fill/desktop-tower-fill'
 import { DesktopTowerLight } from '../light/desktop-tower-light'
 import { DesktopTowerRegular } from '../regular/desktop-tower-regular'
 import { DesktopTowerThin } from '../thin/desktop-tower-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

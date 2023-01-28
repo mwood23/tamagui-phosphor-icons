@@ -6,7 +6,7 @@ import { ChartPieFill } from '../fill/chart-pie-fill'
 import { ChartPieLight } from '../light/chart-pie-light'
 import { ChartPieRegular } from '../regular/chart-pie-regular'
 import { ChartPieThin } from '../thin/chart-pie-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

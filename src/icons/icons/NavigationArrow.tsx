@@ -6,7 +6,7 @@ import { NavigationArrowFill } from '../fill/navigation-arrow-fill'
 import { NavigationArrowLight } from '../light/navigation-arrow-light'
 import { NavigationArrowRegular } from '../regular/navigation-arrow-regular'
 import { NavigationArrowThin } from '../thin/navigation-arrow-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

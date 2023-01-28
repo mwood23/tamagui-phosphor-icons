@@ -6,7 +6,7 @@ import { TrashFill } from '../fill/trash-fill'
 import { TrashLight } from '../light/trash-light'
 import { TrashRegular } from '../regular/trash-regular'
 import { TrashThin } from '../thin/trash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

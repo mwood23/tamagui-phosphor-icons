@@ -6,7 +6,7 @@ import { SparkleFill } from '../fill/sparkle-fill'
 import { SparkleLight } from '../light/sparkle-light'
 import { SparkleRegular } from '../regular/sparkle-regular'
 import { SparkleThin } from '../thin/sparkle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { RadicalFill } from '../fill/radical-fill'
 import { RadicalLight } from '../light/radical-light'
 import { RadicalRegular } from '../regular/radical-regular'
 import { RadicalThin } from '../thin/radical-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

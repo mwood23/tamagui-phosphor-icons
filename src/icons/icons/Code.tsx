@@ -6,7 +6,7 @@ import { CodeFill } from '../fill/code-fill'
 import { CodeLight } from '../light/code-light'
 import { CodeRegular } from '../regular/code-regular'
 import { CodeThin } from '../thin/code-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

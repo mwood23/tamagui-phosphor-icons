@@ -6,7 +6,7 @@ import { SpeakerLowFill } from '../fill/speaker-low-fill'
 import { SpeakerLowLight } from '../light/speaker-low-light'
 import { SpeakerLowRegular } from '../regular/speaker-low-regular'
 import { SpeakerLowThin } from '../thin/speaker-low-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

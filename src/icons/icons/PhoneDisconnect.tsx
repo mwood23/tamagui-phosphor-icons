@@ -6,7 +6,7 @@ import { PhoneDisconnectFill } from '../fill/phone-disconnect-fill'
 import { PhoneDisconnectLight } from '../light/phone-disconnect-light'
 import { PhoneDisconnectRegular } from '../regular/phone-disconnect-regular'
 import { PhoneDisconnectThin } from '../thin/phone-disconnect-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

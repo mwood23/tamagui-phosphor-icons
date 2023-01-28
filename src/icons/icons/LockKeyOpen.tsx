@@ -6,7 +6,7 @@ import { LockKeyOpenFill } from '../fill/lock-key-open-fill'
 import { LockKeyOpenLight } from '../light/lock-key-open-light'
 import { LockKeyOpenRegular } from '../regular/lock-key-open-regular'
 import { LockKeyOpenThin } from '../thin/lock-key-open-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

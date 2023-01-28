@@ -6,7 +6,7 @@ import { CheckSquareFill } from '../fill/check-square-fill'
 import { CheckSquareLight } from '../light/check-square-light'
 import { CheckSquareRegular } from '../regular/check-square-regular'
 import { CheckSquareThin } from '../thin/check-square-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

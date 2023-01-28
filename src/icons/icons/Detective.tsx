@@ -6,7 +6,7 @@ import { DetectiveFill } from '../fill/detective-fill'
 import { DetectiveLight } from '../light/detective-light'
 import { DetectiveRegular } from '../regular/detective-regular'
 import { DetectiveThin } from '../thin/detective-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

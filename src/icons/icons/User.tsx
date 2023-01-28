@@ -6,7 +6,7 @@ import { UserFill } from '../fill/user-fill'
 import { UserLight } from '../light/user-light'
 import { UserRegular } from '../regular/user-regular'
 import { UserThin } from '../thin/user-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

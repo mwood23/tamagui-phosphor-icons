@@ -6,7 +6,7 @@ import { LightbulbFill } from '../fill/lightbulb-fill'
 import { LightbulbLight } from '../light/lightbulb-light'
 import { LightbulbRegular } from '../regular/lightbulb-regular'
 import { LightbulbThin } from '../thin/lightbulb-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TruckFill } from '../fill/truck-fill'
 import { TruckLight } from '../light/truck-light'
 import { TruckRegular } from '../regular/truck-regular'
 import { TruckThin } from '../thin/truck-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

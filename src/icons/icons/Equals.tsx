@@ -6,7 +6,7 @@ import { EqualsFill } from '../fill/equals-fill'
 import { EqualsLight } from '../light/equals-light'
 import { EqualsRegular } from '../regular/equals-regular'
 import { EqualsThin } from '../thin/equals-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { BoundingBoxFill } from '../fill/bounding-box-fill'
 import { BoundingBoxLight } from '../light/bounding-box-light'
 import { BoundingBoxRegular } from '../regular/bounding-box-regular'
 import { BoundingBoxThin } from '../thin/bounding-box-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

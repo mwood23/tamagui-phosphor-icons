@@ -6,7 +6,7 @@ import { RocketFill } from '../fill/rocket-fill'
 import { RocketLight } from '../light/rocket-light'
 import { RocketRegular } from '../regular/rocket-regular'
 import { RocketThin } from '../thin/rocket-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

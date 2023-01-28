@@ -6,7 +6,7 @@ import { FileDottedFill } from '../fill/file-dotted-fill'
 import { FileDottedLight } from '../light/file-dotted-light'
 import { FileDottedRegular } from '../regular/file-dotted-regular'
 import { FileDottedThin } from '../thin/file-dotted-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

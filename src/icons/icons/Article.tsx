@@ -6,7 +6,7 @@ import { ArticleFill } from '../fill/article-fill'
 import { ArticleLight } from '../light/article-light'
 import { ArticleRegular } from '../regular/article-regular'
 import { ArticleThin } from '../thin/article-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

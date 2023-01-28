@@ -6,7 +6,7 @@ import { CalendarCheckFill } from '../fill/calendar-check-fill'
 import { CalendarCheckLight } from '../light/calendar-check-light'
 import { CalendarCheckRegular } from '../regular/calendar-check-regular'
 import { CalendarCheckThin } from '../thin/calendar-check-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

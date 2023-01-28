@@ -6,7 +6,7 @@ import { BrainFill } from '../fill/brain-fill'
 import { BrainLight } from '../light/brain-light'
 import { BrainRegular } from '../regular/brain-regular'
 import { BrainThin } from '../thin/brain-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

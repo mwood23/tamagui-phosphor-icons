@@ -6,7 +6,7 @@ import { ListFill } from '../fill/list-fill'
 import { ListLight } from '../light/list-light'
 import { ListRegular } from '../regular/list-regular'
 import { ListThin } from '../thin/list-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

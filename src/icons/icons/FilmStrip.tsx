@@ -6,7 +6,7 @@ import { FilmStripFill } from '../fill/film-strip-fill'
 import { FilmStripLight } from '../light/film-strip-light'
 import { FilmStripRegular } from '../regular/film-strip-regular'
 import { FilmStripThin } from '../thin/film-strip-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

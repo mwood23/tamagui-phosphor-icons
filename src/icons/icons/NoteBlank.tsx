@@ -6,7 +6,7 @@ import { NoteBlankFill } from '../fill/note-blank-fill'
 import { NoteBlankLight } from '../light/note-blank-light'
 import { NoteBlankRegular } from '../regular/note-blank-regular'
 import { NoteBlankThin } from '../thin/note-blank-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

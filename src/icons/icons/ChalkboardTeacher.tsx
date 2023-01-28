@@ -6,7 +6,7 @@ import { ChalkboardTeacherFill } from '../fill/chalkboard-teacher-fill'
 import { ChalkboardTeacherLight } from '../light/chalkboard-teacher-light'
 import { ChalkboardTeacherRegular } from '../regular/chalkboard-teacher-regular'
 import { ChalkboardTeacherThin } from '../thin/chalkboard-teacher-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

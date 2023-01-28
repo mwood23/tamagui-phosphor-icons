@@ -6,7 +6,7 @@ import { BatteryHighFill } from '../fill/battery-high-fill'
 import { BatteryHighLight } from '../light/battery-high-light'
 import { BatteryHighRegular } from '../regular/battery-high-regular'
 import { BatteryHighThin } from '../thin/battery-high-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CopyleftFill } from '../fill/copyleft-fill'
 import { CopyleftLight } from '../light/copyleft-light'
 import { CopyleftRegular } from '../regular/copyleft-regular'
 import { CopyleftThin } from '../thin/copyleft-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

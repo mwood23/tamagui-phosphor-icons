@@ -6,7 +6,7 @@ import { ArrowsInLineVerticalFill } from '../fill/arrows-in-line-vertical-fill'
 import { ArrowsInLineVerticalLight } from '../light/arrows-in-line-vertical-light'
 import { ArrowsInLineVerticalRegular } from '../regular/arrows-in-line-vertical-regular'
 import { ArrowsInLineVerticalThin } from '../thin/arrows-in-line-vertical-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

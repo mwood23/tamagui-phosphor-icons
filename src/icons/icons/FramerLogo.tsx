@@ -6,7 +6,7 @@ import { FramerLogoFill } from '../fill/framer-logo-fill'
 import { FramerLogoLight } from '../light/framer-logo-light'
 import { FramerLogoRegular } from '../regular/framer-logo-regular'
 import { FramerLogoThin } from '../thin/framer-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

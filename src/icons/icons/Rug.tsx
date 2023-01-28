@@ -6,7 +6,7 @@ import { RugFill } from '../fill/rug-fill'
 import { RugLight } from '../light/rug-light'
 import { RugRegular } from '../regular/rug-regular'
 import { RugThin } from '../thin/rug-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

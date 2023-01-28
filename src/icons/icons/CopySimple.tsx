@@ -6,7 +6,7 @@ import { CopySimpleFill } from '../fill/copy-simple-fill'
 import { CopySimpleLight } from '../light/copy-simple-light'
 import { CopySimpleRegular } from '../regular/copy-simple-regular'
 import { CopySimpleThin } from '../thin/copy-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

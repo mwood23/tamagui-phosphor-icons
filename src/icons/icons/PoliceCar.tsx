@@ -6,7 +6,7 @@ import { PoliceCarFill } from '../fill/police-car-fill'
 import { PoliceCarLight } from '../light/police-car-light'
 import { PoliceCarRegular } from '../regular/police-car-regular'
 import { PoliceCarThin } from '../thin/police-car-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

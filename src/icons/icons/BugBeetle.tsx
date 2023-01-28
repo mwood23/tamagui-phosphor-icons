@@ -6,7 +6,7 @@ import { BugBeetleFill } from '../fill/bug-beetle-fill'
 import { BugBeetleLight } from '../light/bug-beetle-light'
 import { BugBeetleRegular } from '../regular/bug-beetle-regular'
 import { BugBeetleThin } from '../thin/bug-beetle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { SignpostFill } from '../fill/signpost-fill'
 import { SignpostLight } from '../light/signpost-light'
 import { SignpostRegular } from '../regular/signpost-regular'
 import { SignpostThin } from '../thin/signpost-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

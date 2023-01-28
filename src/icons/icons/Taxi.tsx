@@ -6,7 +6,7 @@ import { TaxiFill } from '../fill/taxi-fill'
 import { TaxiLight } from '../light/taxi-light'
 import { TaxiRegular } from '../regular/taxi-regular'
 import { TaxiThin } from '../thin/taxi-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

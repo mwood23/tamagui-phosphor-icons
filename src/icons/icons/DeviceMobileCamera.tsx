@@ -6,7 +6,7 @@ import { DeviceMobileCameraFill } from '../fill/device-mobile-camera-fill'
 import { DeviceMobileCameraLight } from '../light/device-mobile-camera-light'
 import { DeviceMobileCameraRegular } from '../regular/device-mobile-camera-regular'
 import { DeviceMobileCameraThin } from '../thin/device-mobile-camera-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

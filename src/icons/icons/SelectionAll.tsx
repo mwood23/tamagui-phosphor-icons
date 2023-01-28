@@ -6,7 +6,7 @@ import { SelectionAllFill } from '../fill/selection-all-fill'
 import { SelectionAllLight } from '../light/selection-all-light'
 import { SelectionAllRegular } from '../regular/selection-all-regular'
 import { SelectionAllThin } from '../thin/selection-all-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

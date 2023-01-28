@@ -6,7 +6,7 @@ import { CloudMoonFill } from '../fill/cloud-moon-fill'
 import { CloudMoonLight } from '../light/cloud-moon-light'
 import { CloudMoonRegular } from '../regular/cloud-moon-regular'
 import { CloudMoonThin } from '../thin/cloud-moon-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { PaperclipHorizontalFill } from '../fill/paperclip-horizontal-fill'
 import { PaperclipHorizontalLight } from '../light/paperclip-horizontal-light'
 import { PaperclipHorizontalRegular } from '../regular/paperclip-horizontal-regular'
 import { PaperclipHorizontalThin } from '../thin/paperclip-horizontal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

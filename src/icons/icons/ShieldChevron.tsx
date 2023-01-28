@@ -6,7 +6,7 @@ import { ShieldChevronFill } from '../fill/shield-chevron-fill'
 import { ShieldChevronLight } from '../light/shield-chevron-light'
 import { ShieldChevronRegular } from '../regular/shield-chevron-regular'
 import { ShieldChevronThin } from '../thin/shield-chevron-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { AlienFill } from '../fill/alien-fill'
 import { AlienLight } from '../light/alien-light'
 import { AlienRegular } from '../regular/alien-regular'
 import { AlienThin } from '../thin/alien-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

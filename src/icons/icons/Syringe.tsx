@@ -6,7 +6,7 @@ import { SyringeFill } from '../fill/syringe-fill'
 import { SyringeLight } from '../light/syringe-light'
 import { SyringeRegular } from '../regular/syringe-regular'
 import { SyringeThin } from '../thin/syringe-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

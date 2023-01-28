@@ -6,7 +6,7 @@ import { SuitcaseFill } from '../fill/suitcase-fill'
 import { SuitcaseLight } from '../light/suitcase-light'
 import { SuitcaseRegular } from '../regular/suitcase-regular'
 import { SuitcaseThin } from '../thin/suitcase-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

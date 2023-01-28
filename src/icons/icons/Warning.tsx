@@ -6,7 +6,7 @@ import { WarningFill } from '../fill/warning-fill'
 import { WarningLight } from '../light/warning-light'
 import { WarningRegular } from '../regular/warning-regular'
 import { WarningThin } from '../thin/warning-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

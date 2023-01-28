@@ -6,7 +6,7 @@ import { GooglePodcastsLogoFill } from '../fill/google-podcasts-logo-fill'
 import { GooglePodcastsLogoLight } from '../light/google-podcasts-logo-light'
 import { GooglePodcastsLogoRegular } from '../regular/google-podcasts-logo-regular'
 import { GooglePodcastsLogoThin } from '../thin/google-podcasts-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

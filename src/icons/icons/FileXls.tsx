@@ -6,7 +6,7 @@ import { FileXlsFill } from '../fill/file-xls-fill'
 import { FileXlsLight } from '../light/file-xls-light'
 import { FileXlsRegular } from '../regular/file-xls-regular'
 import { FileXlsThin } from '../thin/file-xls-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

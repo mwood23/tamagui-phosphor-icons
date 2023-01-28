@@ -6,7 +6,7 @@ import { VoicemailFill } from '../fill/voicemail-fill'
 import { VoicemailLight } from '../light/voicemail-light'
 import { VoicemailRegular } from '../regular/voicemail-regular'
 import { VoicemailThin } from '../thin/voicemail-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

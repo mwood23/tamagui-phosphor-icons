@@ -6,7 +6,7 @@ import { CloudArrowUpFill } from '../fill/cloud-arrow-up-fill'
 import { CloudArrowUpLight } from '../light/cloud-arrow-up-light'
 import { CloudArrowUpRegular } from '../regular/cloud-arrow-up-regular'
 import { CloudArrowUpThin } from '../thin/cloud-arrow-up-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

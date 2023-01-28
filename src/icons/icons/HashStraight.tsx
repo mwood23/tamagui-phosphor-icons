@@ -6,7 +6,7 @@ import { HashStraightFill } from '../fill/hash-straight-fill'
 import { HashStraightLight } from '../light/hash-straight-light'
 import { HashStraightRegular } from '../regular/hash-straight-regular'
 import { HashStraightThin } from '../thin/hash-straight-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

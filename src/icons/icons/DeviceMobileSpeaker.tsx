@@ -6,7 +6,7 @@ import { DeviceMobileSpeakerFill } from '../fill/device-mobile-speaker-fill'
 import { DeviceMobileSpeakerLight } from '../light/device-mobile-speaker-light'
 import { DeviceMobileSpeakerRegular } from '../regular/device-mobile-speaker-regular'
 import { DeviceMobileSpeakerThin } from '../thin/device-mobile-speaker-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

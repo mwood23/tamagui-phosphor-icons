@@ -6,7 +6,7 @@ import { BoatFill } from '../fill/boat-fill'
 import { BoatLight } from '../light/boat-light'
 import { BoatRegular } from '../regular/boat-regular'
 import { BoatThin } from '../thin/boat-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

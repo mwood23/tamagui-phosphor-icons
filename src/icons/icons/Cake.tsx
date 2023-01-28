@@ -6,7 +6,7 @@ import { CakeFill } from '../fill/cake-fill'
 import { CakeLight } from '../light/cake-light'
 import { CakeRegular } from '../regular/cake-regular'
 import { CakeThin } from '../thin/cake-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

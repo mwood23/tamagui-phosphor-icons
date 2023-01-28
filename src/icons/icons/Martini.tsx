@@ -6,7 +6,7 @@ import { MartiniFill } from '../fill/martini-fill'
 import { MartiniLight } from '../light/martini-light'
 import { MartiniRegular } from '../regular/martini-regular'
 import { MartiniThin } from '../thin/martini-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

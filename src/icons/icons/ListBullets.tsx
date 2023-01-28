@@ -6,7 +6,7 @@ import { ListBulletsFill } from '../fill/list-bullets-fill'
 import { ListBulletsLight } from '../light/list-bullets-light'
 import { ListBulletsRegular } from '../regular/list-bullets-regular'
 import { ListBulletsThin } from '../thin/list-bullets-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

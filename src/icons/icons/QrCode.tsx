@@ -6,7 +6,7 @@ import { QrCodeFill } from '../fill/qr-code-fill'
 import { QrCodeLight } from '../light/qr-code-light'
 import { QrCodeRegular } from '../regular/qr-code-regular'
 import { QrCodeThin } from '../thin/qr-code-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

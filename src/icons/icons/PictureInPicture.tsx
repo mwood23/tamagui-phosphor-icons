@@ -6,7 +6,7 @@ import { PictureInPictureFill } from '../fill/picture-in-picture-fill'
 import { PictureInPictureLight } from '../light/picture-in-picture-light'
 import { PictureInPictureRegular } from '../regular/picture-in-picture-regular'
 import { PictureInPictureThin } from '../thin/picture-in-picture-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { AirplayFill } from '../fill/airplay-fill'
 import { AirplayLight } from '../light/airplay-light'
 import { AirplayRegular } from '../regular/airplay-regular'
 import { AirplayThin } from '../thin/airplay-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

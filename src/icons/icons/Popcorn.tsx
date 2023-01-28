@@ -6,7 +6,7 @@ import { PopcornFill } from '../fill/popcorn-fill'
 import { PopcornLight } from '../light/popcorn-light'
 import { PopcornRegular } from '../regular/popcorn-regular'
 import { PopcornThin } from '../thin/popcorn-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

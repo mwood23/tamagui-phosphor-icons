@@ -6,7 +6,7 @@ import { TestTubeFill } from '../fill/test-tube-fill'
 import { TestTubeLight } from '../light/test-tube-light'
 import { TestTubeRegular } from '../regular/test-tube-regular'
 import { TestTubeThin } from '../thin/test-tube-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { TabsFill } from '../fill/tabs-fill'
 import { TabsLight } from '../light/tabs-light'
 import { TabsRegular } from '../regular/tabs-regular'
 import { TabsThin } from '../thin/tabs-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

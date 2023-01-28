@@ -6,7 +6,7 @@ import { CirclesFourFill } from '../fill/circles-four-fill'
 import { CirclesFourLight } from '../light/circles-four-light'
 import { CirclesFourRegular } from '../regular/circles-four-regular'
 import { CirclesFourThin } from '../thin/circles-four-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

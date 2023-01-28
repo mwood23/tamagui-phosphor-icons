@@ -6,7 +6,7 @@ import { GasPumpFill } from '../fill/gas-pump-fill'
 import { GasPumpLight } from '../light/gas-pump-light'
 import { GasPumpRegular } from '../regular/gas-pump-regular'
 import { GasPumpThin } from '../thin/gas-pump-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { BugFill } from '../fill/bug-fill'
 import { BugLight } from '../light/bug-light'
 import { BugRegular } from '../regular/bug-regular'
 import { BugThin } from '../thin/bug-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

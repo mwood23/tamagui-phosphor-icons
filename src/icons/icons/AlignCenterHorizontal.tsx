@@ -6,7 +6,7 @@ import { AlignCenterHorizontalFill } from '../fill/align-center-horizontal-fill'
 import { AlignCenterHorizontalLight } from '../light/align-center-horizontal-light'
 import { AlignCenterHorizontalRegular } from '../regular/align-center-horizontal-regular'
 import { AlignCenterHorizontalThin } from '../thin/align-center-horizontal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

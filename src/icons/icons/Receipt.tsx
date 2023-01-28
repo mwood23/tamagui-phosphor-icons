@@ -6,7 +6,7 @@ import { ReceiptFill } from '../fill/receipt-fill'
 import { ReceiptLight } from '../light/receipt-light'
 import { ReceiptRegular } from '../regular/receipt-regular'
 import { ReceiptThin } from '../thin/receipt-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

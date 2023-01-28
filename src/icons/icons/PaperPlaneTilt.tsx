@@ -6,7 +6,7 @@ import { PaperPlaneTiltFill } from '../fill/paper-plane-tilt-fill'
 import { PaperPlaneTiltLight } from '../light/paper-plane-tilt-light'
 import { PaperPlaneTiltRegular } from '../regular/paper-plane-tilt-regular'
 import { PaperPlaneTiltThin } from '../thin/paper-plane-tilt-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

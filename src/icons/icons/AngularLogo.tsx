@@ -6,7 +6,7 @@ import { AngularLogoFill } from '../fill/angular-logo-fill'
 import { AngularLogoLight } from '../light/angular-logo-light'
 import { AngularLogoRegular } from '../regular/angular-logo-regular'
 import { AngularLogoThin } from '../thin/angular-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

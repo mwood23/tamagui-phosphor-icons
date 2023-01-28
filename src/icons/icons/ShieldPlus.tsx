@@ -6,7 +6,7 @@ import { ShieldPlusFill } from '../fill/shield-plus-fill'
 import { ShieldPlusLight } from '../light/shield-plus-light'
 import { ShieldPlusRegular } from '../regular/shield-plus-regular'
 import { ShieldPlusThin } from '../thin/shield-plus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CircleWavyQuestionFill } from '../fill/circle-wavy-question-fill'
 import { CircleWavyQuestionLight } from '../light/circle-wavy-question-light'
 import { CircleWavyQuestionRegular } from '../regular/circle-wavy-question-regular'
 import { CircleWavyQuestionThin } from '../thin/circle-wavy-question-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

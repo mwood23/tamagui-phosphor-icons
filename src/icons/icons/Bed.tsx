@@ -6,7 +6,7 @@ import { BedFill } from '../fill/bed-fill'
 import { BedLight } from '../light/bed-light'
 import { BedRegular } from '../regular/bed-regular'
 import { BedThin } from '../thin/bed-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

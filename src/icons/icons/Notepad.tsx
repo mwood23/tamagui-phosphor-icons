@@ -6,7 +6,7 @@ import { NotepadFill } from '../fill/notepad-fill'
 import { NotepadLight } from '../light/notepad-light'
 import { NotepadRegular } from '../regular/notepad-regular'
 import { NotepadThin } from '../thin/notepad-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

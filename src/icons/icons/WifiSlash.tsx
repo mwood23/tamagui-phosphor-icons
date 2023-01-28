@@ -6,7 +6,7 @@ import { WifiSlashFill } from '../fill/wifi-slash-fill'
 import { WifiSlashLight } from '../light/wifi-slash-light'
 import { WifiSlashRegular } from '../regular/wifi-slash-regular'
 import { WifiSlashThin } from '../thin/wifi-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -192,7 +192,7 @@ glob(`${regularIconsDirectory}/**.tsx`, (err, icons) => {
 
   fs.appendFileSync(
     path.join(rootDir, 'src', 'index.ts'),
-    `export * from './icons/icons/IconContext'
+    `export * from './icons/icons/IconContextProvider'
 export * from './icons/icons/IconProps'\n`,
     'utf-8',
   )
@@ -212,7 +212,7 @@ export * from './icons/icons/IconProps'\n`,
     import { ${cname}Light } from '../light/${id}-light'
     import { ${cname}Thin } from '../thin/${id}-thin'
     import { IconProps } from './IconProps'
-    import { IconContext } from './IconContext'
+    import { IconContext } from './IconContextProvider'
 
     const weightMap = {
       regular: ${cname}Regular,

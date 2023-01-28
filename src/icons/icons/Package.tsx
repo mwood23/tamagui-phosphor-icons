@@ -6,7 +6,7 @@ import { PackageFill } from '../fill/package-fill'
 import { PackageLight } from '../light/package-light'
 import { PackageRegular } from '../regular/package-regular'
 import { PackageThin } from '../thin/package-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

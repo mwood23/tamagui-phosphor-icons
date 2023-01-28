@@ -6,7 +6,7 @@ import { HandWavingFill } from '../fill/hand-waving-fill'
 import { HandWavingLight } from '../light/hand-waving-light'
 import { HandWavingRegular } from '../regular/hand-waving-regular'
 import { HandWavingThin } from '../thin/hand-waving-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

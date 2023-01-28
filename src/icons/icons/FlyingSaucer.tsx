@@ -6,7 +6,7 @@ import { FlyingSaucerFill } from '../fill/flying-saucer-fill'
 import { FlyingSaucerLight } from '../light/flying-saucer-light'
 import { FlyingSaucerRegular } from '../regular/flying-saucer-regular'
 import { FlyingSaucerThin } from '../thin/flying-saucer-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

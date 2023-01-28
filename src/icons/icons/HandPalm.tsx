@@ -6,7 +6,7 @@ import { HandPalmFill } from '../fill/hand-palm-fill'
 import { HandPalmLight } from '../light/hand-palm-light'
 import { HandPalmRegular } from '../regular/hand-palm-regular'
 import { HandPalmThin } from '../thin/hand-palm-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

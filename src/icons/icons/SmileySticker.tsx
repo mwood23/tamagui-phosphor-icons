@@ -6,7 +6,7 @@ import { SmileyStickerFill } from '../fill/smiley-sticker-fill'
 import { SmileyStickerLight } from '../light/smiley-sticker-light'
 import { SmileyStickerRegular } from '../regular/smiley-sticker-regular'
 import { SmileyStickerThin } from '../thin/smiley-sticker-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

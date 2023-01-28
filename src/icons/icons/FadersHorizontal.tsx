@@ -6,7 +6,7 @@ import { FadersHorizontalFill } from '../fill/faders-horizontal-fill'
 import { FadersHorizontalLight } from '../light/faders-horizontal-light'
 import { FadersHorizontalRegular } from '../regular/faders-horizontal-regular'
 import { FadersHorizontalThin } from '../thin/faders-horizontal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { BatteryWarningFill } from '../fill/battery-warning-fill'
 import { BatteryWarningLight } from '../light/battery-warning-light'
 import { BatteryWarningRegular } from '../regular/battery-warning-regular'
 import { BatteryWarningThin } from '../thin/battery-warning-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

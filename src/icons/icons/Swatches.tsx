@@ -6,7 +6,7 @@ import { SwatchesFill } from '../fill/swatches-fill'
 import { SwatchesLight } from '../light/swatches-light'
 import { SwatchesRegular } from '../regular/swatches-regular'
 import { SwatchesThin } from '../thin/swatches-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

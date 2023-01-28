@@ -6,7 +6,7 @@ import { PaperPlaneRightFill } from '../fill/paper-plane-right-fill'
 import { PaperPlaneRightLight } from '../light/paper-plane-right-light'
 import { PaperPlaneRightRegular } from '../regular/paper-plane-right-regular'
 import { PaperPlaneRightThin } from '../thin/paper-plane-right-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

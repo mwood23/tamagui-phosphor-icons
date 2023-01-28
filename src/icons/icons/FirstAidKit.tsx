@@ -6,7 +6,7 @@ import { FirstAidKitFill } from '../fill/first-aid-kit-fill'
 import { FirstAidKitLight } from '../light/first-aid-kit-light'
 import { FirstAidKitRegular } from '../regular/first-aid-kit-regular'
 import { FirstAidKitThin } from '../thin/first-aid-kit-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

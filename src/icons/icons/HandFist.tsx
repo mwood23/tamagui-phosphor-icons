@@ -6,7 +6,7 @@ import { HandFistFill } from '../fill/hand-fist-fill'
 import { HandFistLight } from '../light/hand-fist-light'
 import { HandFistRegular } from '../regular/hand-fist-regular'
 import { HandFistThin } from '../thin/hand-fist-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

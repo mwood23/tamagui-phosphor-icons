@@ -6,7 +6,7 @@ import { AppleLogoFill } from '../fill/apple-logo-fill'
 import { AppleLogoLight } from '../light/apple-logo-light'
 import { AppleLogoRegular } from '../regular/apple-logo-regular'
 import { AppleLogoThin } from '../thin/apple-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

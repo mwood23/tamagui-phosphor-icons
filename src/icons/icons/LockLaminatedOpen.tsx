@@ -6,7 +6,7 @@ import { LockLaminatedOpenFill } from '../fill/lock-laminated-open-fill'
 import { LockLaminatedOpenLight } from '../light/lock-laminated-open-light'
 import { LockLaminatedOpenRegular } from '../regular/lock-laminated-open-regular'
 import { LockLaminatedOpenThin } from '../thin/lock-laminated-open-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

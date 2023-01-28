@@ -6,7 +6,7 @@ import { MegaphoneFill } from '../fill/megaphone-fill'
 import { MegaphoneLight } from '../light/megaphone-light'
 import { MegaphoneRegular } from '../regular/megaphone-regular'
 import { MegaphoneThin } from '../thin/megaphone-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

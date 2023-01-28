@@ -6,7 +6,7 @@ import { FilePdfFill } from '../fill/file-pdf-fill'
 import { FilePdfLight } from '../light/file-pdf-light'
 import { FilePdfRegular } from '../regular/file-pdf-regular'
 import { FilePdfThin } from '../thin/file-pdf-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

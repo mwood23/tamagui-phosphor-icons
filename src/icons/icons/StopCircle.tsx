@@ -6,7 +6,7 @@ import { StopCircleFill } from '../fill/stop-circle-fill'
 import { StopCircleLight } from '../light/stop-circle-light'
 import { StopCircleRegular } from '../regular/stop-circle-regular'
 import { StopCircleThin } from '../thin/stop-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

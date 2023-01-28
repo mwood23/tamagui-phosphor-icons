@@ -6,7 +6,7 @@ import { TrophyFill } from '../fill/trophy-fill'
 import { TrophyLight } from '../light/trophy-light'
 import { TrophyRegular } from '../regular/trophy-regular'
 import { TrophyThin } from '../thin/trophy-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

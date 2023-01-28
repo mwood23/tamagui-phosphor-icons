@@ -6,7 +6,7 @@ import { VideoCameraFill } from '../fill/video-camera-fill'
 import { VideoCameraLight } from '../light/video-camera-light'
 import { VideoCameraRegular } from '../regular/video-camera-regular'
 import { VideoCameraThin } from '../thin/video-camera-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

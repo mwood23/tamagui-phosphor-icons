@@ -6,7 +6,7 @@ import { SmileyXEyesFill } from '../fill/smiley-x-eyes-fill'
 import { SmileyXEyesLight } from '../light/smiley-x-eyes-light'
 import { SmileyXEyesRegular } from '../regular/smiley-x-eyes-regular'
 import { SmileyXEyesThin } from '../thin/smiley-x-eyes-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

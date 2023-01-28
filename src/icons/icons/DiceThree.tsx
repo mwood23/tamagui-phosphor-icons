@@ -6,7 +6,7 @@ import { DiceThreeFill } from '../fill/dice-three-fill'
 import { DiceThreeLight } from '../light/dice-three-light'
 import { DiceThreeRegular } from '../regular/dice-three-regular'
 import { DiceThreeThin } from '../thin/dice-three-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

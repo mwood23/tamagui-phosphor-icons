@@ -6,7 +6,7 @@ import { UserRectangleFill } from '../fill/user-rectangle-fill'
 import { UserRectangleLight } from '../light/user-rectangle-light'
 import { UserRectangleRegular } from '../regular/user-rectangle-regular'
 import { UserRectangleThin } from '../thin/user-rectangle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

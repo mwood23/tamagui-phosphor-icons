@@ -6,7 +6,7 @@ import { BicycleFill } from '../fill/bicycle-fill'
 import { BicycleLight } from '../light/bicycle-light'
 import { BicycleRegular } from '../regular/bicycle-regular'
 import { BicycleThin } from '../thin/bicycle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

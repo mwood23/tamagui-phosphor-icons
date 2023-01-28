@@ -6,7 +6,7 @@ import { PlaceholderFill } from '../fill/placeholder-fill'
 import { PlaceholderLight } from '../light/placeholder-light'
 import { PlaceholderRegular } from '../regular/placeholder-regular'
 import { PlaceholderThin } from '../thin/placeholder-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { ChartBarFill } from '../fill/chart-bar-fill'
 import { ChartBarLight } from '../light/chart-bar-light'
 import { ChartBarRegular } from '../regular/chart-bar-regular'
 import { ChartBarThin } from '../thin/chart-bar-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { AirplaneLandingFill } from '../fill/airplane-landing-fill'
 import { AirplaneLandingLight } from '../light/airplane-landing-light'
 import { AirplaneLandingRegular } from '../regular/airplane-landing-regular'
 import { AirplaneLandingThin } from '../thin/airplane-landing-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { PeaceFill } from '../fill/peace-fill'
 import { PeaceLight } from '../light/peace-light'
 import { PeaceRegular } from '../regular/peace-regular'
 import { PeaceThin } from '../thin/peace-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

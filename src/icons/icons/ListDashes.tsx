@@ -6,7 +6,7 @@ import { ListDashesFill } from '../fill/list-dashes-fill'
 import { ListDashesLight } from '../light/list-dashes-light'
 import { ListDashesRegular } from '../regular/list-dashes-regular'
 import { ListDashesThin } from '../thin/list-dashes-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

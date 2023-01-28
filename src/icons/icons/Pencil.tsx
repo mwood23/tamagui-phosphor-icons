@@ -6,7 +6,7 @@ import { PencilFill } from '../fill/pencil-fill'
 import { PencilLight } from '../light/pencil-light'
 import { PencilRegular } from '../regular/pencil-regular'
 import { PencilThin } from '../thin/pencil-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

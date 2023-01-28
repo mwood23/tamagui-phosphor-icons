@@ -6,7 +6,7 @@ import { StarFourFill } from '../fill/star-four-fill'
 import { StarFourLight } from '../light/star-four-light'
 import { StarFourRegular } from '../regular/star-four-regular'
 import { StarFourThin } from '../thin/star-four-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

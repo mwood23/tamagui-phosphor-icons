@@ -6,7 +6,7 @@ import { ClipboardTextFill } from '../fill/clipboard-text-fill'
 import { ClipboardTextLight } from '../light/clipboard-text-light'
 import { ClipboardTextRegular } from '../regular/clipboard-text-regular'
 import { ClipboardTextThin } from '../thin/clipboard-text-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

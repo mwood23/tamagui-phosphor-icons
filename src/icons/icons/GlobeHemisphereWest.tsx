@@ -6,7 +6,7 @@ import { GlobeHemisphereWestFill } from '../fill/globe-hemisphere-west-fill'
 import { GlobeHemisphereWestLight } from '../light/globe-hemisphere-west-light'
 import { GlobeHemisphereWestRegular } from '../regular/globe-hemisphere-west-regular'
 import { GlobeHemisphereWestThin } from '../thin/globe-hemisphere-west-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

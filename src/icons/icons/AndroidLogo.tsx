@@ -6,7 +6,7 @@ import { AndroidLogoFill } from '../fill/android-logo-fill'
 import { AndroidLogoLight } from '../light/android-logo-light'
 import { AndroidLogoRegular } from '../regular/android-logo-regular'
 import { AndroidLogoThin } from '../thin/android-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

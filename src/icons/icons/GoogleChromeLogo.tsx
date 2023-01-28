@@ -6,7 +6,7 @@ import { GoogleChromeLogoFill } from '../fill/google-chrome-logo-fill'
 import { GoogleChromeLogoLight } from '../light/google-chrome-logo-light'
 import { GoogleChromeLogoRegular } from '../regular/google-chrome-logo-regular'
 import { GoogleChromeLogoThin } from '../thin/google-chrome-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

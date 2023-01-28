@@ -6,7 +6,7 @@ import { DiscFill } from '../fill/disc-fill'
 import { DiscLight } from '../light/disc-light'
 import { DiscRegular } from '../regular/disc-regular'
 import { DiscThin } from '../thin/disc-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

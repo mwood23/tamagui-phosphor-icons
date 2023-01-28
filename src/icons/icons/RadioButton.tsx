@@ -6,7 +6,7 @@ import { RadioButtonFill } from '../fill/radio-button-fill'
 import { RadioButtonLight } from '../light/radio-button-light'
 import { RadioButtonRegular } from '../regular/radio-button-regular'
 import { RadioButtonThin } from '../thin/radio-button-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

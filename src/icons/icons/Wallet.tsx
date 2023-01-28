@@ -6,7 +6,7 @@ import { WalletFill } from '../fill/wallet-fill'
 import { WalletLight } from '../light/wallet-light'
 import { WalletRegular } from '../regular/wallet-regular'
 import { WalletThin } from '../thin/wallet-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

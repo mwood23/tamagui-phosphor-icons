@@ -6,7 +6,7 @@ import { LayoutFill } from '../fill/layout-fill'
 import { LayoutLight } from '../light/layout-light'
 import { LayoutRegular } from '../regular/layout-regular'
 import { LayoutThin } from '../thin/layout-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

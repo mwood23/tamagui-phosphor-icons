@@ -6,7 +6,7 @@ import { BellSimpleZFill } from '../fill/bell-simple-z-fill'
 import { BellSimpleZLight } from '../light/bell-simple-z-light'
 import { BellSimpleZRegular } from '../regular/bell-simple-z-regular'
 import { BellSimpleZThin } from '../thin/bell-simple-z-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

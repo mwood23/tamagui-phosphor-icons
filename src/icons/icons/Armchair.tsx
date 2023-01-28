@@ -6,7 +6,7 @@ import { ArmchairFill } from '../fill/armchair-fill'
 import { ArmchairLight } from '../light/armchair-light'
 import { ArmchairRegular } from '../regular/armchair-regular'
 import { ArmchairThin } from '../thin/armchair-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

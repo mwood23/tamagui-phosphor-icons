@@ -6,7 +6,7 @@ import { ChartLineFill } from '../fill/chart-line-fill'
 import { ChartLineLight } from '../light/chart-line-light'
 import { ChartLineRegular } from '../regular/chart-line-regular'
 import { ChartLineThin } from '../thin/chart-line-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CpuFill } from '../fill/cpu-fill'
 import { CpuLight } from '../light/cpu-light'
 import { CpuRegular } from '../regular/cpu-regular'
 import { CpuThin } from '../thin/cpu-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

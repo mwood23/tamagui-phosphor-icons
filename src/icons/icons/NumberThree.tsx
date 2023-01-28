@@ -6,7 +6,7 @@ import { NumberThreeFill } from '../fill/number-three-fill'
 import { NumberThreeLight } from '../light/number-three-light'
 import { NumberThreeRegular } from '../regular/number-three-regular'
 import { NumberThreeThin } from '../thin/number-three-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { WrenchFill } from '../fill/wrench-fill'
 import { WrenchLight } from '../light/wrench-light'
 import { WrenchRegular } from '../regular/wrench-regular'
 import { WrenchThin } from '../thin/wrench-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

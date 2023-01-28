@@ -6,7 +6,7 @@ import { FileVideoFill } from '../fill/file-video-fill'
 import { FileVideoLight } from '../light/file-video-light'
 import { FileVideoRegular } from '../regular/file-video-regular'
 import { FileVideoThin } from '../thin/file-video-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

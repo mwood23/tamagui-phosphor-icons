@@ -6,7 +6,7 @@ import { FileXFill } from '../fill/file-x-fill'
 import { FileXLight } from '../light/file-x-light'
 import { FileXRegular } from '../regular/file-x-regular'
 import { FileXThin } from '../thin/file-x-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

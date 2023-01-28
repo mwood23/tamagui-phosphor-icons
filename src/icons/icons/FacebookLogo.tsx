@@ -6,7 +6,7 @@ import { FacebookLogoFill } from '../fill/facebook-logo-fill'
 import { FacebookLogoLight } from '../light/facebook-logo-light'
 import { FacebookLogoRegular } from '../regular/facebook-logo-regular'
 import { FacebookLogoThin } from '../thin/facebook-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

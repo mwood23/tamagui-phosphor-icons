@@ -6,7 +6,7 @@ import { WineFill } from '../fill/wine-fill'
 import { WineLight } from '../light/wine-light'
 import { WineRegular } from '../regular/wine-regular'
 import { WineThin } from '../thin/wine-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

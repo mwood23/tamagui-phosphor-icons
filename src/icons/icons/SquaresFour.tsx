@@ -6,7 +6,7 @@ import { SquaresFourFill } from '../fill/squares-four-fill'
 import { SquaresFourLight } from '../light/squares-four-light'
 import { SquaresFourRegular } from '../regular/squares-four-regular'
 import { SquaresFourThin } from '../thin/squares-four-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

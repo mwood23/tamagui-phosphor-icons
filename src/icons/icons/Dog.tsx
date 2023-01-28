@@ -6,7 +6,7 @@ import { DogFill } from '../fill/dog-fill'
 import { DogLight } from '../light/dog-light'
 import { DogRegular } from '../regular/dog-regular'
 import { DogThin } from '../thin/dog-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

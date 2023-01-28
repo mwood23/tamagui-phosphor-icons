@@ -6,7 +6,7 @@ import { CloudRainFill } from '../fill/cloud-rain-fill'
 import { CloudRainLight } from '../light/cloud-rain-light'
 import { CloudRainRegular } from '../regular/cloud-rain-regular'
 import { CloudRainThin } from '../thin/cloud-rain-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

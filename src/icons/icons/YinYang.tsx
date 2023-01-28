@@ -6,7 +6,7 @@ import { YinYangFill } from '../fill/yin-yang-fill'
 import { YinYangLight } from '../light/yin-yang-light'
 import { YinYangRegular } from '../regular/yin-yang-regular'
 import { YinYangThin } from '../thin/yin-yang-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

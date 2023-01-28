@@ -6,7 +6,7 @@ import { FastForwardFill } from '../fill/fast-forward-fill'
 import { FastForwardLight } from '../light/fast-forward-light'
 import { FastForwardRegular } from '../regular/fast-forward-regular'
 import { FastForwardThin } from '../thin/fast-forward-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { PaintBrushBroadFill } from '../fill/paint-brush-broad-fill'
 import { PaintBrushBroadLight } from '../light/paint-brush-broad-light'
 import { PaintBrushBroadRegular } from '../regular/paint-brush-broad-regular'
 import { PaintBrushBroadThin } from '../thin/paint-brush-broad-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

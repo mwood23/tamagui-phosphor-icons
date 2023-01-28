@@ -6,7 +6,7 @@ import { ParachuteFill } from '../fill/parachute-fill'
 import { ParachuteLight } from '../light/parachute-light'
 import { ParachuteRegular } from '../regular/parachute-regular'
 import { ParachuteThin } from '../thin/parachute-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

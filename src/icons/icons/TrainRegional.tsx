@@ -6,7 +6,7 @@ import { TrainRegionalFill } from '../fill/train-regional-fill'
 import { TrainRegionalLight } from '../light/train-regional-light'
 import { TrainRegionalRegular } from '../regular/train-regional-regular'
 import { TrainRegionalThin } from '../thin/train-regional-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

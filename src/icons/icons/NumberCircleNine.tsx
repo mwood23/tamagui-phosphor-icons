@@ -6,7 +6,7 @@ import { NumberCircleNineFill } from '../fill/number-circle-nine-fill'
 import { NumberCircleNineLight } from '../light/number-circle-nine-light'
 import { NumberCircleNineRegular } from '../regular/number-circle-nine-regular'
 import { NumberCircleNineThin } from '../thin/number-circle-nine-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

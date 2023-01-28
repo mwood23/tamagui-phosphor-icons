@@ -6,7 +6,7 @@ import { HamburgerFill } from '../fill/hamburger-fill'
 import { HamburgerLight } from '../light/hamburger-light'
 import { HamburgerRegular } from '../regular/hamburger-regular'
 import { HamburgerThin } from '../thin/hamburger-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

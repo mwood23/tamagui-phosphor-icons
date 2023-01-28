@@ -6,7 +6,7 @@ import { ThermometerSimpleFill } from '../fill/thermometer-simple-fill'
 import { ThermometerSimpleLight } from '../light/thermometer-simple-light'
 import { ThermometerSimpleRegular } from '../regular/thermometer-simple-regular'
 import { ThermometerSimpleThin } from '../thin/thermometer-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { AirplaneTakeoffFill } from '../fill/airplane-takeoff-fill'
 import { AirplaneTakeoffLight } from '../light/airplane-takeoff-light'
 import { AirplaneTakeoffRegular } from '../regular/airplane-takeoff-regular'
 import { AirplaneTakeoffThin } from '../thin/airplane-takeoff-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

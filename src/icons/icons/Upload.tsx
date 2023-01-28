@@ -6,7 +6,7 @@ import { UploadFill } from '../fill/upload-fill'
 import { UploadLight } from '../light/upload-light'
 import { UploadRegular } from '../regular/upload-regular'
 import { UploadThin } from '../thin/upload-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

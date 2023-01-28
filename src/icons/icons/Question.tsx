@@ -6,7 +6,7 @@ import { QuestionFill } from '../fill/question-fill'
 import { QuestionLight } from '../light/question-light'
 import { QuestionRegular } from '../regular/question-regular'
 import { QuestionThin } from '../thin/question-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

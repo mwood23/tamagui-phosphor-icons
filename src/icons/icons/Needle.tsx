@@ -6,7 +6,7 @@ import { NeedleFill } from '../fill/needle-fill'
 import { NeedleLight } from '../light/needle-light'
 import { NeedleRegular } from '../regular/needle-regular'
 import { NeedleThin } from '../thin/needle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

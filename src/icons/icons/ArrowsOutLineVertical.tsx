@@ -6,7 +6,7 @@ import { ArrowsOutLineVerticalFill } from '../fill/arrows-out-line-vertical-fill
 import { ArrowsOutLineVerticalLight } from '../light/arrows-out-line-vertical-light'
 import { ArrowsOutLineVerticalRegular } from '../regular/arrows-out-line-vertical-regular'
 import { ArrowsOutLineVerticalThin } from '../thin/arrows-out-line-vertical-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

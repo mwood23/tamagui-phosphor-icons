@@ -6,7 +6,7 @@ import { TextAaFill } from '../fill/text-aa-fill'
 import { TextAaLight } from '../light/text-aa-light'
 import { TextAaRegular } from '../regular/text-aa-regular'
 import { TextAaThin } from '../thin/text-aa-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

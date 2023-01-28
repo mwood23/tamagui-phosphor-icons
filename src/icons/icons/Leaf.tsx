@@ -6,7 +6,7 @@ import { LeafFill } from '../fill/leaf-fill'
 import { LeafLight } from '../light/leaf-light'
 import { LeafRegular } from '../regular/leaf-regular'
 import { LeafThin } from '../thin/leaf-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

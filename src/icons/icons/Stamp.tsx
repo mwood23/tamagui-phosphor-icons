@@ -6,7 +6,7 @@ import { StampFill } from '../fill/stamp-fill'
 import { StampLight } from '../light/stamp-light'
 import { StampRegular } from '../regular/stamp-regular'
 import { StampThin } from '../thin/stamp-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

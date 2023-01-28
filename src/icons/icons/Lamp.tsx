@@ -6,7 +6,7 @@ import { LampFill } from '../fill/lamp-fill'
 import { LampLight } from '../light/lamp-light'
 import { LampRegular } from '../regular/lamp-regular'
 import { LampThin } from '../thin/lamp-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

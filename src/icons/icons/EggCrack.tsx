@@ -6,7 +6,7 @@ import { EggCrackFill } from '../fill/egg-crack-fill'
 import { EggCrackLight } from '../light/egg-crack-light'
 import { EggCrackRegular } from '../regular/egg-crack-regular'
 import { EggCrackThin } from '../thin/egg-crack-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CodesandboxLogoFill } from '../fill/codesandbox-logo-fill'
 import { CodesandboxLogoLight } from '../light/codesandbox-logo-light'
 import { CodesandboxLogoRegular } from '../regular/codesandbox-logo-regular'
 import { CodesandboxLogoThin } from '../thin/codesandbox-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

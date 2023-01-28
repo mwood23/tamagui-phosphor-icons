@@ -6,7 +6,7 @@ import { ShareFill } from '../fill/share-fill'
 import { ShareLight } from '../light/share-light'
 import { ShareRegular } from '../regular/share-regular'
 import { ShareThin } from '../thin/share-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

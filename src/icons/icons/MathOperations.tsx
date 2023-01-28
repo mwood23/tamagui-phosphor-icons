@@ -6,7 +6,7 @@ import { MathOperationsFill } from '../fill/math-operations-fill'
 import { MathOperationsLight } from '../light/math-operations-light'
 import { MathOperationsRegular } from '../regular/math-operations-regular'
 import { MathOperationsThin } from '../thin/math-operations-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

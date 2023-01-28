@@ -6,7 +6,7 @@ import { BracketsAngleFill } from '../fill/brackets-angle-fill'
 import { BracketsAngleLight } from '../light/brackets-angle-light'
 import { BracketsAngleRegular } from '../regular/brackets-angle-regular'
 import { BracketsAngleThin } from '../thin/brackets-angle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

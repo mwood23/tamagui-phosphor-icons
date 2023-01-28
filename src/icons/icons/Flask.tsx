@@ -6,7 +6,7 @@ import { FlaskFill } from '../fill/flask-fill'
 import { FlaskLight } from '../light/flask-light'
 import { FlaskRegular } from '../regular/flask-regular'
 import { FlaskThin } from '../thin/flask-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

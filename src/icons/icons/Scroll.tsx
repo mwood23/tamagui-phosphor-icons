@@ -6,7 +6,7 @@ import { ScrollFill } from '../fill/scroll-fill'
 import { ScrollLight } from '../light/scroll-light'
 import { ScrollRegular } from '../regular/scroll-regular'
 import { ScrollThin } from '../thin/scroll-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

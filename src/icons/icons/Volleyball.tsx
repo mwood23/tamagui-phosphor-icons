@@ -6,7 +6,7 @@ import { VolleyballFill } from '../fill/volleyball-fill'
 import { VolleyballLight } from '../light/volleyball-light'
 import { VolleyballRegular } from '../regular/volleyball-regular'
 import { VolleyballThin } from '../thin/volleyball-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

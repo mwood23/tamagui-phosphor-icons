@@ -6,7 +6,7 @@ import { ColumnsFill } from '../fill/columns-fill'
 import { ColumnsLight } from '../light/columns-light'
 import { ColumnsRegular } from '../regular/columns-regular'
 import { ColumnsThin } from '../thin/columns-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

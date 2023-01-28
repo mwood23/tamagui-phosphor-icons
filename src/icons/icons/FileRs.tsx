@@ -6,7 +6,7 @@ import { FileRsFill } from '../fill/file-rs-fill'
 import { FileRsLight } from '../light/file-rs-light'
 import { FileRsRegular } from '../regular/file-rs-regular'
 import { FileRsThin } from '../thin/file-rs-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

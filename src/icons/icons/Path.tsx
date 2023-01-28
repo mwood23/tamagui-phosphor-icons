@@ -6,7 +6,7 @@ import { PathFill } from '../fill/path-fill'
 import { PathLight } from '../light/path-light'
 import { PathRegular } from '../regular/path-regular'
 import { PathThin } from '../thin/path-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

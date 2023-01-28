@@ -6,7 +6,7 @@ import { ButterflyFill } from '../fill/butterfly-fill'
 import { ButterflyLight } from '../light/butterfly-light'
 import { ButterflyRegular } from '../regular/butterfly-regular'
 import { ButterflyThin } from '../thin/butterfly-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

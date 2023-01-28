@@ -6,7 +6,7 @@ import { LockSimpleFill } from '../fill/lock-simple-fill'
 import { LockSimpleLight } from '../light/lock-simple-light'
 import { LockSimpleRegular } from '../regular/lock-simple-regular'
 import { LockSimpleThin } from '../thin/lock-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

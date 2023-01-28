@@ -6,7 +6,7 @@ import { GridFourFill } from '../fill/grid-four-fill'
 import { GridFourLight } from '../light/grid-four-light'
 import { GridFourRegular } from '../regular/grid-four-regular'
 import { GridFourThin } from '../thin/grid-four-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

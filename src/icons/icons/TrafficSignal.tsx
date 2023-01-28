@@ -6,7 +6,7 @@ import { TrafficSignalFill } from '../fill/traffic-signal-fill'
 import { TrafficSignalLight } from '../light/traffic-signal-light'
 import { TrafficSignalRegular } from '../regular/traffic-signal-regular'
 import { TrafficSignalThin } from '../thin/traffic-signal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

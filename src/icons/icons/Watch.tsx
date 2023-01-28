@@ -6,7 +6,7 @@ import { WatchFill } from '../fill/watch-fill'
 import { WatchLight } from '../light/watch-light'
 import { WatchRegular } from '../regular/watch-regular'
 import { WatchThin } from '../thin/watch-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

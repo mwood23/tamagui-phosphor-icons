@@ -6,7 +6,7 @@ import { BrandyFill } from '../fill/brandy-fill'
 import { BrandyLight } from '../light/brandy-light'
 import { BrandyRegular } from '../regular/brandy-regular'
 import { BrandyThin } from '../thin/brandy-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

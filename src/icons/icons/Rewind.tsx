@@ -6,7 +6,7 @@ import { RewindFill } from '../fill/rewind-fill'
 import { RewindLight } from '../light/rewind-light'
 import { RewindRegular } from '../regular/rewind-regular'
 import { RewindThin } from '../thin/rewind-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CopyrightFill } from '../fill/copyright-fill'
 import { CopyrightLight } from '../light/copyright-light'
 import { CopyrightRegular } from '../regular/copyright-regular'
 import { CopyrightThin } from '../thin/copyright-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

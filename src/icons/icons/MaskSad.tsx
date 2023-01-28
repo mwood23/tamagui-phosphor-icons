@@ -6,7 +6,7 @@ import { MaskSadFill } from '../fill/mask-sad-fill'
 import { MaskSadLight } from '../light/mask-sad-light'
 import { MaskSadRegular } from '../regular/mask-sad-regular'
 import { MaskSadThin } from '../thin/mask-sad-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

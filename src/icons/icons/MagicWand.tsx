@@ -6,7 +6,7 @@ import { MagicWandFill } from '../fill/magic-wand-fill'
 import { MagicWandLight } from '../light/magic-wand-light'
 import { MagicWandRegular } from '../regular/magic-wand-regular'
 import { MagicWandThin } from '../thin/magic-wand-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

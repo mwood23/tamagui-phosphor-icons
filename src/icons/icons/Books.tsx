@@ -6,7 +6,7 @@ import { BooksFill } from '../fill/books-fill'
 import { BooksLight } from '../light/books-light'
 import { BooksRegular } from '../regular/books-regular'
 import { BooksThin } from '../thin/books-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

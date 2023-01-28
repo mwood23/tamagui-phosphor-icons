@@ -6,7 +6,7 @@ import { PowerFill } from '../fill/power-fill'
 import { PowerLight } from '../light/power-light'
 import { PowerRegular } from '../regular/power-regular'
 import { PowerThin } from '../thin/power-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

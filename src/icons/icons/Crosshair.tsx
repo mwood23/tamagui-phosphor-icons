@@ -6,7 +6,7 @@ import { CrosshairFill } from '../fill/crosshair-fill'
 import { CrosshairLight } from '../light/crosshair-light'
 import { CrosshairRegular } from '../regular/crosshair-regular'
 import { CrosshairThin } from '../thin/crosshair-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { BathtubFill } from '../fill/bathtub-fill'
 import { BathtubLight } from '../light/bathtub-light'
 import { BathtubRegular } from '../regular/bathtub-regular'
 import { BathtubThin } from '../thin/bathtub-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

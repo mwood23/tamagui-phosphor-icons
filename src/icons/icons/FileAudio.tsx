@@ -6,7 +6,7 @@ import { FileAudioFill } from '../fill/file-audio-fill'
 import { FileAudioLight } from '../light/file-audio-light'
 import { FileAudioRegular } from '../regular/file-audio-regular'
 import { FileAudioThin } from '../thin/file-audio-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

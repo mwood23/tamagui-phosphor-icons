@@ -6,7 +6,7 @@ import { FlagFill } from '../fill/flag-fill'
 import { FlagLight } from '../light/flag-light'
 import { FlagRegular } from '../regular/flag-regular'
 import { FlagThin } from '../thin/flag-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

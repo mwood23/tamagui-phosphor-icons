@@ -6,7 +6,7 @@ import { CubeFill } from '../fill/cube-fill'
 import { CubeLight } from '../light/cube-light'
 import { CubeRegular } from '../regular/cube-regular'
 import { CubeThin } from '../thin/cube-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

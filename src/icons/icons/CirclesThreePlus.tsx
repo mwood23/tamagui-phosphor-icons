@@ -6,7 +6,7 @@ import { CirclesThreePlusFill } from '../fill/circles-three-plus-fill'
 import { CirclesThreePlusLight } from '../light/circles-three-plus-light'
 import { CirclesThreePlusRegular } from '../regular/circles-three-plus-regular'
 import { CirclesThreePlusThin } from '../thin/circles-three-plus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

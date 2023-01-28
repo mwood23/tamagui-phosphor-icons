@@ -6,7 +6,7 @@ import { CurrencyKrwFill } from '../fill/currency-krw-fill'
 import { CurrencyKrwLight } from '../light/currency-krw-light'
 import { CurrencyKrwRegular } from '../regular/currency-krw-regular'
 import { CurrencyKrwThin } from '../thin/currency-krw-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

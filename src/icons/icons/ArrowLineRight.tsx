@@ -6,7 +6,7 @@ import { ArrowLineRightFill } from '../fill/arrow-line-right-fill'
 import { ArrowLineRightLight } from '../light/arrow-line-right-light'
 import { ArrowLineRightRegular } from '../regular/arrow-line-right-regular'
 import { ArrowLineRightThin } from '../thin/arrow-line-right-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FolderSimplePlusFill } from '../fill/folder-simple-plus-fill'
 import { FolderSimplePlusLight } from '../light/folder-simple-plus-light'
 import { FolderSimplePlusRegular } from '../regular/folder-simple-plus-regular'
 import { FolderSimplePlusThin } from '../thin/folder-simple-plus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

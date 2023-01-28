@@ -6,7 +6,7 @@ import { RowsFill } from '../fill/rows-fill'
 import { RowsLight } from '../light/rows-light'
 import { RowsRegular } from '../regular/rows-regular'
 import { RowsThin } from '../thin/rows-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

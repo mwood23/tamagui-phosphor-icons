@@ -6,7 +6,7 @@ import { NumberSquareOneFill } from '../fill/number-square-one-fill'
 import { NumberSquareOneLight } from '../light/number-square-one-light'
 import { NumberSquareOneRegular } from '../regular/number-square-one-regular'
 import { NumberSquareOneThin } from '../thin/number-square-one-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

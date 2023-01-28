@@ -6,7 +6,7 @@ import { RepeatFill } from '../fill/repeat-fill'
 import { RepeatLight } from '../light/repeat-light'
 import { RepeatRegular } from '../regular/repeat-regular'
 import { RepeatThin } from '../thin/repeat-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

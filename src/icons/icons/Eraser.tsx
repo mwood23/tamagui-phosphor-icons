@@ -6,7 +6,7 @@ import { EraserFill } from '../fill/eraser-fill'
 import { EraserLight } from '../light/eraser-light'
 import { EraserRegular } from '../regular/eraser-regular'
 import { EraserThin } from '../thin/eraser-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

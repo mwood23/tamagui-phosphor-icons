@@ -6,7 +6,7 @@ import { PhoneCallFill } from '../fill/phone-call-fill'
 import { PhoneCallLight } from '../light/phone-call-light'
 import { PhoneCallRegular } from '../regular/phone-call-regular'
 import { PhoneCallThin } from '../thin/phone-call-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

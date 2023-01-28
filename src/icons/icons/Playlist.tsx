@@ -6,7 +6,7 @@ import { PlaylistFill } from '../fill/playlist-fill'
 import { PlaylistLight } from '../light/playlist-light'
 import { PlaylistRegular } from '../regular/playlist-regular'
 import { PlaylistThin } from '../thin/playlist-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

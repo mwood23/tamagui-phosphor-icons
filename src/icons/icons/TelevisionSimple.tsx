@@ -6,7 +6,7 @@ import { TelevisionSimpleFill } from '../fill/television-simple-fill'
 import { TelevisionSimpleLight } from '../light/television-simple-light'
 import { TelevisionSimpleRegular } from '../regular/television-simple-regular'
 import { TelevisionSimpleThin } from '../thin/television-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

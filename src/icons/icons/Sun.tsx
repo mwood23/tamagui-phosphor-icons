@@ -6,7 +6,7 @@ import { SunFill } from '../fill/sun-fill'
 import { SunLight } from '../light/sun-light'
 import { SunRegular } from '../regular/sun-regular'
 import { SunThin } from '../thin/sun-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

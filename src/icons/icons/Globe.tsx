@@ -6,7 +6,7 @@ import { GlobeFill } from '../fill/globe-fill'
 import { GlobeLight } from '../light/globe-light'
 import { GlobeRegular } from '../regular/globe-regular'
 import { GlobeThin } from '../thin/globe-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

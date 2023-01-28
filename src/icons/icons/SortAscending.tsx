@@ -6,7 +6,7 @@ import { SortAscendingFill } from '../fill/sort-ascending-fill'
 import { SortAscendingLight } from '../light/sort-ascending-light'
 import { SortAscendingRegular } from '../regular/sort-ascending-regular'
 import { SortAscendingThin } from '../thin/sort-ascending-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FileCsvFill } from '../fill/file-csv-fill'
 import { FileCsvLight } from '../light/file-csv-light'
 import { FileCsvRegular } from '../regular/file-csv-regular'
 import { FileCsvThin } from '../thin/file-csv-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

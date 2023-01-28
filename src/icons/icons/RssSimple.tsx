@@ -6,7 +6,7 @@ import { RssSimpleFill } from '../fill/rss-simple-fill'
 import { RssSimpleLight } from '../light/rss-simple-light'
 import { RssSimpleRegular } from '../regular/rss-simple-regular'
 import { RssSimpleThin } from '../thin/rss-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

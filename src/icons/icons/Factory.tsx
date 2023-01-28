@@ -6,7 +6,7 @@ import { FactoryFill } from '../fill/factory-fill'
 import { FactoryLight } from '../light/factory-light'
 import { FactoryRegular } from '../regular/factory-regular'
 import { FactoryThin } from '../thin/factory-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

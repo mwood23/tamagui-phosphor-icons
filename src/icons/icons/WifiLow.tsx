@@ -6,7 +6,7 @@ import { WifiLowFill } from '../fill/wifi-low-fill'
 import { WifiLowLight } from '../light/wifi-low-light'
 import { WifiLowRegular } from '../regular/wifi-low-regular'
 import { WifiLowThin } from '../thin/wifi-low-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

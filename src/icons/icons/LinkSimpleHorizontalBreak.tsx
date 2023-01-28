@@ -6,7 +6,7 @@ import { LinkSimpleHorizontalBreakFill } from '../fill/link-simple-horizontal-br
 import { LinkSimpleHorizontalBreakLight } from '../light/link-simple-horizontal-break-light'
 import { LinkSimpleHorizontalBreakRegular } from '../regular/link-simple-horizontal-break-regular'
 import { LinkSimpleHorizontalBreakThin } from '../thin/link-simple-horizontal-break-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

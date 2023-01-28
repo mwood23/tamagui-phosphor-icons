@@ -6,7 +6,7 @@ import { RecordFill } from '../fill/record-fill'
 import { RecordLight } from '../light/record-light'
 import { RecordRegular } from '../regular/record-regular'
 import { RecordThin } from '../thin/record-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

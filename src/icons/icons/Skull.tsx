@@ -6,7 +6,7 @@ import { SkullFill } from '../fill/skull-fill'
 import { SkullLight } from '../light/skull-light'
 import { SkullRegular } from '../regular/skull-regular'
 import { SkullThin } from '../thin/skull-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

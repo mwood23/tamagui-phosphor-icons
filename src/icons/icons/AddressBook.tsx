@@ -6,7 +6,7 @@ import { AddressBookFill } from '../fill/address-book-fill'
 import { AddressBookLight } from '../light/address-book-light'
 import { AddressBookRegular } from '../regular/address-book-regular'
 import { AddressBookThin } from '../thin/address-book-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

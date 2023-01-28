@@ -6,7 +6,7 @@ import { ProhibitInsetFill } from '../fill/prohibit-inset-fill'
 import { ProhibitInsetLight } from '../light/prohibit-inset-light'
 import { ProhibitInsetRegular } from '../regular/prohibit-inset-regular'
 import { ProhibitInsetThin } from '../thin/prohibit-inset-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CircleNotchFill } from '../fill/circle-notch-fill'
 import { CircleNotchLight } from '../light/circle-notch-light'
 import { CircleNotchRegular } from '../regular/circle-notch-regular'
 import { CircleNotchThin } from '../thin/circle-notch-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

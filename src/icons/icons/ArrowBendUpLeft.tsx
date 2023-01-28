@@ -6,7 +6,7 @@ import { ArrowBendUpLeftFill } from '../fill/arrow-bend-up-left-fill'
 import { ArrowBendUpLeftLight } from '../light/arrow-bend-up-left-light'
 import { ArrowBendUpLeftRegular } from '../regular/arrow-bend-up-left-regular'
 import { ArrowBendUpLeftThin } from '../thin/arrow-bend-up-left-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

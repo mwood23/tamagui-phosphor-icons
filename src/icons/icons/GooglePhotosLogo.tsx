@@ -6,7 +6,7 @@ import { GooglePhotosLogoFill } from '../fill/google-photos-logo-fill'
 import { GooglePhotosLogoLight } from '../light/google-photos-logo-light'
 import { GooglePhotosLogoRegular } from '../regular/google-photos-logo-regular'
 import { GooglePhotosLogoThin } from '../thin/google-photos-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

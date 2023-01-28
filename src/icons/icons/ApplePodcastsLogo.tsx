@@ -6,7 +6,7 @@ import { ApplePodcastsLogoFill } from '../fill/apple-podcasts-logo-fill'
 import { ApplePodcastsLogoLight } from '../light/apple-podcasts-logo-light'
 import { ApplePodcastsLogoRegular } from '../regular/apple-podcasts-logo-regular'
 import { ApplePodcastsLogoThin } from '../thin/apple-podcasts-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

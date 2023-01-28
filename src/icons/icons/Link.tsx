@@ -6,7 +6,7 @@ import { LinkFill } from '../fill/link-fill'
 import { LinkLight } from '../light/link-light'
 import { LinkRegular } from '../regular/link-regular'
 import { LinkThin } from '../thin/link-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

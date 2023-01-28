@@ -6,7 +6,7 @@ import { FadersFill } from '../fill/faders-fill'
 import { FadersLight } from '../light/faders-light'
 import { FadersRegular } from '../regular/faders-regular'
 import { FadersThin } from '../thin/faders-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

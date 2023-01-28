@@ -6,7 +6,7 @@ import { WarningOctagonFill } from '../fill/warning-octagon-fill'
 import { WarningOctagonLight } from '../light/warning-octagon-light'
 import { WarningOctagonRegular } from '../regular/warning-octagon-regular'
 import { WarningOctagonThin } from '../thin/warning-octagon-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

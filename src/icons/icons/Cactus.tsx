@@ -6,7 +6,7 @@ import { CactusFill } from '../fill/cactus-fill'
 import { CactusLight } from '../light/cactus-light'
 import { CactusRegular } from '../regular/cactus-regular'
 import { CactusThin } from '../thin/cactus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

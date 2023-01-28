@@ -6,7 +6,7 @@ import { UmbrellaFill } from '../fill/umbrella-fill'
 import { UmbrellaLight } from '../light/umbrella-light'
 import { UmbrellaRegular } from '../regular/umbrella-regular'
 import { UmbrellaThin } from '../thin/umbrella-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { QueueFill } from '../fill/queue-fill'
 import { QueueLight } from '../light/queue-light'
 import { QueueRegular } from '../regular/queue-regular'
 import { QueueThin } from '../thin/queue-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

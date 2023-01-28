@@ -6,7 +6,7 @@ import { DesktopFill } from '../fill/desktop-fill'
 import { DesktopLight } from '../light/desktop-light'
 import { DesktopRegular } from '../regular/desktop-regular'
 import { DesktopThin } from '../thin/desktop-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

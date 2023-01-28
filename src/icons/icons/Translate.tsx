@@ -6,7 +6,7 @@ import { TranslateFill } from '../fill/translate-fill'
 import { TranslateLight } from '../light/translate-light'
 import { TranslateRegular } from '../regular/translate-regular'
 import { TranslateThin } from '../thin/translate-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { CursorTextFill } from '../fill/cursor-text-fill'
 import { CursorTextLight } from '../light/cursor-text-light'
 import { CursorTextRegular } from '../regular/cursor-text-regular'
 import { CursorTextThin } from '../thin/cursor-text-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

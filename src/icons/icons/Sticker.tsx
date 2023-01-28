@@ -6,7 +6,7 @@ import { StickerFill } from '../fill/sticker-fill'
 import { StickerLight } from '../light/sticker-light'
 import { StickerRegular } from '../regular/sticker-regular'
 import { StickerThin } from '../thin/sticker-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

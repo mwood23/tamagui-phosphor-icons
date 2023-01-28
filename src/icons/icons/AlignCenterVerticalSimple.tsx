@@ -6,7 +6,7 @@ import { AlignCenterVerticalSimpleFill } from '../fill/align-center-vertical-sim
 import { AlignCenterVerticalSimpleLight } from '../light/align-center-vertical-simple-light'
 import { AlignCenterVerticalSimpleRegular } from '../regular/align-center-vertical-simple-regular'
 import { AlignCenterVerticalSimpleThin } from '../thin/align-center-vertical-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

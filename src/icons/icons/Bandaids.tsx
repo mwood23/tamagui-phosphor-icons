@@ -6,7 +6,7 @@ import { BandaidsFill } from '../fill/bandaids-fill'
 import { BandaidsLight } from '../light/bandaids-light'
 import { BandaidsRegular } from '../regular/bandaids-regular'
 import { BandaidsThin } from '../thin/bandaids-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

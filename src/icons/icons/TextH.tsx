@@ -6,7 +6,7 @@ import { TextHFill } from '../fill/text-h-fill'
 import { TextHLight } from '../light/text-h-light'
 import { TextHRegular } from '../regular/text-h-regular'
 import { TextHThin } from '../thin/text-h-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

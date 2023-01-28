@@ -6,7 +6,7 @@ import { TextBolderFill } from '../fill/text-bolder-fill'
 import { TextBolderLight } from '../light/text-bolder-light'
 import { TextBolderRegular } from '../regular/text-bolder-regular'
 import { TextBolderThin } from '../thin/text-bolder-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

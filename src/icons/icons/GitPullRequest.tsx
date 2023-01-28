@@ -6,7 +6,7 @@ import { GitPullRequestFill } from '../fill/git-pull-request-fill'
 import { GitPullRequestLight } from '../light/git-pull-request-light'
 import { GitPullRequestRegular } from '../regular/git-pull-request-regular'
 import { GitPullRequestThin } from '../thin/git-pull-request-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

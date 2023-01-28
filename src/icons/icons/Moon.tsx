@@ -6,7 +6,7 @@ import { MoonFill } from '../fill/moon-fill'
 import { MoonLight } from '../light/moon-light'
 import { MoonRegular } from '../regular/moon-regular'
 import { MoonThin } from '../thin/moon-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

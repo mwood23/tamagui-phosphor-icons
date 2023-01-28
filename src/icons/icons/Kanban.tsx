@@ -6,7 +6,7 @@ import { KanbanFill } from '../fill/kanban-fill'
 import { KanbanLight } from '../light/kanban-light'
 import { KanbanRegular } from '../regular/kanban-regular'
 import { KanbanThin } from '../thin/kanban-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

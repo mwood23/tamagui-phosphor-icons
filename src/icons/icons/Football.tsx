@@ -6,7 +6,7 @@ import { FootballFill } from '../fill/football-fill'
 import { FootballLight } from '../light/football-light'
 import { FootballRegular } from '../regular/football-regular'
 import { FootballThin } from '../thin/football-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

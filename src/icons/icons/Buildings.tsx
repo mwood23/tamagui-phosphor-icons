@@ -6,7 +6,7 @@ import { BuildingsFill } from '../fill/buildings-fill'
 import { BuildingsLight } from '../light/buildings-light'
 import { BuildingsRegular } from '../regular/buildings-regular'
 import { BuildingsThin } from '../thin/buildings-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

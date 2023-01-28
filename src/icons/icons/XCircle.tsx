@@ -6,7 +6,7 @@ import { XCircleFill } from '../fill/x-circle-fill'
 import { XCircleLight } from '../light/x-circle-light'
 import { XCircleRegular } from '../regular/x-circle-regular'
 import { XCircleThin } from '../thin/x-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FlagBannerFill } from '../fill/flag-banner-fill'
 import { FlagBannerLight } from '../light/flag-banner-light'
 import { FlagBannerRegular } from '../regular/flag-banner-regular'
 import { FlagBannerThin } from '../thin/flag-banner-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

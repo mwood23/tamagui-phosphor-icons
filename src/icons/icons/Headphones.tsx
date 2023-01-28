@@ -6,7 +6,7 @@ import { HeadphonesFill } from '../fill/headphones-fill'
 import { HeadphonesLight } from '../light/headphones-light'
 import { HeadphonesRegular } from '../regular/headphones-regular'
 import { HeadphonesThin } from '../thin/headphones-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

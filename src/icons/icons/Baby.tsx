@@ -6,7 +6,7 @@ import { BabyFill } from '../fill/baby-fill'
 import { BabyLight } from '../light/baby-light'
 import { BabyRegular } from '../regular/baby-regular'
 import { BabyThin } from '../thin/baby-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

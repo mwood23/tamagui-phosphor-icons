@@ -6,7 +6,7 @@ import { PrescriptionFill } from '../fill/prescription-fill'
 import { PrescriptionLight } from '../light/prescription-light'
 import { PrescriptionRegular } from '../regular/prescription-regular'
 import { PrescriptionThin } from '../thin/prescription-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

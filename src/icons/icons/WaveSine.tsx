@@ -6,7 +6,7 @@ import { WaveSineFill } from '../fill/wave-sine-fill'
 import { WaveSineLight } from '../light/wave-sine-light'
 import { WaveSineRegular } from '../regular/wave-sine-regular'
 import { WaveSineThin } from '../thin/wave-sine-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

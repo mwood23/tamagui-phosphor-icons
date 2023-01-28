@@ -6,7 +6,7 @@ import { SelectionSlashFill } from '../fill/selection-slash-fill'
 import { SelectionSlashLight } from '../light/selection-slash-light'
 import { SelectionSlashRegular } from '../regular/selection-slash-regular'
 import { SelectionSlashThin } from '../thin/selection-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

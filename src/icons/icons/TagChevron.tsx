@@ -6,7 +6,7 @@ import { TagChevronFill } from '../fill/tag-chevron-fill'
 import { TagChevronLight } from '../light/tag-chevron-light'
 import { TagChevronRegular } from '../regular/tag-chevron-regular'
 import { TagChevronThin } from '../thin/tag-chevron-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

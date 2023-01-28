@@ -6,7 +6,7 @@ import { LaptopFill } from '../fill/laptop-fill'
 import { LaptopLight } from '../light/laptop-light'
 import { LaptopRegular } from '../regular/laptop-regular'
 import { LaptopThin } from '../thin/laptop-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FlameFill } from '../fill/flame-fill'
 import { FlameLight } from '../light/flame-light'
 import { FlameRegular } from '../regular/flame-regular'
 import { FlameThin } from '../thin/flame-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

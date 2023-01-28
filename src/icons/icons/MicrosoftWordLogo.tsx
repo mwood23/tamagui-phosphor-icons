@@ -6,7 +6,7 @@ import { MicrosoftWordLogoFill } from '../fill/microsoft-word-logo-fill'
 import { MicrosoftWordLogoLight } from '../light/microsoft-word-logo-light'
 import { MicrosoftWordLogoRegular } from '../regular/microsoft-word-logo-regular'
 import { MicrosoftWordLogoThin } from '../thin/microsoft-word-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

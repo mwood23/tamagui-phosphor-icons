@@ -6,7 +6,7 @@ import { PenNibFill } from '../fill/pen-nib-fill'
 import { PenNibLight } from '../light/pen-nib-light'
 import { PenNibRegular } from '../regular/pen-nib-regular'
 import { PenNibThin } from '../thin/pen-nib-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

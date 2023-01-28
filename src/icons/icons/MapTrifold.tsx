@@ -6,7 +6,7 @@ import { MapTrifoldFill } from '../fill/map-trifold-fill'
 import { MapTrifoldLight } from '../light/map-trifold-light'
 import { MapTrifoldRegular } from '../regular/map-trifold-regular'
 import { MapTrifoldThin } from '../thin/map-trifold-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

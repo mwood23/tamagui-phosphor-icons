@@ -6,7 +6,7 @@ import { CurrencyGbpFill } from '../fill/currency-gbp-fill'
 import { CurrencyGbpLight } from '../light/currency-gbp-light'
 import { CurrencyGbpRegular } from '../regular/currency-gbp-regular'
 import { CurrencyGbpThin } from '../thin/currency-gbp-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

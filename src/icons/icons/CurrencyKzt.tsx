@@ -6,7 +6,7 @@ import { CurrencyKztFill } from '../fill/currency-kzt-fill'
 import { CurrencyKztLight } from '../light/currency-kzt-light'
 import { CurrencyKztRegular } from '../regular/currency-kzt-regular'
 import { CurrencyKztThin } from '../thin/currency-kzt-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

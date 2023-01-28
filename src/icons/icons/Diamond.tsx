@@ -6,7 +6,7 @@ import { DiamondFill } from '../fill/diamond-fill'
 import { DiamondLight } from '../light/diamond-light'
 import { DiamondRegular } from '../regular/diamond-regular'
 import { DiamondThin } from '../thin/diamond-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

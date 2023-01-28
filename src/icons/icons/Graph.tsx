@@ -6,7 +6,7 @@ import { GraphFill } from '../fill/graph-fill'
 import { GraphLight } from '../light/graph-light'
 import { GraphRegular } from '../regular/graph-regular'
 import { GraphThin } from '../thin/graph-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

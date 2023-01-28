@@ -6,7 +6,7 @@ import { AlarmFill } from '../fill/alarm-fill'
 import { AlarmLight } from '../light/alarm-light'
 import { AlarmRegular } from '../regular/alarm-regular'
 import { AlarmThin } from '../thin/alarm-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

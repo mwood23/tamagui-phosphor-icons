@@ -6,7 +6,7 @@ import { DribbbleLogoFill } from '../fill/dribbble-logo-fill'
 import { DribbbleLogoLight } from '../light/dribbble-logo-light'
 import { DribbbleLogoRegular } from '../regular/dribbble-logo-regular'
 import { DribbbleLogoThin } from '../thin/dribbble-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

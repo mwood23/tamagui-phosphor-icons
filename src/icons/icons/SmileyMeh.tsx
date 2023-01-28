@@ -6,7 +6,7 @@ import { SmileyMehFill } from '../fill/smiley-meh-fill'
 import { SmileyMehLight } from '../light/smiley-meh-light'
 import { SmileyMehRegular } from '../regular/smiley-meh-regular'
 import { SmileyMehThin } from '../thin/smiley-meh-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

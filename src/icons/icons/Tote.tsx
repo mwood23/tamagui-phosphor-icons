@@ -6,7 +6,7 @@ import { ToteFill } from '../fill/tote-fill'
 import { ToteLight } from '../light/tote-light'
 import { ToteRegular } from '../regular/tote-regular'
 import { ToteThin } from '../thin/tote-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

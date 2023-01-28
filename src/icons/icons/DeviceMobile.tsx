@@ -6,7 +6,7 @@ import { DeviceMobileFill } from '../fill/device-mobile-fill'
 import { DeviceMobileLight } from '../light/device-mobile-light'
 import { DeviceMobileRegular } from '../regular/device-mobile-regular'
 import { DeviceMobileThin } from '../thin/device-mobile-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

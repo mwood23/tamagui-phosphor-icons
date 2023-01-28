@@ -6,7 +6,7 @@ import { GitMergeFill } from '../fill/git-merge-fill'
 import { GitMergeLight } from '../light/git-merge-light'
 import { GitMergeRegular } from '../regular/git-merge-regular'
 import { GitMergeThin } from '../thin/git-merge-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

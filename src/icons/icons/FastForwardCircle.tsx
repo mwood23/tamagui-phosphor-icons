@@ -6,7 +6,7 @@ import { FastForwardCircleFill } from '../fill/fast-forward-circle-fill'
 import { FastForwardCircleLight } from '../light/fast-forward-circle-light'
 import { FastForwardCircleRegular } from '../regular/fast-forward-circle-regular'
 import { FastForwardCircleThin } from '../thin/fast-forward-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

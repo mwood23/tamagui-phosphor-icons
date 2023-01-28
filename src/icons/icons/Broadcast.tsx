@@ -6,7 +6,7 @@ import { BroadcastFill } from '../fill/broadcast-fill'
 import { BroadcastLight } from '../light/broadcast-light'
 import { BroadcastRegular } from '../regular/broadcast-regular'
 import { BroadcastThin } from '../thin/broadcast-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

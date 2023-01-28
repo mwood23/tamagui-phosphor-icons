@@ -6,7 +6,7 @@ import { CircleWavyFill } from '../fill/circle-wavy-fill'
 import { CircleWavyLight } from '../light/circle-wavy-light'
 import { CircleWavyRegular } from '../regular/circle-wavy-regular'
 import { CircleWavyThin } from '../thin/circle-wavy-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

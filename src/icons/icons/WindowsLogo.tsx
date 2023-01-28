@@ -6,7 +6,7 @@ import { WindowsLogoFill } from '../fill/windows-logo-fill'
 import { WindowsLogoLight } from '../light/windows-logo-light'
 import { WindowsLogoRegular } from '../regular/windows-logo-regular'
 import { WindowsLogoThin } from '../thin/windows-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

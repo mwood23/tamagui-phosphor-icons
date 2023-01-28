@@ -6,7 +6,7 @@ import { ChatDotsFill } from '../fill/chat-dots-fill'
 import { ChatDotsLight } from '../light/chat-dots-light'
 import { ChatDotsRegular } from '../regular/chat-dots-regular'
 import { ChatDotsThin } from '../thin/chat-dots-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

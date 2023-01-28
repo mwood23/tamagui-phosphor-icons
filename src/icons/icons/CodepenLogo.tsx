@@ -6,7 +6,7 @@ import { CodepenLogoFill } from '../fill/codepen-logo-fill'
 import { CodepenLogoLight } from '../light/codepen-logo-light'
 import { CodepenLogoRegular } from '../regular/codepen-logo-regular'
 import { CodepenLogoThin } from '../thin/codepen-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

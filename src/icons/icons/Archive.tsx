@@ -6,7 +6,7 @@ import { ArchiveFill } from '../fill/archive-fill'
 import { ArchiveLight } from '../light/archive-light'
 import { ArchiveRegular } from '../regular/archive-regular'
 import { ArchiveThin } from '../thin/archive-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

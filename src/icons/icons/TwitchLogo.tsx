@@ -6,7 +6,7 @@ import { TwitchLogoFill } from '../fill/twitch-logo-fill'
 import { TwitchLogoLight } from '../light/twitch-logo-light'
 import { TwitchLogoRegular } from '../regular/twitch-logo-regular'
 import { TwitchLogoThin } from '../thin/twitch-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

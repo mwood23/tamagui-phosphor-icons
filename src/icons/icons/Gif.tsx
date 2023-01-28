@@ -6,7 +6,7 @@ import { GifFill } from '../fill/gif-fill'
 import { GifLight } from '../light/gif-light'
 import { GifRegular } from '../regular/gif-regular'
 import { GifThin } from '../thin/gif-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

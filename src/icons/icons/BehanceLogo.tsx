@@ -6,7 +6,7 @@ import { BehanceLogoFill } from '../fill/behance-logo-fill'
 import { BehanceLogoLight } from '../light/behance-logo-light'
 import { BehanceLogoRegular } from '../regular/behance-logo-regular'
 import { BehanceLogoThin } from '../thin/behance-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

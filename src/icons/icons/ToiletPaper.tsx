@@ -6,7 +6,7 @@ import { ToiletPaperFill } from '../fill/toilet-paper-fill'
 import { ToiletPaperLight } from '../light/toilet-paper-light'
 import { ToiletPaperRegular } from '../regular/toilet-paper-regular'
 import { ToiletPaperThin } from '../thin/toilet-paper-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

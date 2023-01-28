@@ -6,7 +6,7 @@ import { PianoKeysFill } from '../fill/piano-keys-fill'
 import { PianoKeysLight } from '../light/piano-keys-light'
 import { PianoKeysRegular } from '../regular/piano-keys-regular'
 import { PianoKeysThin } from '../thin/piano-keys-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

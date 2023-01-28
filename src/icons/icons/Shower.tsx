@@ -6,7 +6,7 @@ import { ShowerFill } from '../fill/shower-fill'
 import { ShowerLight } from '../light/shower-light'
 import { ShowerRegular } from '../regular/shower-regular'
 import { ShowerThin } from '../thin/shower-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

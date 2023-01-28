@@ -6,7 +6,7 @@ import { CreditCardFill } from '../fill/credit-card-fill'
 import { CreditCardLight } from '../light/credit-card-light'
 import { CreditCardRegular } from '../regular/credit-card-regular'
 import { CreditCardThin } from '../thin/credit-card-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

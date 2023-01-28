@@ -6,7 +6,7 @@ import { FileMinusFill } from '../fill/file-minus-fill'
 import { FileMinusLight } from '../light/file-minus-light'
 import { FileMinusRegular } from '../regular/file-minus-regular'
 import { FileMinusThin } from '../thin/file-minus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

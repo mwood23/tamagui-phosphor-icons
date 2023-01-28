@@ -6,7 +6,7 @@ import { GradientFill } from '../fill/gradient-fill'
 import { GradientLight } from '../light/gradient-light'
 import { GradientRegular } from '../regular/gradient-regular'
 import { GradientThin } from '../thin/gradient-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

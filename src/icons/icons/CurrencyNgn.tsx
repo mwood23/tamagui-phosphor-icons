@@ -6,7 +6,7 @@ import { CurrencyNgnFill } from '../fill/currency-ngn-fill'
 import { CurrencyNgnLight } from '../light/currency-ngn-light'
 import { CurrencyNgnRegular } from '../regular/currency-ngn-regular'
 import { CurrencyNgnThin } from '../thin/currency-ngn-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

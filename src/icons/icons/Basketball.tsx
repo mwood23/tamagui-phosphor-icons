@@ -6,7 +6,7 @@ import { BasketballFill } from '../fill/basketball-fill'
 import { BasketballLight } from '../light/basketball-light'
 import { BasketballRegular } from '../regular/basketball-regular'
 import { BasketballThin } from '../thin/basketball-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { RectangleFill } from '../fill/rectangle-fill'
 import { RectangleLight } from '../light/rectangle-light'
 import { RectangleRegular } from '../regular/rectangle-regular'
 import { RectangleThin } from '../thin/rectangle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { BugDroidFill } from '../fill/bug-droid-fill'
 import { BugDroidLight } from '../light/bug-droid-light'
 import { BugDroidRegular } from '../regular/bug-droid-regular'
 import { BugDroidThin } from '../thin/bug-droid-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

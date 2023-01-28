@@ -6,7 +6,7 @@ import { PlayCircleFill } from '../fill/play-circle-fill'
 import { PlayCircleLight } from '../light/play-circle-light'
 import { PlayCircleRegular } from '../regular/play-circle-regular'
 import { PlayCircleThin } from '../thin/play-circle-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

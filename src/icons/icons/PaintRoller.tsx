@@ -6,7 +6,7 @@ import { PaintRollerFill } from '../fill/paint-roller-fill'
 import { PaintRollerLight } from '../light/paint-roller-light'
 import { PaintRollerRegular } from '../regular/paint-roller-regular'
 import { PaintRollerThin } from '../thin/paint-roller-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

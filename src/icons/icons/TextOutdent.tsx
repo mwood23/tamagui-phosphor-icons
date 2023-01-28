@@ -6,7 +6,7 @@ import { TextOutdentFill } from '../fill/text-outdent-fill'
 import { TextOutdentLight } from '../light/text-outdent-light'
 import { TextOutdentRegular } from '../regular/text-outdent-regular'
 import { TextOutdentThin } from '../thin/text-outdent-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

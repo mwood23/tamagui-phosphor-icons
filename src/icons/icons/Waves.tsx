@@ -6,7 +6,7 @@ import { WavesFill } from '../fill/waves-fill'
 import { WavesLight } from '../light/waves-light'
 import { WavesRegular } from '../regular/waves-regular'
 import { WavesThin } from '../thin/waves-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

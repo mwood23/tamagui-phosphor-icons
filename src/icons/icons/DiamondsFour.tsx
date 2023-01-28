@@ -6,7 +6,7 @@ import { DiamondsFourFill } from '../fill/diamonds-four-fill'
 import { DiamondsFourLight } from '../light/diamonds-four-light'
 import { DiamondsFourRegular } from '../regular/diamonds-four-regular'
 import { DiamondsFourThin } from '../thin/diamonds-four-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

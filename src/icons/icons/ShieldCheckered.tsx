@@ -6,7 +6,7 @@ import { ShieldCheckeredFill } from '../fill/shield-checkered-fill'
 import { ShieldCheckeredLight } from '../light/shield-checkered-light'
 import { ShieldCheckeredRegular } from '../regular/shield-checkered-regular'
 import { ShieldCheckeredThin } from '../thin/shield-checkered-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

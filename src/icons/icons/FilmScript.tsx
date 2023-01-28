@@ -6,7 +6,7 @@ import { FilmScriptFill } from '../fill/film-script-fill'
 import { FilmScriptLight } from '../light/film-script-light'
 import { FilmScriptRegular } from '../regular/film-script-regular'
 import { FilmScriptThin } from '../thin/film-script-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

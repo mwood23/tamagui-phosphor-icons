@@ -6,7 +6,7 @@ import { NewspaperClippingFill } from '../fill/newspaper-clipping-fill'
 import { NewspaperClippingLight } from '../light/newspaper-clipping-light'
 import { NewspaperClippingRegular } from '../regular/newspaper-clipping-regular'
 import { NewspaperClippingThin } from '../thin/newspaper-clipping-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { DownloadFill } from '../fill/download-fill'
 import { DownloadLight } from '../light/download-light'
 import { DownloadRegular } from '../regular/download-regular'
 import { DownloadThin } from '../thin/download-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { StorefrontFill } from '../fill/storefront-fill'
 import { StorefrontLight } from '../light/storefront-light'
 import { StorefrontRegular } from '../regular/storefront-regular'
 import { StorefrontThin } from '../thin/storefront-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

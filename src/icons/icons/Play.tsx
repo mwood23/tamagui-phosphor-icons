@@ -6,7 +6,7 @@ import { PlayFill } from '../fill/play-fill'
 import { PlayLight } from '../light/play-light'
 import { PlayRegular } from '../regular/play-regular'
 import { PlayThin } from '../thin/play-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

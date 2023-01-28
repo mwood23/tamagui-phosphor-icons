@@ -6,7 +6,7 @@ import { StackOverflowLogoFill } from '../fill/stack-overflow-logo-fill'
 import { StackOverflowLogoLight } from '../light/stack-overflow-logo-light'
 import { StackOverflowLogoRegular } from '../regular/stack-overflow-logo-regular'
 import { StackOverflowLogoThin } from '../thin/stack-overflow-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { MusicNotesPlusFill } from '../fill/music-notes-plus-fill'
 import { MusicNotesPlusLight } from '../light/music-notes-plus-light'
 import { MusicNotesPlusRegular } from '../regular/music-notes-plus-regular'
 import { MusicNotesPlusThin } from '../thin/music-notes-plus-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

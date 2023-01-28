@@ -6,7 +6,7 @@ import { PaletteFill } from '../fill/palette-fill'
 import { PaletteLight } from '../light/palette-light'
 import { PaletteRegular } from '../regular/palette-regular'
 import { PaletteThin } from '../thin/palette-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

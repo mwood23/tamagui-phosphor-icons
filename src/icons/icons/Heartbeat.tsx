@@ -6,7 +6,7 @@ import { HeartbeatFill } from '../fill/heartbeat-fill'
 import { HeartbeatLight } from '../light/heartbeat-light'
 import { HeartbeatRegular } from '../regular/heartbeat-regular'
 import { HeartbeatThin } from '../thin/heartbeat-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

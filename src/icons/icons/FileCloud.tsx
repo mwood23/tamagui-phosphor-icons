@@ -6,7 +6,7 @@ import { FileCloudFill } from '../fill/file-cloud-fill'
 import { FileCloudLight } from '../light/file-cloud-light'
 import { FileCloudRegular } from '../regular/file-cloud-regular'
 import { FileCloudThin } from '../thin/file-cloud-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { QuotesFill } from '../fill/quotes-fill'
 import { QuotesLight } from '../light/quotes-light'
 import { QuotesRegular } from '../regular/quotes-regular'
 import { QuotesThin } from '../thin/quotes-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

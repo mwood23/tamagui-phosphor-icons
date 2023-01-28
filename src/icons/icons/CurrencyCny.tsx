@@ -6,7 +6,7 @@ import { CurrencyCnyFill } from '../fill/currency-cny-fill'
 import { CurrencyCnyLight } from '../light/currency-cny-light'
 import { CurrencyCnyRegular } from '../regular/currency-cny-regular'
 import { CurrencyCnyThin } from '../thin/currency-cny-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

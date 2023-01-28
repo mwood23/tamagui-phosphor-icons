@@ -6,7 +6,7 @@ import { ConfettiFill } from '../fill/confetti-fill'
 import { ConfettiLight } from '../light/confetti-light'
 import { ConfettiRegular } from '../regular/confetti-regular'
 import { ConfettiThin } from '../thin/confetti-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

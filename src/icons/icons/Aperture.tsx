@@ -6,7 +6,7 @@ import { ApertureFill } from '../fill/aperture-fill'
 import { ApertureLight } from '../light/aperture-light'
 import { ApertureRegular } from '../regular/aperture-regular'
 import { ApertureThin } from '../thin/aperture-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { FireFill } from '../fill/fire-fill'
 import { FireLight } from '../light/fire-light'
 import { FireRegular } from '../regular/fire-regular'
 import { FireThin } from '../thin/fire-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

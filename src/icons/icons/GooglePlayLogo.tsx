@@ -6,7 +6,7 @@ import { GooglePlayLogoFill } from '../fill/google-play-logo-fill'
 import { GooglePlayLogoLight } from '../light/google-play-logo-light'
 import { GooglePlayLogoRegular } from '../regular/google-play-logo-regular'
 import { GooglePlayLogoThin } from '../thin/google-play-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

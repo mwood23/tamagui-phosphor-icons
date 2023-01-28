@@ -6,7 +6,7 @@ import { FolderSimpleDottedFill } from '../fill/folder-simple-dotted-fill'
 import { FolderSimpleDottedLight } from '../light/folder-simple-dotted-light'
 import { FolderSimpleDottedRegular } from '../regular/folder-simple-dotted-regular'
 import { FolderSimpleDottedThin } from '../thin/folder-simple-dotted-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

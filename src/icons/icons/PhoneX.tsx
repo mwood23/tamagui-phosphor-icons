@@ -6,7 +6,7 @@ import { PhoneXFill } from '../fill/phone-x-fill'
 import { PhoneXLight } from '../light/phone-x-light'
 import { PhoneXRegular } from '../regular/phone-x-regular'
 import { PhoneXThin } from '../thin/phone-x-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { NyTimesLogoFill } from '../fill/ny-times-logo-fill'
 import { NyTimesLogoLight } from '../light/ny-times-logo-light'
 import { NyTimesLogoRegular } from '../regular/ny-times-logo-regular'
 import { NyTimesLogoThin } from '../thin/ny-times-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

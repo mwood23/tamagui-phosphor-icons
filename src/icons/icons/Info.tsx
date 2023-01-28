@@ -6,7 +6,7 @@ import { InfoFill } from '../fill/info-fill'
 import { InfoLight } from '../light/info-light'
 import { InfoRegular } from '../regular/info-regular'
 import { InfoThin } from '../thin/info-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

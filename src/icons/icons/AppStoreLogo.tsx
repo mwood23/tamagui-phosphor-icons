@@ -6,7 +6,7 @@ import { AppStoreLogoFill } from '../fill/app-store-logo-fill'
 import { AppStoreLogoLight } from '../light/app-store-logo-light'
 import { AppStoreLogoRegular } from '../regular/app-store-logo-regular'
 import { AppStoreLogoThin } from '../thin/app-store-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

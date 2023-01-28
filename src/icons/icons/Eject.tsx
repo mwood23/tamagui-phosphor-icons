@@ -6,7 +6,7 @@ import { EjectFill } from '../fill/eject-fill'
 import { EjectLight } from '../light/eject-light'
 import { EjectRegular } from '../regular/eject-regular'
 import { EjectThin } from '../thin/eject-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

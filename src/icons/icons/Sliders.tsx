@@ -6,7 +6,7 @@ import { SlidersFill } from '../fill/sliders-fill'
 import { SlidersLight } from '../light/sliders-light'
 import { SlidersRegular } from '../regular/sliders-regular'
 import { SlidersThin } from '../thin/sliders-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

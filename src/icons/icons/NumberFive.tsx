@@ -6,7 +6,7 @@ import { NumberFiveFill } from '../fill/number-five-fill'
 import { NumberFiveLight } from '../light/number-five-light'
 import { NumberFiveRegular } from '../regular/number-five-regular'
 import { NumberFiveThin } from '../thin/number-five-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

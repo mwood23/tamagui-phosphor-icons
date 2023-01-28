@@ -6,7 +6,7 @@ import { HandPointingFill } from '../fill/hand-pointing-fill'
 import { HandPointingLight } from '../light/hand-pointing-light'
 import { HandPointingRegular } from '../regular/hand-pointing-regular'
 import { HandPointingThin } from '../thin/hand-pointing-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

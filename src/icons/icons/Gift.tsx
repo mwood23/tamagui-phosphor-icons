@@ -6,7 +6,7 @@ import { GiftFill } from '../fill/gift-fill'
 import { GiftLight } from '../light/gift-light'
 import { GiftRegular } from '../regular/gift-regular'
 import { GiftThin } from '../thin/gift-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

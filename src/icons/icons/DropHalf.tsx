@@ -6,7 +6,7 @@ import { DropHalfFill } from '../fill/drop-half-fill'
 import { DropHalfLight } from '../light/drop-half-light'
 import { DropHalfRegular } from '../regular/drop-half-regular'
 import { DropHalfThin } from '../thin/drop-half-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

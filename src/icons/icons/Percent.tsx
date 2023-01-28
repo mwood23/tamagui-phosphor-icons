@@ -6,7 +6,7 @@ import { PercentFill } from '../fill/percent-fill'
 import { PercentLight } from '../light/percent-light'
 import { PercentRegular } from '../regular/percent-regular'
 import { PercentThin } from '../thin/percent-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

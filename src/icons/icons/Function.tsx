@@ -6,7 +6,7 @@ import { FunctionFill } from '../fill/function-fill'
 import { FunctionLight } from '../light/function-light'
 import { FunctionRegular } from '../regular/function-regular'
 import { FunctionThin } from '../thin/function-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

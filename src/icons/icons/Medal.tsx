@@ -6,7 +6,7 @@ import { MedalFill } from '../fill/medal-fill'
 import { MedalLight } from '../light/medal-light'
 import { MedalRegular } from '../regular/medal-regular'
 import { MedalThin } from '../thin/medal-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

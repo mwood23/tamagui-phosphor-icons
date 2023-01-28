@@ -6,7 +6,7 @@ import { KeyboardFill } from '../fill/keyboard-fill'
 import { KeyboardLight } from '../light/keyboard-light'
 import { KeyboardRegular } from '../regular/keyboard-regular'
 import { KeyboardThin } from '../thin/keyboard-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

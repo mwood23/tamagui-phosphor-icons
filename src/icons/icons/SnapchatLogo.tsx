@@ -6,7 +6,7 @@ import { SnapchatLogoFill } from '../fill/snapchat-logo-fill'
 import { SnapchatLogoLight } from '../light/snapchat-logo-light'
 import { SnapchatLogoRegular } from '../regular/snapchat-logo-regular'
 import { SnapchatLogoThin } from '../thin/snapchat-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { NotificationFill } from '../fill/notification-fill'
 import { NotificationLight } from '../light/notification-light'
 import { NotificationRegular } from '../regular/notification-regular'
 import { NotificationThin } from '../thin/notification-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { PhosphorLogoFill } from '../fill/phosphor-logo-fill'
 import { PhosphorLogoLight } from '../light/phosphor-logo-light'
 import { PhosphorLogoRegular } from '../regular/phosphor-logo-regular'
 import { PhosphorLogoThin } from '../thin/phosphor-logo-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

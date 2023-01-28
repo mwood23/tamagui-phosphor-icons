@@ -6,7 +6,7 @@ import { ChatsTeardropFill } from '../fill/chats-teardrop-fill'
 import { ChatsTeardropLight } from '../light/chats-teardrop-light'
 import { ChatsTeardropRegular } from '../regular/chats-teardrop-regular'
 import { ChatsTeardropThin } from '../thin/chats-teardrop-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

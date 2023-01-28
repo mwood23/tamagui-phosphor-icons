@@ -6,7 +6,7 @@ import { EyeSlashFill } from '../fill/eye-slash-fill'
 import { EyeSlashLight } from '../light/eye-slash-light'
 import { EyeSlashRegular } from '../regular/eye-slash-regular'
 import { EyeSlashThin } from '../thin/eye-slash-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

@@ -6,7 +6,7 @@ import { PushPinSimpleFill } from '../fill/push-pin-simple-fill'
 import { PushPinSimpleLight } from '../light/push-pin-simple-light'
 import { PushPinSimpleRegular } from '../regular/push-pin-simple-regular'
 import { PushPinSimpleThin } from '../thin/push-pin-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

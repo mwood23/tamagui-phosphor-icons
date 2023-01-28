@@ -6,7 +6,7 @@ import { GitCommitFill } from '../fill/git-commit-fill'
 import { GitCommitLight } from '../light/git-commit-light'
 import { GitCommitRegular } from '../regular/git-commit-regular'
 import { GitCommitThin } from '../thin/git-commit-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

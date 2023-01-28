@@ -6,7 +6,7 @@ import { TrainSimpleFill } from '../fill/train-simple-fill'
 import { TrainSimpleLight } from '../light/train-simple-light'
 import { TrainSimpleRegular } from '../regular/train-simple-regular'
 import { TrainSimpleThin } from '../thin/train-simple-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

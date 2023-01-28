@@ -6,7 +6,7 @@ import { CrownFill } from '../fill/crown-fill'
 import { CrownLight } from '../light/crown-light'
 import { CrownRegular } from '../regular/crown-regular'
 import { CrownThin } from '../thin/crown-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {

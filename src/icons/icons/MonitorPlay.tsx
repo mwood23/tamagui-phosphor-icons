@@ -6,7 +6,7 @@ import { MonitorPlayFill } from '../fill/monitor-play-fill'
 import { MonitorPlayLight } from '../light/monitor-play-light'
 import { MonitorPlayRegular } from '../regular/monitor-play-regular'
 import { MonitorPlayThin } from '../thin/monitor-play-thin'
-import { IconContext } from './IconContext'
+import { IconContext } from './IconContextProvider'
 import { IconProps } from './IconProps'
 
 const weightMap = {
