@@ -33,16 +33,16 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Path d="M88,184v24a8,8,0,0,1-8,8H56a8,8,0,0,1-8-8V184Z" opacity="0.2" />
       <_Path
-        d="M214,192v24a8,8,0,0,1-8,8H182a8,8,0,0,1-8-8V192Z"
-        opacity="0.3"
+        d="M208,184v24a8,8,0,0,1-8,8H176a8,8,0,0,1-8-8V184Z"
+        opacity="0.2"
       />
-      <_Path d="M82,192v24a8,8,0,0,1-8,8H50a8,8,0,0,1-8-8V192Z" opacity="0.3" />
-      <_Rect x="42" y="72" width="172" height="48" opacity="0.2" />
+      <_Rect x="48" y="72" width="160" height="40" opacity="0.2" />
       <_Line
-        x1="42"
+        x1="48"
         y1="72"
-        x2="214"
+        x2="208"
         y2="72"
         fill="none"
         stroke={`${color}`}
@@ -51,10 +51,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="42"
-        y1="120"
-        x2="214"
-        y2="120"
+        x1="48"
+        y1="112"
+        x2="208"
+        y2="112"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -62,7 +62,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M214,192H42V64A23.9,23.9,0,0,1,66,40H190a23.9,23.9,0,0,1,24,24Z"
+        d="M208,184H48V64A24,24,0,0,1,72,40H184a24,24,0,0,1,24,24Z"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -70,7 +70,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M214,192v24a8,8,0,0,1-8,8H182a8,8,0,0,1-8-8V192"
+        d="M208,184v24a8,8,0,0,1-8,8H176a8,8,0,0,1-8-8V184"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -78,15 +78,37 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M82,192v24a8,8,0,0,1-8,8H50a8,8,0,0,1-8-8V192"
+        d="M88,184v24a8,8,0,0,1-8,8H56a8,8,0,0,1-8-8V184"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Circle cx="84" cy="156" r="12" fill={`${color}`} />
-      <_Circle cx="172" cy="156" r="12" fill={`${color}`} />
+      <_Circle cx="92" cy="148" r="12" fill={`${color}`} />
+      <_Circle cx="164" cy="148" r="12" fill={`${color}`} />
+      <_Line
+        x1="240"
+        y1="80"
+        x2="240"
+        y2="104"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Line
+        x1="16"
+        y1="80"
+        x2="16"
+        y2="104"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
     </_Svg>
   )
 }

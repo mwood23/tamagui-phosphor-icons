@@ -33,6 +33,7 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Rect x="32" y="64" width="192" height="120" opacity="0.2" />
       <_Line
         x1="32"
         y1="104"
@@ -58,7 +59,7 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="32"
         y1="144"
-        x2="76"
+        x2="72"
         y2="144"
         fill="none"
         stroke={`${color}`}
@@ -67,7 +68,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="180"
+        x1="184"
         y1="144"
         x2="224"
         y2="144"

@@ -27,6 +27,25 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
+      <_Rect
+        x="48"
+        y="184"
+        width="72"
+        height="40"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="12"
+      />
+      <_Path
+        d="M64,184V172a20,20,0,0,1,40,0v12"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="12"
+      />
       <_Polyline
         points="152 32 152 88 208 88"
         fill="none"
@@ -36,26 +55,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Path
-        d="M168,224h32a8,8,0,0,0,8-8V88L152,32H56a8,8,0,0,0-8,8v88"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="12"
-      />
-      <_Rect
-        x="56"
-        y="180"
-        width="72"
-        height="44"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="12"
-      />
-      <_Path
-        d="M72,180V168a20,20,0,0,1,40,0v12"
+        d="M160,224h40a8,8,0,0,0,8-8V88L152,32H56a8,8,0,0,0-8,8v88"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

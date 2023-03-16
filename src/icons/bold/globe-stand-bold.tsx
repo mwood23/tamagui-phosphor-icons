@@ -37,19 +37,11 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="24"
       />
-      <_Path
-        d="M201.5,169.5a103.9,103.9,0,0,1-147-147"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
       <_Line
         x1="96"
-        y1="236"
+        y1="232"
         x2="160"
-        y2="236"
+        y2="232"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -60,7 +52,15 @@ const Icon = (props: IconProps) => {
         x1="128"
         y1="200"
         x2="128"
-        y2="236"
+        y2="232"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M200,171.05A104,104,0,0,1,53,24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

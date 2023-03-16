@@ -27,43 +27,8 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Line
-        x1="204"
-        y1="192"
-        x2="180"
-        y2="192"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Polyline
-        points="208 216 180 216 180 168 208 168"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Polyline
-        points="44 168 64 216 84 168"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
       <_Path
-        d="M112,168v30a18,18,0,0,0,36,0V168"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Path
-        d="M48,128V40a8,8,0,0,1,8-8h96l56,56v40"
+        d="M48,112V40a8,8,0,0,1,8-8h96l56,56v24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -72,6 +37,41 @@ const Icon = (props: IconProps) => {
       />
       <_Polyline
         points="152 32 152 88 208 88"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Line
+        x1="200"
+        y1="180"
+        x2="176"
+        y2="180"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Polyline
+        points="40 152 60 208 80 152"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Polyline
+        points="208 208 176 208 176 152 208 152"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Path
+        d="M108,152v38a18,18,0,0,0,36,0V152"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

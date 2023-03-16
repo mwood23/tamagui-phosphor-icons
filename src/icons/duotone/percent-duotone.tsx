@@ -40,6 +40,7 @@ const Icon = (props: IconProps) => {
         y1="56"
         x2="56"
         y2="200"
+        fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -51,7 +52,8 @@ const Icon = (props: IconProps) => {
         r="28"
         fill="none"
         stroke={`${color}`}
-        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
         strokeWidth="16"
       />
       <_Circle
@@ -60,7 +62,8 @@ const Icon = (props: IconProps) => {
         r="28"
         fill="none"
         stroke={`${color}`}
-        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
         strokeWidth="16"
       />
     </_Svg>

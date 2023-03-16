@@ -38,10 +38,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="8"
       />
       <_Rect
-        x="36"
-        y="36"
-        width="184"
-        height="184"
+        x="32"
+        y="32"
+        width="192"
+        height="192"
         rx="48"
         fill="none"
         stroke={`${color}`}

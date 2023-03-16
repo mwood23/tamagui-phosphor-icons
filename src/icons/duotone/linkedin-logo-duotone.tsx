@@ -33,12 +33,12 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Rect x="36" y="36" width="184" height="184" rx="8" opacity="0.2" />
+      <_Rect x="32" y="32" width="192" height="192" rx="8" opacity="0.2" />
       <_Rect
-        x="36"
-        y="36"
-        width="184"
-        height="184"
+        x="32"
+        y="32"
+        width="192"
+        height="192"
         rx="8"
         fill="none"
         stroke={`${color}`}
@@ -76,7 +76,7 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Circle cx="88" cy="80" r="12" fill={`${color}`} />
+      <_Circle cx="88" cy="84" r="12" fill={`${color}`} />
     </_Svg>
   )
 }

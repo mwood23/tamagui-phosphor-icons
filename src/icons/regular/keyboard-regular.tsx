@@ -32,12 +32,12 @@ const Icon = (props: IconProps) => {
         y="56"
         width="208"
         height="144"
-        rx="8.5"
+        rx="8.49"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth="16.97"
+        strokeWidth="16"
       />
       <_Line
         x1="56"

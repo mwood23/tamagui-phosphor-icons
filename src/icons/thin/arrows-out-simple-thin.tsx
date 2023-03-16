@@ -36,8 +36,8 @@ const Icon = (props: IconProps) => {
         strokeWidth="8"
       />
       <_Line
-        x1="152"
-        y1="104"
+        x1="144"
+        y1="112"
         x2="208"
         y2="48"
         fill="none"
@@ -55,8 +55,8 @@ const Icon = (props: IconProps) => {
         strokeWidth="8"
       />
       <_Line
-        x1="104"
-        y1="152"
+        x1="112"
+        y1="144"
         x2="48"
         y2="208"
         fill="none"

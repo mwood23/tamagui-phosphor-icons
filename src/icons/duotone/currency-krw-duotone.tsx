@@ -33,6 +33,10 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Polygon
+        points="50 136 76 200 102 136 128 72 154 136 180 200 206 136 50 136"
+        opacity="0.2"
+      />
       <_Polyline
         points="24 72 76 200 128 72 180 200 232 72"
         fill="none"

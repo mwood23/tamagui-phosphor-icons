@@ -34,7 +34,7 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Polygon
-        points="168 88 168 168 216 168 216 40 88 40 88 88 168 88"
+        points="88 40 88 88 168 88 168 168 216 168 216 40 88 40"
         opacity="0.2"
       />
       <_Polyline

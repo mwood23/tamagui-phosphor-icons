@@ -33,12 +33,28 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Circle cx="128" cy="140" r="40" opacity="0.2" fill={`${color}`} />
-      <_Circle cx="60" cy="84" r="32" opacity="0.2" fill={`${color}`} />
-      <_Circle cx="196" cy="84" r="32" opacity="0.2" fill={`${color}`} />
+      <_Circle cx="128" cy="144" r="40" opacity="0.2" fill={`${color}`} />
+      <_Circle cx="64" cy="88" r="32" opacity="0.2" fill={`${color}`} />
+      <_Circle cx="192" cy="88" r="32" opacity="0.2" fill={`${color}`} />
+      <_Path
+        d="M192,120a59.91,59.91,0,0,1,48,24"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Path
+        d="M16,144a59.91,59.91,0,0,1,48-24"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
       <_Circle
         cx="128"
-        cy="140"
+        cy="144"
         r="40"
         fill="none"
         stroke={`${color}`}
@@ -47,7 +63,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M196,116a59.8,59.8,0,0,1,48,24"
+        d="M72,216a65,65,0,0,1,112,0"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -55,7 +71,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M12,140a59.8,59.8,0,0,1,48-24"
+        d="M161,80a32,32,0,1,1,31,40"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -63,23 +79,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M70.4,216a64.1,64.1,0,0,1,115.2,0"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M60,116A32,32,0,1,1,91.4,78"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M164.6,78A32,32,0,1,1,196,116"
+        d="M64,120A32,32,0,1,1,95,80"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

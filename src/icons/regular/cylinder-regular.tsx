@@ -29,9 +29,9 @@ const Icon = (props: IconProps) => {
       <_Rect width="256" height="256" fill="none" />
       <_Ellipse
         cx="128"
-        cy="58"
+        cy="60"
         rx="64"
-        ry="34"
+        ry="36"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -39,7 +39,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M64,58V198c0,18.8,28.7,34,64,34s64-15.2,64-34V58"
+        d="M64,60V196c0,19.88,28.65,36,64,36s64-16.12,64-36V60"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

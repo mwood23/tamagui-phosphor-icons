@@ -27,39 +27,39 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Path
-        d="M88,68V36a20,20,0,0,1,40,0v68"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="12"
-      />
-      <_Path
-        d="M82.6,163.6a8.2,8.2,0,0,0,0,8.8c5.7,8.8,20.8,27.6,45.4,27.6s39.7-18.8,45.4-27.6a8.2,8.2,0,0,0,0-8.8c-5.7-8.8-20.8-27.6-45.4-27.6S88.3,154.8,82.6,163.6Z"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="12"
-      />
-      <_Path
-        d="M128,52a20,20,0,0,1,40,0v60"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="12"
-      />
-      <_Path
-        d="M168,116v-4a20,20,0,0,1,40,0v40a80,80,0,0,1-160,0V68a20,20,0,0,1,40,0v44"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="12"
-      />
       <_Circle cx="128" cy="168" r="10" fill={`${color}`} />
+      <_Path
+        d="M88,76V44a20,20,0,0,1,40,0v60"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="12"
+      />
+      <_Path
+        d="M128,60a20,20,0,0,1,40,0v60"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="12"
+      />
+      <_Path
+        d="M168,120v-4a20,20,0,0,1,40,0v36a80,80,0,0,1-160,0V76a20,20,0,0,1,40,0v36"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="12"
+      />
+      <_Path
+        d="M80,168s16-32,48-32,48,32,48,32-16,32-48,32S80,168,80,168Z"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="12"
+      />
     </_Svg>
   )
 }

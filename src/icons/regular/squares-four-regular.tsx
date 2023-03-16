@@ -32,6 +32,7 @@ const Icon = (props: IconProps) => {
         y="48"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -43,6 +44,7 @@ const Icon = (props: IconProps) => {
         y="48"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -54,6 +56,7 @@ const Icon = (props: IconProps) => {
         y="144"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -65,6 +68,7 @@ const Icon = (props: IconProps) => {
         y="144"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

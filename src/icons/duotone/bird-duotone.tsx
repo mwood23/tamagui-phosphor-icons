@@ -34,7 +34,7 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Path
-        d="M208,96v24a96,96,0,0,1-96,96H8L104,96V76A52,52,0,0,1,206.3,62.9L232,80Z"
+        d="M208,96v24a96,96,0,0,1-96,96H8L104,96V76A52,52,0,0,1,206.33,62.89L232,80Z"
         opacity="0.2"
       />
       <_Circle cx="164" cy="68" r="12" fill={`${color}`} />
@@ -50,7 +50,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M208,96v24a96,96,0,0,1-96,96H8L104,96V76A52,52,0,0,1,206.3,62.9L232,80Z"
+        d="M208,96v24a96,96,0,0,1-96,96H8L104,96V76A52,52,0,0,1,206.33,62.89L232,80Z"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

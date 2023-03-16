@@ -27,22 +27,10 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Line
-        x1="128"
-        y1="108"
-        x2="128"
-        y2="216"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Line
-        x1="128"
-        y1="40"
-        x2="128"
-        y2="68"
+      <_Circle
+        cx="56"
+        cy="136"
+        r="24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -52,29 +40,7 @@ const Icon = (props: IconProps) => {
       <_Circle
         cx="128"
         cy="88"
-        r="20"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Line
-        x1="200"
-        y1="188"
-        x2="200"
-        y2="216"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Line
-        x1="200"
-        y1="40"
-        x2="200"
-        y2="148"
+        r="24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -84,18 +50,7 @@ const Icon = (props: IconProps) => {
       <_Circle
         cx="200"
         cy="168"
-        r="20"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Line
-        x1="56"
-        y1="156"
-        x2="56"
-        y2="216"
+        r="24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -106,17 +61,62 @@ const Icon = (props: IconProps) => {
         x1="56"
         y1="40"
         x2="56"
-        y2="116"
+        y2="112"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="8"
       />
-      <_Circle
-        cx="56"
-        cy="136"
-        r="20"
+      <_Line
+        x1="200"
+        y1="40"
+        x2="200"
+        y2="144"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Line
+        x1="128"
+        y1="40"
+        x2="128"
+        y2="64"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Line
+        x1="56"
+        y1="160"
+        x2="56"
+        y2="216"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Line
+        x1="200"
+        y1="192"
+        x2="200"
+        y2="216"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Line
+        x1="128"
+        y1="112"
+        x2="128"
+        y2="216"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

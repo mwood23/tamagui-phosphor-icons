@@ -40,24 +40,25 @@ const Icon = (props: IconProps) => {
         r="96"
         fill="none"
         stroke={`${color}`}
-        strokeMiterlimit="10"
-        strokeWidth="16"
-      />
-      <_Line
-        x1="152.2"
-        y1="126"
-        x2="120"
-        y2="180"
-        fill="none"
-        stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
       <_Circle
         cx="128"
-        cy="112"
+        cy="108"
         r="28"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Line
+        x1="152.25"
+        y1="122"
+        x2="120"
+        y2="176"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

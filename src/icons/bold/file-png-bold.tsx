@@ -28,7 +28,31 @@ const Icon = (props: IconProps) => {
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
       <_Polyline
-        points="108 220 108 164 148 220 148 164"
+        points="148 32 148 92 208 92"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M48,108V40a8,8,0,0,1,8-8h96l56,56v20"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M40,192H56a20,20,0,0,0,0-40H40v56"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M216,188h4v12.87A22.12,22.12,0,0,1,204,208c-13.25,0-24-12.54-24-28s10.75-28,24-28a21.28,21.28,0,0,1,12,3.75"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -36,31 +60,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polyline
-        points="148 36 148 100 212 100"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Path
-        d="M44,124V44a8,8,0,0,1,8-8H156l56,56v32"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Path
-        d="M36,204H52a20,20,0,0,0,0-40H36v56"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Path
-        d="M220,198.9h8v8c-4.6,7.9-12.7,13.1-22,13.1-14.4,0-26-12.5-26-28s11.6-28,26-28a24.2,24.2,0,0,1,14,4.4"
+        points="108 208 108 152 148 208 148 152"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

@@ -34,6 +34,18 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Rect x="40" y="40" width="176" height="176" rx="8" opacity="0.2" />
+      <_Rect
+        x="40"
+        y="40"
+        width="176"
+        height="176"
+        rx="8"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
       <_Line
         x1="160"
         y1="96"
@@ -46,22 +58,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="160"
-        y1="160"
-        x2="96"
-        y2="96"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Rect
-        x="40"
-        y="40"
-        width="176"
-        height="176"
-        rx="8"
+        x1="96"
+        y1="96"
+        x2="160"
+        y2="160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

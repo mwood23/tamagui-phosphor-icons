@@ -33,40 +33,10 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Circle cx="188" cy="68" r="28" opacity="0.2" fill={`${color}`} />
-      <_Circle cx="68" cy="68" r="28" opacity="0.2" fill={`${color}`} />
-      <_Circle
-        cx="128"
-        cy="188"
-        r="28"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Circle
-        cx="188"
-        cy="68"
-        r="28"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Circle
-        cx="68"
-        cy="68"
-        r="28"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
+      <_Circle cx="64" cy="64" r="24" opacity="0.2" fill={`${color}`} />
+      <_Circle cx="192" cy="64" r="24" opacity="0.2" fill={`${color}`} />
       <_Path
-        d="M68,96v8a23.9,23.9,0,0,0,24,24h72a23.9,23.9,0,0,0,24-24V96"
+        d="M64,88v16a24,24,0,0,0,24,24h80a24,24,0,0,0,24-24V88"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -77,7 +47,37 @@ const Icon = (props: IconProps) => {
         x1="128"
         y1="128"
         x2="128"
-        y2="160"
+        y2="168"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Circle
+        cx="64"
+        cy="64"
+        r="24"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Circle
+        cx="128"
+        cy="192"
+        r="24"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Circle
+        cx="192"
+        cy="64"
+        r="24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

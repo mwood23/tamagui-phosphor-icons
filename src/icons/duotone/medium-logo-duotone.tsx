@@ -33,13 +33,12 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Ellipse cx="72" cy="128" rx="56" ry="60" opacity="0.2" />
+      <_Circle cx="72" cy="128" r="56" opacity="0.2" fill={`${color}`} />
       <_Ellipse cx="184" cy="128" rx="24" ry="56" opacity="0.2" />
-      <_Ellipse
+      <_Circle
         cx="72"
         cy="128"
-        rx="56"
-        ry="60"
+        r="56"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

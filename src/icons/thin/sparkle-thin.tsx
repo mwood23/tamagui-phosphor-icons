@@ -28,7 +28,7 @@ const Icon = (props: IconProps) => {
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
       <_Path
-        d="M138.7,175.5l-19.2,52.1a8,8,0,0,1-15,0L85.3,175.5a8.1,8.1,0,0,0-4.8-4.8L28.4,151.5a8,8,0,0,1,0-15l52.1-19.2a8.1,8.1,0,0,0,4.8-4.8l19.2-52.1a8,8,0,0,1,15,0l19.2,52.1a8.1,8.1,0,0,0,4.8,4.8l52.1,19.2a8,8,0,0,1,0,15l-52.1,19.2A8.1,8.1,0,0,0,138.7,175.5Z"
+        d="M80.84,170.47l-51.66-19a7.92,7.92,0,0,1,0-14.86l51.66-19a7.88,7.88,0,0,0,4.69-4.69l19-51.66a7.92,7.92,0,0,1,14.86,0l19,51.66a7.88,7.88,0,0,0,4.69,4.69l51.66,19a7.92,7.92,0,0,1,0,14.86l-51.66,19a7.88,7.88,0,0,0-4.69,4.69l-19,51.66a7.92,7.92,0,0,1-14.86,0l-19-51.66A7.88,7.88,0,0,0,80.84,170.47Z"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -47,17 +47,6 @@ const Icon = (props: IconProps) => {
         strokeWidth="8"
       />
       <_Line
-        x1="200"
-        y1="40"
-        x2="152"
-        y2="40"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="8"
-      />
-      <_Line
         x1="224"
         y1="72"
         x2="224"
@@ -69,9 +58,20 @@ const Icon = (props: IconProps) => {
         strokeWidth="8"
       />
       <_Line
-        x1="240"
+        x1="152"
+        y1="40"
+        x2="200"
+        y2="40"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="8"
+      />
+      <_Line
+        x1="208"
         y1="88"
-        x2="208"
+        x2="240"
         y2="88"
         fill="none"
         stroke={`${color}`}

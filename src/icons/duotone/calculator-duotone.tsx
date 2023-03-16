@@ -47,11 +47,11 @@ const Icon = (props: IconProps) => {
       />
       <_Rect
         x="32"
-        y="48"
+        y="48.01"
         width="192"
         height="160"
         rx="8"
-        transform="translate(256 0) rotate(90)"
+        transform="translate(256.01 0.01) rotate(90)"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

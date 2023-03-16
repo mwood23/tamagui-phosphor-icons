@@ -40,17 +40,6 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Line
-        x1="244"
-        y1="128"
-        x2="12"
-        y2="128"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
       <_Path
         d="M208,144a80,80,0,0,1-160,0V112a80,80,0,0,1,160,0Z"
         fill="none"
@@ -60,10 +49,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="231.9"
-        y1="188"
-        x2="203.2"
-        y2="171.4"
+        x1="232"
+        y1="184"
+        x2="203.18"
+        y2="171.41"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -71,10 +60,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="231.9"
-        y1="68"
-        x2="203.2"
-        y2="84.6"
+        x1="232"
+        y1="72"
+        x2="203.18"
+        y2="84.59"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -82,10 +71,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="24.1"
-        y1="68"
-        x2="52.8"
-        y2="84.6"
+        x1="24"
+        y1="72"
+        x2="52.82"
+        y2="84.59"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -93,10 +82,21 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="24.1"
-        y1="188"
-        x2="52.8"
-        y2="171.4"
+        x1="24"
+        y1="184"
+        x2="52.82"
+        y2="171.41"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Line
+        x1="16"
+        y1="128"
+        x2="240"
+        y2="128"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

@@ -33,8 +33,12 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Polyline
-        points="168 48 208 48 208 88"
+      <_Polygon points="160 48 208 48 208 96 160 48" opacity="0.2" />
+      <_Polygon points="96 208 48 208 48 160 96 208" opacity="0.2" />
+      <_Polygon points="208 160 208 208 160 208 208 160" opacity="0.2" />
+      <_Polygon points="48 96 48 48 96 48 48 96" opacity="0.2" />
+      <_Polygon
+        points="160 48 208 48 208 96 160 48"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -44,16 +48,16 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="152"
         y1="104"
-        x2="208"
-        y2="48"
+        x2="184"
+        y2="72"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Polyline
-        points="88 208 48 208 48 168"
+      <_Polygon
+        points="96 208 48 208 48 160 96 208"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -63,16 +67,16 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="104"
         y1="152"
-        x2="48"
-        y2="208"
+        x2="72"
+        y2="184"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Polyline
-        points="208 168 208 208 168 208"
+      <_Polygon
+        points="208 160 208 208 160 208 208 160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -82,16 +86,16 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="152"
         y1="152"
-        x2="208"
-        y2="208"
+        x2="184"
+        y2="184"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Polyline
-        points="48 88 48 48 88 48"
+      <_Polygon
+        points="48 96 48 48 96 48 48 96"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -101,8 +105,8 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="104"
         y1="104"
-        x2="48"
-        y2="48"
+        x2="72"
+        y2="72"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

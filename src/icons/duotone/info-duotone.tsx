@@ -34,6 +34,14 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Circle cx="128" cy="128" r="96" opacity="0.2" fill={`${color}`} />
+      <_Path
+        d="M120,120a8,8,0,0,1,8,8v40a8,8,0,0,0,8,8"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
       <_Circle
         cx="128"
         cy="128"
@@ -44,15 +52,7 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Polyline
-        points="120 120 128 120 128 176 136 176"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Circle cx="126" cy="84" r="12" fill={`${color}`} />
+      <_Circle cx="124" cy="84" r="12" fill={`${color}`} />
     </_Svg>
   )
 }

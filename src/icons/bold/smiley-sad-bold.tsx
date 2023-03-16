@@ -40,7 +40,7 @@ const Icon = (props: IconProps) => {
       <_Circle cx="92" cy="108" r="16" fill={`${color}`} />
       <_Circle cx="164" cy="108" r="16" fill={`${color}`} />
       <_Path
-        d="M165.3,169.8a48,48,0,0,0-74.6,0"
+        d="M167,172a48,48,0,0,0-78,0"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

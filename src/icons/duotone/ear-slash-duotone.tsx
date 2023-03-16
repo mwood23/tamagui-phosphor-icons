@@ -34,7 +34,7 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Path
-        d="M161.9,216A44,44,0,0,1,84,188c0-41.5-36-28-36-84a80,80,0,0,1,160,0C208,144,209,169,161.9,216Z"
+        d="M160,216c-8.07,9.77-18.34,16-32,16a44,44,0,0,1-44-44c0-41.49-36-28-36-84a80,80,0,0,1,160,0C208,144,193.56,176,160,216Z"
         opacity="0.2"
       />
       <_Line
@@ -42,14 +42,6 @@ const Icon = (props: IconProps) => {
         y1="40"
         x2="208"
         y2="216"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M91.4,87.8A39.5,39.5,0,0,0,88,104"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -65,7 +57,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M161.9,216A44,44,0,0,1,84,188c0-41.5-36-28-36-84A79.9,79.9,0,0,1,63.3,56.9"
+        d="M160,216c-8.07,9.77-18.34,16-32,16a44,44,0,0,1-44-44c0-41.49-36-28-36-84A79.63,79.63,0,0,1,63.34,56.88"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -73,7 +65,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M163.1,119a24,24,0,0,0,4.9-15,39.9,39.9,0,0,0-53-37.8"
+        d="M91.43,87.77A39.76,39.76,0,0,0,88,104"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -81,7 +73,15 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M166.9,170.8A20.1,20.1,0,0,1,140,152a25.5,25.5,0,0,1,1.6-9.1"
+        d="M164,120a34,34,0,0,0,4-16,40,40,0,0,0-53-37.85"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Path
+        d="M169.07,173.18A16,16,0,0,1,144,160a33.16,33.16,0,0,1,2.2-12"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

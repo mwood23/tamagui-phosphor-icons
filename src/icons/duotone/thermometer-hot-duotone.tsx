@@ -33,10 +33,20 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Circle
-        cx="120"
-        cy="188"
-        r="20"
+      <_Path
+        d="M152,138V48a32,32,0,0,0-64,0v90a56,56,0,1,0,64,0Zm-32,70a24,24,0,1,1,24-24A24,24,0,0,1,120,208Z"
+        opacity="0.2"
+      />
+      <_Path
+        d="M240,76c-7.73,5.33-20.27,5.33-28,0s-20.27-5.33-28,0"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Path
+        d="M240,108c-7.73,5.33-20.27,5.33-28,0s-20.27-5.33-28,0"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -45,7 +55,7 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="120"
-        y1="168"
+        y1="160"
         x2="120"
         y2="48"
         fill="none"
@@ -54,8 +64,10 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Path
-        d="M240.3,80A20,20,0,0,1,212,80a20,20,0,0,0-28.3,0"
+      <_Circle
+        cx="120"
+        cy="184"
+        r="24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -63,24 +75,12 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M240.3,120a20,20,0,0,1-28.3,0,20,20,0,0,0-28.3,0"
+        d="M88,48a32,32,0,0,1,64,0v90a56,56,0,1,1-64,0Z"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
-      />
-      <_Path
-        d="M88,147V48a32,32,0,0,1,64,0v99h0a52,52,0,1,1-64,0Z"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M152,147h0V48a32,32,0,0,0-64,0v99h0a52,52,0,1,0,64,0Zm-32,61a20,20,0,1,1,20-20A20.1,20.1,0,0,1,120,208Z"
-        opacity="0.2"
       />
     </_Svg>
   )

@@ -48,7 +48,7 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="128"
-        y1="164"
+        y1="124"
         x2="128"
         y2="188"
         fill="none"

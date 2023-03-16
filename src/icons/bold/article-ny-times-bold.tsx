@@ -28,10 +28,10 @@ const Icon = (props: IconProps) => {
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
       <_Line
-        x1="176"
-        y1="88"
+        x1="164"
+        y1="124"
         x2="240"
-        y2="88"
+        y2="124"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -39,21 +39,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="176"
-        y1="128"
+        x1="164"
+        y1="164"
         x2="240"
-        y2="128"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Line
-        x1="176"
-        y1="168"
-        x2="240"
-        y2="168"
+        y2="164"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -62,9 +51,9 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="72"
-        y1="208"
+        y1="204"
         x2="240"
-        y2="208"
+        y2="204"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -72,7 +61,15 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Path
-        d="M126.5,131.6A48,48,0,1,1,79.9,72"
+        d="M38.82,95.32A20,20,0,0,1,44,56l72,40a20,20,0,0,0,0-40"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M125.27,136a48,48,0,1,1-51.7-63.57"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -80,18 +77,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="79.9"
-        y1="114.5"
-        x2="79.9"
-        y2="167.9"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Path
-        d="M111.9,52a20,20,0,0,1,0,40l-64-40a20,20,0,0,0-6.2,39"
+        x1="80"
+        y1="168"
+        x2="80"
+        y2="124"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

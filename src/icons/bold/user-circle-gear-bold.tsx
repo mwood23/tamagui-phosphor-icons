@@ -27,24 +27,6 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Circle
-        cx="128"
-        cy="120"
-        r="40"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Path
-        d="M63.8,199.4a72,72,0,0,1,128.4,0"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
       <_Line
         x1="200"
         y1="56"
@@ -59,8 +41,8 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="200"
         y1="56"
-        x2="181"
-        y2="49.8"
+        x2="180.98"
+        y2="49.82"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -70,8 +52,8 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="200"
         y1="56"
-        x2="188.2"
-        y2="72.2"
+        x2="188.24"
+        y2="72.18"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -81,8 +63,8 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="200"
         y1="56"
-        x2="211.8"
-        y2="72.2"
+        x2="211.76"
+        y2="72.18"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -92,8 +74,18 @@ const Icon = (props: IconProps) => {
       <_Line
         x1="200"
         y1="56"
-        x2="219"
-        y2="49.8"
+        x2="219.02"
+        y2="49.82"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Circle
+        cx="128"
+        cy="120"
+        r="40"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -101,7 +93,15 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Path
-        d="M223.3,116.5A87.7,87.7,0,0,1,224,128a96,96,0,1,1-96-96,87,87,0,0,1,8.9.4"
+        d="M63.8,199.37a72,72,0,0,1,128.4,0"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M222.67,112A95.92,95.92,0,1,1,144,33.33"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

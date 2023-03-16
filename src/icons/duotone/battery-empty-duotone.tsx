@@ -33,33 +33,24 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Rect x="16" y="64" width="200" height="128" rx="16" opacity="0.2" />
       <_Rect
-        x="52"
-        y="36"
-        width="144"
-        height="184"
+        x="16"
+        y="64"
+        width="200"
+        height="128"
         rx="16"
-        transform="translate(252 4) rotate(90)"
-        opacity="0.2"
-      />
-      <_Line
-        x1="248"
-        y1="96"
-        x2="248"
-        y2="160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Rect
-        x="52"
-        y="36"
-        width="144"
-        height="184"
-        rx="16"
-        transform="translate(252 4) rotate(90)"
+      <_Line
+        x1="248"
+        y1="96"
+        x2="248"
+        y2="160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

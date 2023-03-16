@@ -33,8 +33,10 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Ellipse cx="200" cy="164" rx="32" ry="28" opacity="0.2" />
+      <_Polygon points="125.18 152 34.82 152 80 56 125.18 152" opacity="0.2" />
       <_Polyline
-        points="152 192 80 56 8 192"
+        points="144 192 80 56 16 192"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -42,8 +44,8 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Ellipse
-        cx="208"
-        cy="166.9"
+        cx="200"
+        cy="164"
         rx="32"
         ry="28"
         fill="none"
@@ -53,7 +55,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M184,112.4a34.1,34.1,0,0,1,24-9.5c17.7,0,32,12.5,32,28V192"
+        d="M232,192V132c0-15.46-14.33-28-32-28-9.56,0-18.14,2.18-24,8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -61,9 +63,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="130.8"
+        x1="125.18"
         y1="152"
-        x2="29.2"
+        x2="34.82"
         y2="152"
         fill="none"
         stroke={`${color}`}

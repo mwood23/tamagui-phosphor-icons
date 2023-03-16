@@ -51,9 +51,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="108"
+        x1="116"
         y1="164"
-        x2="124"
+        x2="128"
         y2="164"
         fill="none"
         stroke={`${color}`}
@@ -63,9 +63,9 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="24"
-        y1="96.9"
+        y1="100"
         x2="232"
-        y2="96.9"
+        y2="100"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

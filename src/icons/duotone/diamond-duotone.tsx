@@ -34,21 +34,21 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Rect
-        x="51.6"
-        y="51.6"
-        width="152.7"
-        height="152.74"
-        rx="8"
-        transform="translate(-53 128) rotate(-45)"
+        x="52.13"
+        y="52.13"
+        width="151.73"
+        height="151.73"
+        rx="7.95"
+        transform="translate(-53.02 128) rotate(-45)"
         opacity="0.2"
       />
       <_Rect
-        x="51.6"
-        y="51.6"
-        width="152.7"
-        height="152.74"
-        rx="8"
-        transform="translate(-53 128) rotate(-45)"
+        x="52.13"
+        y="52.13"
+        width="151.73"
+        height="151.73"
+        rx="7.95"
+        transform="translate(-53.02 128) rotate(-45)"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

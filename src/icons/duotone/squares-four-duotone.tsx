@@ -33,15 +33,16 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Rect x="48" y="48" width="64" height="64" opacity="0.2" />
-      <_Rect x="144" y="48" width="64" height="64" opacity="0.2" />
-      <_Rect x="48" y="144" width="64" height="64" opacity="0.2" />
-      <_Rect x="144" y="144" width="64" height="64" opacity="0.2" />
+      <_Rect x="48" y="48" width="64" height="64" rx="8" opacity="0.2" />
+      <_Rect x="144" y="48" width="64" height="64" rx="8" opacity="0.2" />
+      <_Rect x="48" y="144" width="64" height="64" rx="8" opacity="0.2" />
+      <_Rect x="144" y="144" width="64" height="64" rx="8" opacity="0.2" />
       <_Rect
         x="144"
         y="144"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -53,6 +54,7 @@ const Icon = (props: IconProps) => {
         y="48"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -64,6 +66,7 @@ const Icon = (props: IconProps) => {
         y="48"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -75,6 +78,7 @@ const Icon = (props: IconProps) => {
         y="144"
         width="64"
         height="64"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

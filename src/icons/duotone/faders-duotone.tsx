@@ -132,6 +132,7 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
+      <_Rect x="56" y="40" width="144" height="176" opacity="0.2" />
     </_Svg>
   )
 }

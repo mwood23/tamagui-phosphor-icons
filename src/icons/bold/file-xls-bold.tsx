@@ -27,11 +27,35 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
+      <_Polyline
+        points="148 32 148 92 208 92"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M48,108V40a8,8,0,0,1,8-8h96l56,56v20"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Polyline
+        points="148 208 120 208 120 152"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
       <_Line
         x1="44"
-        y1="164"
+        y1="152"
         x2="84"
-        y2="220"
+        y2="208"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -40,25 +64,9 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="84"
-        y1="164"
+        y1="152"
         x2="44"
-        y2="220"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Polyline
-        points="120 164 120 220 148 220"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Polyline
-        points="148 36 148 100 212 100"
+        y2="208"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -66,15 +74,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Path
-        d="M44,124V44a8,8,0,0,1,8-8H156l56,56v32"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Path
-        d="M180,214.4a23.7,23.7,0,0,0,15,5.6c9,0,17-3.4,17-14.6,0-17.9-32-10-32-26.8,0-9,6-14.6,15-14.6a23.7,23.7,0,0,1,15,5.6"
+        d="M207.9,153.6s-29.43-7.78-31.8,11,38.43,10.12,35.78,30.72c-2.47,19.16-31.78,11-31.78,11"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

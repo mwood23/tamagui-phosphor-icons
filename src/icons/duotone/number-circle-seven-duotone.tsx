@@ -40,11 +40,12 @@ const Icon = (props: IconProps) => {
         r="96"
         fill="none"
         stroke={`${color}`}
-        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
         strokeWidth="16"
       />
       <_Polyline
-        points="104 84 152 84 120 180"
+        points="104 88 152 88 120 176"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

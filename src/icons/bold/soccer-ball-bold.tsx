@@ -27,6 +27,14 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
+      <_Polygon
+        points="128 76 76 112.67 95.86 172 160.14 172 180 112.67 128 76"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
       <_Circle
         cx="128"
         cy="128"
@@ -37,19 +45,11 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="24"
       />
-      <_Polygon
-        points="128 74 76.7 111.3 96.3 171.7 159.7 171.7 179.3 111.3 128 74"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
       <_Line
         x1="128"
         y1="32"
         x2="128"
-        y2="74"
+        y2="76"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -57,10 +57,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="36.7"
-        y1="98.3"
-        x2="76.7"
-        y2="111.3"
+        x1="36.23"
+        y1="99.75"
+        x2="76"
+        y2="112.67"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -68,10 +68,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="71.6"
-        y1="205.7"
-        x2="96.3"
-        y2="171.7"
+        x1="71.46"
+        y1="205.59"
+        x2="95.86"
+        y2="172"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -79,10 +79,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="184.4"
-        y1="205.7"
-        x2="159.7"
-        y2="171.7"
+        x1="184.54"
+        y1="205.59"
+        x2="160.14"
+        y2="172"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -90,10 +90,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="219.3"
-        y1="98.3"
-        x2="179.3"
-        y2="111.3"
+        x1="219.77"
+        y1="99.75"
+        x2="180"
+        y2="112.67"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
