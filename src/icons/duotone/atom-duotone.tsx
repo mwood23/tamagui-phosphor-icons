@@ -36,17 +36,17 @@ const Icon = (props: IconProps) => {
       <_Ellipse
         cx="128"
         cy="128"
-        rx="44"
-        ry="116"
-        transform="translate(-53 128) rotate(-45)"
+        rx="44.13"
+        ry="116.33"
+        transform="translate(-53.02 128) rotate(-45)"
         opacity="0.2"
       />
       <_Ellipse
         cx="128"
         cy="128"
-        rx="44"
-        ry="116"
-        transform="translate(-53 128) rotate(-45)"
+        rx="44.13"
+        ry="116.33"
+        transform="translate(-53.02 128) rotate(-45)"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -56,9 +56,9 @@ const Icon = (props: IconProps) => {
       <_Ellipse
         cx="128"
         cy="128"
-        rx="116"
-        ry="44"
-        transform="translate(-53 128) rotate(-45)"
+        rx="116.33"
+        ry="44.13"
+        transform="translate(-53.02 128) rotate(-45)"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

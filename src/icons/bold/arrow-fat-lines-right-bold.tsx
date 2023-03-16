@@ -28,7 +28,7 @@ const Icon = (props: IconProps) => {
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
       <_Polygon
-        points="136 32 232 128 136 224 136 176 116 176 116 80 136 80 136 32"
+        points="136 32 232 128 136 224 136 176 120 176 120 80 136 80 136 32"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -36,9 +36,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="44"
+        x1="40"
         y1="176"
-        x2="44"
+        x2="40"
         y2="80"
         fill="none"
         stroke={`${color}`}

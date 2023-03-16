@@ -27,61 +27,6 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Line
-        x1="224"
-        y1="136"
-        x2="224"
-        y2="116"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Line
-        x1="224"
-        y1="136"
-        x2="205"
-        y2="129.8"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Line
-        x1="224"
-        y1="136"
-        x2="212.2"
-        y2="152.2"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Line
-        x1="224"
-        y1="136"
-        x2="235.8"
-        y2="152.2"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Line
-        x1="224"
-        y1="136"
-        x2="243"
-        y2="129.8"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
       <_Circle
         cx="108"
         cy="100"
@@ -93,7 +38,62 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Path
-        d="M22.2,200a112,112,0,0,1,171.6,0"
+        d="M24,200c20.55-24.45,49.56-40,84-40s63.45,15.55,84,40"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Line
+        x1="220"
+        y1="136"
+        x2="220"
+        y2="116"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Line
+        x1="220"
+        y1="136"
+        x2="200.98"
+        y2="129.82"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Line
+        x1="220"
+        y1="136"
+        x2="208.24"
+        y2="152.18"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Line
+        x1="220"
+        y1="136"
+        x2="231.76"
+        y2="152.18"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Line
+        x1="220"
+        y1="136"
+        x2="239.02"
+        y2="129.82"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

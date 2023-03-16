@@ -32,7 +32,7 @@ const Icon = (props: IconProps) => {
         y="92"
         width="124"
         height="124"
-        rx="7.8"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

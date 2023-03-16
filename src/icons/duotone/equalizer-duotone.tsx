@@ -33,10 +33,13 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Rect x="24" y="128" width="48" height="64" opacity="0.2" />
+      <_Rect x="104" y="160" width="48" height="32" opacity="0.2" />
+      <_Rect x="184" y="96" width="48" height="96" opacity="0.2" />
       <_Line
-        x1="36"
+        x1="24"
         y1="96"
-        x2="76"
+        x2="72"
         y2="96"
         fill="none"
         stroke={`${color}`}
@@ -45,9 +48,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="36"
+        x1="104"
         y1="128"
-        x2="76"
+        x2="152"
         y2="128"
         fill="none"
         stroke={`${color}`}
@@ -56,75 +59,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="36"
-        y1="160"
-        x2="76"
-        y2="160"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Line
-        x1="36"
-        y1="192"
-        x2="76"
-        y2="192"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Line
-        x1="108"
-        y1="128"
-        x2="148"
-        y2="128"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Line
-        x1="108"
-        y1="160"
-        x2="148"
-        y2="160"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Line
-        x1="108"
-        y1="192"
-        x2="148"
-        y2="192"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Line
-        x1="180"
-        y1="96"
-        x2="220"
-        y2="96"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Line
-        x1="180"
+        x1="184"
         y1="64"
-        x2="220"
+        x2="232"
         y2="64"
         fill="none"
         stroke={`${color}`}
@@ -132,33 +69,33 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Line
-        x1="180"
-        y1="128"
-        x2="220"
-        y2="128"
+      <_Rect
+        x="24"
+        y="128"
+        width="48"
+        height="64"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Line
-        x1="180"
-        y1="160"
-        x2="220"
-        y2="160"
+      <_Rect
+        x="104"
+        y="160"
+        width="48"
+        height="32"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Line
-        x1="180"
-        y1="192"
-        x2="220"
-        y2="192"
+      <_Rect
+        x="184"
+        y="96"
+        width="48"
+        height="96"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

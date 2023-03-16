@@ -29,9 +29,9 @@ const Icon = (props: IconProps) => {
       <_Rect width="256" height="256" fill="none" />
       <_Rect
         x="40"
-        y="144"
+        y="148"
         width="176"
-        height="56"
+        height="52"
         rx="8"
         fill="none"
         stroke={`${color}`}
@@ -43,7 +43,7 @@ const Icon = (props: IconProps) => {
         x="40"
         y="56"
         width="176"
-        height="56"
+        height="52"
         rx="8"
         fill="none"
         stroke={`${color}`}

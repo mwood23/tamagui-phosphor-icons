@@ -27,11 +27,16 @@ const Icon = (props: IconProps) => {
   return (
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
-      <_Line
-        x1="96"
-        y1="68"
-        x2="96"
-        y2="48"
+      <_Path
+        d="M192,120l4.28-3.72a40,40,0,0,0-56.56-56.56L136,64"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Path
+        d="M64,136l-4.28,3.72a40,40,0,0,0,56.56,56.56L120,192"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -39,10 +44,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="160"
-        y1="208"
-        x2="160"
-        y2="188"
+        x1="188"
+        y1="160"
+        x2="208"
+        y2="160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -50,9 +55,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="68"
+        x1="48"
         y1="96"
-        x2="48"
+        x2="68"
         y2="96"
         fill="none"
         stroke={`${color}`}
@@ -61,26 +66,21 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="208"
-        y1="160"
-        x2="188"
-        y2="160"
+        x1="160"
+        y1="188"
+        x2="160"
+        y2="208"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="24"
       />
-      <_Path
-        d="M67,132.4l-7.3,7.3a40,40,0,0,0,56.6,56.6l7.3-7.3"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Path
-        d="M189,123.6l7.3-7.3a40,40,0,0,0-56.6-56.6L132.4,67"
+      <_Line
+        x1="96"
+        y1="48"
+        x2="96"
+        y2="68"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

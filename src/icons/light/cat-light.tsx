@@ -38,8 +38,6 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="12"
       />
-      <_Circle cx="84" cy="140" r="10" fill={`${color}`} />
-      <_Circle cx="172" cy="140" r="10" fill={`${color}`} />
       <_Line
         x1="128"
         y1="48"
@@ -61,7 +59,7 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="96"
-        y1="53"
+        y1="53.01"
         x2="96"
         y2="88"
         fill="none"
@@ -72,7 +70,7 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="160"
-        y1="53"
+        y1="53.01"
         x2="160"
         y2="88"
         fill="none"
@@ -82,13 +80,15 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Path
-        d="M32,136V51.3a8,8,0,0,1,13.7-5.6L67.6,67.6h0A100.8,100.8,0,0,1,128,48a100.8,100.8,0,0,1,60.4,19.6h0l21.9-21.9A8,8,0,0,1,224,51.3V136c0,48.6-43,88-96,88S32,184.6,32,136Z"
+        d="M67.6,67.6h0a102.87,102.87,0,0,1,120.8,0h0l21.94-25.24A8,8,0,0,1,224,48v88c0,48.6-43,88-96,88s-96-39.4-96-88V48a8,8,0,0,1,13.66-5.66Z"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="12"
       />
+      <_Circle cx="84" cy="140" r="10" fill={`${color}`} />
+      <_Circle cx="172" cy="140" r="10" fill={`${color}`} />
     </_Svg>
   )
 }

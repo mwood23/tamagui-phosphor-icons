@@ -38,7 +38,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Path
-        d="M104,84h48l-28,40a28,28,0,1,1-19.8,47.8"
+        d="M104,84h48l-28,40a28,28,0,1,1-20,47.6"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

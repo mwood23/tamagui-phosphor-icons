@@ -38,7 +38,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polygon
-        points="145 145 167.4 88.5 111 111 88.4 167.6 145 145"
+        points="168 88 112 112 88 168 144 144 168 88"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

@@ -33,6 +33,7 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Polygon points="40 56 80 96 40 136 40 56" opacity="0.2" />
       <_Line
         x1="112"
         y1="128"
@@ -66,8 +67,8 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Polyline
-        points="40 56 80 96 40 136"
+      <_Polygon
+        points="40 56 80 96 40 136 40 56"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

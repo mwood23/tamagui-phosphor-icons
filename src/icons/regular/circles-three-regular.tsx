@@ -29,8 +29,8 @@ const Icon = (props: IconProps) => {
       <_Rect width="256" height="256" fill="none" />
       <_Circle
         cx="128"
-        cy="68"
-        r="40"
+        cy="76"
+        r="36"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -40,7 +40,7 @@ const Icon = (props: IconProps) => {
       <_Circle
         cx="188"
         cy="172"
-        r="40"
+        r="36"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -50,7 +50,7 @@ const Icon = (props: IconProps) => {
       <_Circle
         cx="68"
         cy="172"
-        r="40"
+        r="36"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

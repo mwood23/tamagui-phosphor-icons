@@ -33,19 +33,19 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Path
-        d="M152,224l-44.7-67a3.9,3.9,0,0,0-6.6,0L79.8,188.4a4,4,0,0,1-6.7-.1l-9.7-15.1a4.1,4.1,0,0,0-6.8,0L24,224Z"
+      <_Polygon
+        points="152 224 104 152 76.36 193.46 60 168 24 224 152 224"
         opacity="0.2"
       />
-      <_Polygon points="152 32 152 88 208 88 152 32" opacity="0.2" />
-      <_Path
-        d="M152,224l-44.7-67a3.9,3.9,0,0,0-6.6,0L79.8,188.4a4,4,0,0,1-6.7-.1l-9.7-15.1a4.1,4.1,0,0,0-6.8,0L24,224Z"
+      <_Polygon
+        points="152 224 104 152 76.36 193.46 60 168 24 224 152 224"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
+      <_Polygon points="152 32 152 88 208 88 152 32" opacity="0.2" />
       <_Polyline
         points="152 32 152 88 208 88"
         fill="none"

@@ -33,23 +33,13 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Polygon points="68 32 68 164 134 164 68 32" opacity="0.2" />
-      <_Line
-        x1="68"
-        y1="32"
-        x2="134"
-        y2="164"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
+      <_Path d="M136,160h8a64,64,0,0,0,0-128h-8Z" opacity="0.2" />
+      <_Polygon points="136 160 64 160 64 32 136 160" opacity="0.2" />
       <_Rect
-        x="68"
+        x="64"
         y="32"
-        width="66"
-        height="132"
+        width="72"
+        height="128"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -57,7 +47,18 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M134,164v66a65.9,65.9,0,0,1-66-66"
+        d="M136,160v72a72,72,0,0,1-72-72"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Line
+        x1="64"
+        y1="32"
+        x2="136"
+        y2="160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -65,14 +66,13 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M134,164h8a66,66,0,0,0,0-132h-8"
+        d="M136,160h8a64,64,0,0,0,0-128h-8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Path d="M134,164h8a66,66,0,0,0,0-132h-8Z" opacity="0.2" />
     </_Svg>
   )
 }

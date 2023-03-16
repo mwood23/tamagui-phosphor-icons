@@ -33,12 +33,13 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Path
-        d="M24,60H152a32,32,0,0,1,32,32v96a8,8,0,0,1-8,8H48a32,32,0,0,1-32-32V68A8,8,0,0,1,24,60Z"
-        opacity="0.2"
-      />
-      <_Path
-        d="M24,60H152a32,32,0,0,1,32,32v96a8,8,0,0,1-8,8H48a32,32,0,0,1-32-32V68A8,8,0,0,1,24,60Z"
+      <_Rect x="24" y="64" width="176" height="128" rx="8" opacity="0.2" />
+      <_Rect
+        x="24"
+        y="64"
+        width="176"
+        height="128"
+        rx="8"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -46,7 +47,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Polyline
-        points="184 112 240 80 240 176 184 144"
+        points="200 112 248 80 248 176 200 144"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

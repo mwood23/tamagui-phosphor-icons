@@ -33,7 +33,16 @@ const Icon = (props: IconProps) => {
         r="96"
         fill="none"
         stroke={`${color}`}
-        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Path
+        d="M88,128c0,37.46,13.33,70.92,34.28,93.49a7.77,7.77,0,0,0,11.44,0C154.67,198.92,168,165.46,168,128s-13.33-70.92-34.28-93.49a7.77,7.77,0,0,0-11.44,0C101.33,57.08,88,90.54,88,128Z"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
         strokeWidth="16"
       />
       <_Line
@@ -45,16 +54,6 @@ const Icon = (props: IconProps) => {
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Ellipse
-        cx="128"
-        cy="128"
-        rx="40"
-        ry="93.4"
-        fill="none"
-        stroke={`${color}`}
-        strokeMiterlimit="10"
         strokeWidth="16"
       />
     </_Svg>

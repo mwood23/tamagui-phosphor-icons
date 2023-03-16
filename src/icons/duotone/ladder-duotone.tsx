@@ -33,6 +33,10 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Polygon
+        points="124.36 160 187.64 160 156 73 124.36 160"
+        opacity="0.2"
+      />
       <_Line
         x1="184"
         y1="40"
@@ -67,9 +71,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="69.1"
+        x1="69.09"
         y1="136"
-        x2="133.1"
+        x2="133.09"
         y2="136"
         fill="none"
         stroke={`${color}`}
@@ -78,9 +82,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="86.5"
+        x1="86.55"
         y1="88"
-        x2="150.5"
+        x2="150.55"
         y2="88"
         fill="none"
         stroke={`${color}`}
@@ -89,9 +93,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="51.6"
+        x1="51.64"
         y1="184"
-        x2="115.6"
+        x2="115.64"
         y2="184"
         fill="none"
         stroke={`${color}`}
@@ -111,9 +115,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="124.4"
+        x1="124.36"
         y1="160"
-        x2="187.6"
+        x2="187.64"
         y2="160"
         fill="none"
         stroke={`${color}`}

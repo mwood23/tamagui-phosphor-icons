@@ -34,7 +34,7 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Path
-        d="M208,119.3V184a32,32,0,0,1-32,32H80a32,32,0,0,1-32-32V119.3L104,48h48Z"
+        d="M104,48h48l56,72.38V184a32,32,0,0,1-32,32H80a32,32,0,0,1-32-32V120.38Z"
         opacity="0.2"
       />
       <_Line
@@ -48,26 +48,8 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="16"
       />
-      <_Circle cx="92" cy="140" r="12" fill={`${color}`} />
-      <_Circle cx="164" cy="140" r="12" fill={`${color}`} />
       <_Polyline
         points="144 176 128 192 112 176"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M152,48l55.8-13.9a8,8,0,0,1,9.8,6.2L234,127.9c1.5,8.2-9,13-14.2,6.4Z"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M104,48,48.2,34.1a8,8,0,0,0-9.8,6.2L22,127.9c-1.5,8.2,9,13,14.2,6.4Z"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -86,7 +68,25 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M208,119.3V184a32,32,0,0,1-32,32H80a32,32,0,0,1-32-32V119.3"
+        d="M104,48,50.37,32.24a8,8,0,0,0-9.8,6.29l-16.42,88c-1.54,8.23,9,13,14.16,6.42Z"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Path
+        d="M152,48l53.63-15.76a8,8,0,0,1,9.8,6.29l16.42,88c1.54,8.23-9,13-14.16,6.42Z"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Circle cx="92" cy="140" r="12" fill={`${color}`} />
+      <_Circle cx="164" cy="140" r="12" fill={`${color}`} />
+      <_Path
+        d="M208,120.38V184a32,32,0,0,1-32,32H80a32,32,0,0,1-32-32V120.38"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

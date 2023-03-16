@@ -40,19 +40,19 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="12"
       />
-      <_Polyline
-        points="134.1 94.1 168 128 134.1 161.9"
+      <_Line
+        x1="88"
+        y1="128"
+        x2="168"
+        y2="128"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="12"
       />
-      <_Line
-        x1="88"
-        y1="128"
-        x2="168"
-        y2="128"
+      <_Polyline
+        points="136 96 168 128 136 160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

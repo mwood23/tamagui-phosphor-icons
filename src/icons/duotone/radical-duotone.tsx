@@ -33,6 +33,10 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Path
+        d="M24,72H232a0,0,0,0,1,0,0V192a8,8,0,0,1-8,8H32a8,8,0,0,1-8-8V72A0,0,0,0,1,24,72Z"
+        opacity="0.2"
+      />
       <_Polyline
         points="232 96 232 72 120 72 72 200 24 72"
         fill="none"

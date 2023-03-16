@@ -28,15 +28,7 @@ const Icon = (props: IconProps) => {
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
       <_Path
-        d="M224,177.3V78.7a8.1,8.1,0,0,0-4.1-7l-88-49.5a7.8,7.8,0,0,0-7.8,0l-88,49.5a8.1,8.1,0,0,0-4.1,7v98.6a8.1,8.1,0,0,0,4.1,7l88,49.5a7.8,7.8,0,0,0,7.8,0l88-49.5A8.1,8.1,0,0,0,224,177.3Z"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
-      />
-      <_Polyline
-        points="222.9 74.6 128.9 128 33.1 74.6"
+        d="M131.84,25l88,48.18a8,8,0,0,1,4.16,7v95.64a8,8,0,0,1-4.16,7l-88,48.18a8,8,0,0,1-7.68,0l-88-48.18a8,8,0,0,1-4.16-7V80.18a8,8,0,0,1,4.16-7l88-48.18A8,8,0,0,1,131.84,25Z"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -44,10 +36,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="128.9"
+        x1="128"
         y1="128"
         x2="128"
-        y2="234.8"
+        y2="232"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -55,7 +47,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polyline
-        points="177 47.5 128 75.1 79 47.5"
+        points="32.03 125.73 80 152 80 206.84"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -63,7 +55,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polyline
-        points="176 209 176 153.9 224 126.9"
+        points="224 125.72 176 152 176 206.84"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -71,7 +63,15 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polyline
-        points="80 209 80 153.9 32 126.9"
+        points="83.14 47.44 128 72 172.86 47.44"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="24"
+      />
+      <_Polyline
+        points="33.14 76.06 128 128 222.86 76.06"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

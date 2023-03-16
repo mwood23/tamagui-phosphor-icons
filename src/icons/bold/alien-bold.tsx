@@ -35,19 +35,19 @@ const Icon = (props: IconProps) => {
         strokeLinejoin="round"
         strokeWidth="24"
       />
-      <_Path
-        d="M104,140a24.1,24.1,0,0,1-24-24v-4a24.1,24.1,0,0,1,24,24Z"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
+      <_Ellipse
+        cx="92"
+        cy="124"
+        rx="16.97"
+        ry="29.39"
+        transform="translate(-60.74 101.37) rotate(-45)"
       />
-      <_Path
-        d="M152,140v-4a24.1,24.1,0,0,1,24-24v4a24.1,24.1,0,0,1-24,24Z"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="24"
+      <_Ellipse
+        cx="164"
+        cy="124"
+        rx="29.39"
+        ry="16.97"
+        transform="translate(-39.65 152.28) rotate(-45)"
       />
       <_Line
         x1="116"

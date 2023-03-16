@@ -34,11 +34,11 @@ const Icon = (props: IconProps) => {
     >
       <_Rect width="256" height="256" fill="none" />
       <_Path
-        d="M188,92a20.1,20.1,0,0,0-20,20V52a20,20,0,0,0-40,0V36a20,20,0,0,0-40,0V68a20,20,0,0,0-40,0v84a80,80,0,0,0,160,0V112A20.1,20.1,0,0,0,188,92Zm-14.6,80.4c-5.7,8.8-20.8,27.6-45.4,27.6s-39.7-18.8-45.4-27.6a8.2,8.2,0,0,1,0-8.8c5.7-8.8,20.8-27.6,45.4-27.6s39.7,18.8,45.4,27.6A8.2,8.2,0,0,1,173.4,172.4Z"
+        d="M188,96a20,20,0,0,0-20,20V60a20,20,0,0,0-40,0V44a20,20,0,0,0-40,0V76a20,20,0,0,0-40,0v76a80,80,0,0,0,160,0V116A20,20,0,0,0,188,96ZM128,200c-32,0-48-32-48-32s16-32,48-32,48,32,48,32S160,200,128,200Z"
         opacity="0.2"
       />
       <_Path
-        d="M88,68V36a20,20,0,0,1,40,0v68"
+        d="M88,76V44a20,20,0,0,1,40,0v60"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -46,7 +46,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M82.6,163.6a8.2,8.2,0,0,0,0,8.8c5.7,8.8,20.8,27.6,45.4,27.6s39.7-18.8,45.4-27.6a8.2,8.2,0,0,0,0-8.8c-5.7-8.8-20.8-27.6-45.4-27.6S88.3,154.8,82.6,163.6Z"
+        d="M128,60a20,20,0,0,1,40,0v60"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -54,15 +54,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M128,52a20,20,0,0,1,40,0v60"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M168,116v-4a20,20,0,0,1,40,0v40a80,80,0,0,1-160,0V68a20,20,0,0,1,40,0v44"
+        d="M168,120v-4a20,20,0,0,1,40,0v36a80,80,0,0,1-160,0V76a20,20,0,0,1,40,0v36"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -70,6 +62,14 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Circle cx="128" cy="168" r="12" fill={`${color}`} />
+      <_Path
+        d="M80,168s16-32,48-32,48,32,48,32-16,32-48,32S80,168,80,168Z"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
     </_Svg>
   )
 }

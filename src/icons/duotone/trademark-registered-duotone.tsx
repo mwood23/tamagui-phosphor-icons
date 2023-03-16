@@ -53,8 +53,8 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Line
-        x1="137.6"
-        y1="135.9"
+        x1="138.58"
+        y1="135.86"
         x2="160"
         y2="168"
         fill="none"

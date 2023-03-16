@@ -33,6 +33,7 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
+      <_Polygon points="200 48 128 136 56 48 200 48" opacity="0.2" />
       <_Line
         x1="80"
         y1="168"

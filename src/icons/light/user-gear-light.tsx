@@ -38,7 +38,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Path
-        d="M22.2,200a112,112,0,0,1,171.6,0"
+        d="M24,200c20.55-24.45,49.56-40,84-40s63.45,15.55,84,40"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -46,7 +46,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Circle
-        cx="220"
+        cx="216"
         cy="136"
         r="16"
         fill="none"
@@ -56,9 +56,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Line
-        x1="220"
+        x1="216"
         y1="120"
-        x2="220"
+        x2="216"
         y2="108"
         fill="none"
         stroke={`${color}`}
@@ -67,9 +67,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Line
-        x1="206.1"
+        x1="202.14"
         y1="128"
-        x2="195.8"
+        x2="191.75"
         y2="122"
         fill="none"
         stroke={`${color}`}
@@ -78,9 +78,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Line
-        x1="206.1"
+        x1="202.14"
         y1="144"
-        x2="195.8"
+        x2="191.75"
         y2="150"
         fill="none"
         stroke={`${color}`}
@@ -89,9 +89,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Line
-        x1="220"
+        x1="216"
         y1="152"
-        x2="220"
+        x2="216"
         y2="164"
         fill="none"
         stroke={`${color}`}
@@ -100,9 +100,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Line
-        x1="233.9"
+        x1="229.86"
         y1="144"
-        x2="244.2"
+        x2="240.25"
         y2="150"
         fill="none"
         stroke={`${color}`}
@@ -111,9 +111,9 @@ const Icon = (props: IconProps) => {
         strokeWidth="12"
       />
       <_Line
-        x1="233.9"
+        x1="229.86"
         y1="128"
-        x2="244.2"
+        x2="240.25"
         y2="122"
         fill="none"
         stroke={`${color}`}

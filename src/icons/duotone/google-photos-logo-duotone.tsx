@@ -33,10 +33,10 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Path d="M132,132V24a60,60,0,0,1,36,108Z" opacity="0.2" />
-      <_Path d="M124,124V232A60,60,0,0,1,88,124Z" opacity="0.2" />
+      <_Path d="M128,128V24a64,64,0,0,1,50,104Z" opacity="0.2" />
+      <_Path d="M128,128V232A64,64,0,0,1,78,128Z" opacity="0.2" />
       <_Path
-        d="M132,132V24a60,60,0,0,1,36,108"
+        d="M128,128V24a64,64,0,0,1,50,104"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -44,7 +44,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M132,124H24A60,60,0,0,1,132,88"
+        d="M128,128H24A64,64,0,0,1,128,78"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -52,7 +52,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M124,124V232A60,60,0,0,1,88,124"
+        d="M128,128V232A64,64,0,0,1,78,128"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -60,7 +60,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="16"
       />
       <_Path
-        d="M124,132H232a60,60,0,0,1-108,36"
+        d="M128,128H232a64,64,0,0,1-104,50"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

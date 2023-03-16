@@ -31,7 +31,7 @@ const Icon = (props: IconProps) => {
         x1="128"
         y1="232"
         x2="128"
-        y2="72"
+        y2="80"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -40,8 +40,8 @@ const Icon = (props: IconProps) => {
       />
       <_Circle
         cx="128"
-        cy="52"
-        r="20"
+        cy="56"
+        r="24"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -50,9 +50,9 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="88"
-        y1="112"
+        y1="120"
         x2="168"
-        y2="112"
+        y2="120"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

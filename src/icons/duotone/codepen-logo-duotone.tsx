@@ -33,31 +33,12 @@ const Icon = (props: IconProps) => {
       fill={`${color}`}
     >
       <_Rect width="256" height="256" fill="none" />
-      <_Path
-        d="M232,165,131.9,221.8a8.3,8.3,0,0,1-7.8,0L24,165l104-59Z"
-        opacity="0.2"
-      />
-      <_Path
-        d="M232,101,128,160,24,101,124.1,44.2a8.3,8.3,0,0,1,7.8,0Z"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
-      <_Path
-        d="M232,165,131.9,221.8a8.3,8.3,0,0,1-7.8,0L24,165l104-59Z"
-        fill="none"
-        stroke={`${color}`}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth="16"
-      />
+      <_Polygon points="24 160 128 104 232 160 128 216 24 160" opacity="0.2" />
       <_Line
         x1="232"
-        y1="101"
+        y1="96"
         x2="232"
-        y2="165"
+        y2="160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -66,9 +47,9 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="24"
-        y1="101"
+        y1="96"
         x2="24"
-        y2="165"
+        y2="160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -77,9 +58,9 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="128"
-        y1="160"
+        y1="40"
         x2="128"
-        y2="222.8"
+        y2="104"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -88,9 +69,25 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="128"
-        y1="43.2"
+        y1="152"
         x2="128"
-        y2="106"
+        y2="216"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Polygon
+        points="24 160 128 104 232 160 128 216 24 160"
+        fill="none"
+        stroke={`${color}`}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="16"
+      />
+      <_Polygon
+        points="24 96 128 40 232 96 128 152 24 96"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

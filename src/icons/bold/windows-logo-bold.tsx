@@ -28,7 +28,7 @@ const Icon = (props: IconProps) => {
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
       <_Polygon
-        points="100 108 100 61.1 40 72 40 108 100 108"
+        points="100 108 100 61.09 40 72 40 108 100 108"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -36,7 +36,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polygon
-        points="216 108 216 40 140 53.8 140 108 216 108"
+        points="216 108 216 40 140 53.82 140 108 216 108"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -44,7 +44,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polygon
-        points="100 148 100 194.9 40 184 40 148 100 148"
+        points="100 148 100 194.91 40 184 40 148 100 148"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -52,7 +52,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polygon
-        points="216 148 216 216 140 202.2 140 148 216 148"
+        points="216 148 216 216 140 202.18 140 148 216 148"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

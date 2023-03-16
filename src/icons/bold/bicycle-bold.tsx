@@ -56,7 +56,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polyline
-        points="166.7 96 102.7 96 52 160"
+        points="166.67 96 102.67 96 52 160"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -64,7 +64,7 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Polyline
-        points="52 64 84 64 128.3 140"
+        points="52 64 84 64 128.33 140"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"

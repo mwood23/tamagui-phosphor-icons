@@ -30,7 +30,7 @@ const Icon = (props: IconProps) => {
       <_Ellipse
         cx="128"
         cy="128"
-        rx="32"
+        rx="36"
         ry="48"
         fill="none"
         stroke={`${color}`}

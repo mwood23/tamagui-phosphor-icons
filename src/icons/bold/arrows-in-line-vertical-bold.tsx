@@ -28,10 +28,10 @@ const Icon = (props: IconProps) => {
     <_Svg viewBox="0 0 256 256" {...otherProps} height={size} width={size}>
       <_Rect width="256" height="256" fill="none" />
       <_Line
-        x1="216"
-        y1="128"
-        x2="40"
-        y2="128"
+        x1="128"
+        y1="16"
+        x2="128"
+        y2="88"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -39,10 +39,10 @@ const Icon = (props: IconProps) => {
         strokeWidth="24"
       />
       <_Line
-        x1="128"
-        y1="12"
-        x2="128"
-        y2="88"
+        x1="216"
+        y1="128"
+        x2="40"
+        y2="128"
         fill="none"
         stroke={`${color}`}
         strokeLinecap="round"
@@ -59,7 +59,7 @@ const Icon = (props: IconProps) => {
       />
       <_Line
         x1="128"
-        y1="244"
+        y1="240"
         x2="128"
         y2="168"
         fill="none"
